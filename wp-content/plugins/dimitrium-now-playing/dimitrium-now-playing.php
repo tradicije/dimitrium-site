@@ -405,7 +405,7 @@ function dimitrium_now_playing_enqueue_assets() {
 		return;
 	}
 
-	$version = '0.2.60.133.4';
+	$version = '0.2.60.133.5';
 	$base    = plugin_dir_url( __FILE__ );
 
 	wp_enqueue_style(
