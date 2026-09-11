@@ -33,11 +33,37 @@ body.error404 .dimitrium-404-hero > * {
 	z-index: 1;
 }
 
+/* Match the deliberate expansion used by the desktop primary navigation. */
+body.error404 .dimitrium-404-hero > .wp-block-columns > .wp-block-column:first-child > .wp-block-group a {
+	display: inline-block;
+	transform: scaleX(1);
+	transform-origin: left center;
+	letter-spacing: 0.04em;
+	transition: color 0.25s ease, transform 0.25s ease, letter-spacing 0.3s ease;
+}
+
+body.error404 .dimitrium-404-hero > .wp-block-columns > .wp-block-column:first-child > .wp-block-group a:hover,
+body.error404 .dimitrium-404-hero > .wp-block-columns > .wp-block-column:first-child > .wp-block-group a:focus-visible {
+	color: #f7f8f8;
+	transform: scaleX(1.14);
+	letter-spacing: 0.09em;
+}
+
 @media (min-width: 900px) {
 	body.error404 .dimitrium-404-hero::before {
 		background-image:
 			linear-gradient(rgba(8, 9, 10, 0.74), rgba(8, 9, 10, 0.74)),
 			url("https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-09_56_45-AM-1536x864.webp");
+	}
+}
+
+@media (max-width: 781px) {
+	body.error404 .dimitrium-404-hero > .wp-block-columns > .wp-block-column:first-child {
+		order: 2;
+	}
+
+	body.error404 .dimitrium-404-hero > .wp-block-columns > .wp-block-column:last-child {
+		order: 1;
 	}
 }
 
