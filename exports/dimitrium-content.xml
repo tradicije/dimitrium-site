@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1" created="2026-09-11 05:49" -->
+	<!-- generator="WordPress/7.1" created="2026-09-11 08:04" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Dimitrium</title>
 	<link>https://dimitrium.org</link>
 	<description></description>
-	<pubDate>Fri, 11 Sep 2026 05:49:53 +0000</pubDate>
+	<pubDate>Fri, 11 Sep 2026 08:04:26 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://dimitrium.org</wp:base_site_url>
@@ -2546,375 +2546,6 @@ body.page-id-465 .dimipedia-hero .wp-block-cover__image-background {
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Dimitrium Records]]></title>
-		<link>https://dimitrium.org/en/dimipedia/dimitrium-records/</link>
-		<pubDate>Tue, 08 Sep 2026 12:35:01 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimipedia_entry&#038;p=488</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><strong>Dimitrium Records</strong> is an independent record label based in Požarevac, Serbia. Founded in 2026 by <strong><a href="https://dimitrium.org/en/dimipedia/aleksa-dimitrijevic">Aleksa Dimitrijević</a></strong>, the label is associated with independently produced electronic music and with the early recording activities of <strong><a href="https://dimitrium.org/en/dimipedia/alex-dietrich/">Alex Dietrich</a></strong>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Its early public activity became closely associated with the development of Dietrich's debut album <em><a href="https://dimitrium.org/en/musique/unendlich/"><strong>Unendlich</strong></a></em>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph --><p>Dietrich also insisted that <strong><a href="https://dimitrium.org/en/dimipedia/nala-the-cat/">Nala the cat</a></strong> be signed alongside him. The label accepted the request, formally adding the album's credited co-producer to its early roster.</p><!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">History</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Dimitrium Records was established in 2026 as an independent home for original electronic music. At the time of its formation, the label had little documented commercial infrastructure and a very small public catalogue.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Its early activity focused on material informed by French house, French Touch, ambient electronic music and downtempo.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Alex Dietrich</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>In 2026, Dimitrium Records signed Alex Dietrich as one of its earliest known recording artists. At the time, Dietrich had little established commercial presence and no significant catalogue of commercially released music. The decision was therefore regarded internally as an unusually strong commitment to an unproven artist.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Dietrich's debut album <em>Unendlich</em> became the project most closely associated with the label. The record consists of four electronic compositions developed with house-oriented rhythms, atmospheric sound design, environmental recordings and French Touch influences.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Operations</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Dimitrium Records supports the release and presentation of Alex Dietrich's original electronic music, including material released under the <em>Unendlich</em> project. Dietrich is the project's recording artist and producer.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>The exact professional relationship between Dietrich, the label and its founder has never been formally clarified by the parties involved.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Reputation</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>The signing of Dietrich was later described in Dimitrium Records' own historical documentation as a key moment in the decline of the label. No formal explanation for this assessment has been published.</p>
-<!-- /wp:paragraph -->
-
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>488</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-08 12:35:01]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-08 12:35:01]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-08 12:45:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-08 12:45:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[dimitrium-records]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[dimipedia_entry]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[EN]]></category>
-		<category domain="dimipedia_category" nicename="music-en"><![CDATA[Music]]></category>
-		<category domain="dimipedia_category" nicename="organizations-en"><![CDATA[Organizations]]></category>
-		<category domain="post_translations" nicename="pll_6aa00108f1f29"><![CDATA[pll_6aa00108f1f29]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[489]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_years_active]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026–present]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://dimitrium.org/en/dimitrium-records]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_additional_facts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Founded | 2026
-Founder | Aleksa Dimitrijević
-Headquarters | Požarevac, Serbia
-Genre | Electronic music]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Dimitrium Records | Dimitrium]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Dimitrium Records is an independent Požarevac record label founded in 2026 and associated with Alex Dietrich and Unendlich.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/Dimitrium-Records-Logo.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_schema_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Organization]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_schema_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://dimitrium.org/#dimitrium-records]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Dimitrium Records]]></title>
-		<link>https://dimitrium.org/sr/dimipedia/dimitrium-records/</link>
-		<pubDate>Tue, 08 Sep 2026 12:35:20 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimipedia_entry&#038;p=491</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph -->
-<p><strong>Dimitrium Records</strong> je nezavisna izdavačka kuća iz Požarevca u Srbiji. Osnovao ju je <strong><a href="https://dimitrium.org/sr/dimipedia/aleksa-dimitrijevic">Aleksa Dimitrijević</a></strong> 2026. godine, a povezana je sa samostalno produciranom elektronskom muzikom i ranim snimateljskim aktivnostima <strong><a href="https://dimitrium.org/sr/dimipedia/alex-dietrich/">Alex Dietricha</a></strong>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Rana javna aktivnost izdavačke kuće postala je usko povezana sa razvojem Dietrichovog debitantskog albuma <em><a href="https://dimitrium.org/sr/muzika/unendlich/"><strong>Unendlich</strong></a></em>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph --><p>Dietrich je takođe insistirao da i <strong><a href="https://dimitrium.org/sr/dimipedia/macka-nala/">Mačka Nala</a></strong> potpiše zajedno sa njim. Izdavačka kuća je prihvatila zahtev i time formalno dodala koproducentkinju potpisanu na albumu svom ranom rosteru.</p><!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Istorija</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Dimitrium Records je osnovan 2026. godine kao nezavisni dom za originalnu elektronsku muziku. U trenutku osnivanja, kuća je imala malo dokumentovane komercijalne infrastrukture i veoma mali javni katalog.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Njene rane aktivnosti bile su usmerene na materijal pod uticajem francuskog hausa, French Toucha, ambijentalne elektronike i downtempa.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Alex Dietrich</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Dimitrium Records je 2026. godine potpisao Alex Dietricha kao jednog od svojih prvih poznatih izvođača. U tom trenutku, Dietrich je imao malo izgrađenog komercijalnog prisustva i nije posedovao značajan katalog komercijalno objavljene muzike. Odluka je zato interno smatrana neuobičajeno snažnom posvećenošću neproverenom izvođaču.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Dietrichov debitantski album <em>Unendlich</em> postao je projekat koji se najviše povezuje sa izdavačkom kućom. Album se sastoji od četiri elektronske kompozicije razvijane uz haus ritmove, atmosferski dizajn zvuka, ambijentalne snimke i French Touch uticaje.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Rad</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Dimitrium Records podržava objavljivanje i predstavljanje originalne elektronske muzike Alex Dietricha, uključujući materijal objavljen u okviru projekta <em>Unendlich</em>. Dietrich je izvođač i producent projekta.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph -->
-<p>Tačan profesionalni odnos između Dietricha, izdavačke kuće i njenog osnivača nikada nije formalno razjašnjen od uključenih strana.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Ugled</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph -->
-<p>Potpisivanje Dietricha kasnije je u sopstvenoj istorijskoj dokumentaciji Dimitrium Recordsa opisano kao ključni trenutak u propadanju izdavačke kuće. Formalno objašnjenje za takvu procenu nije objavljeno.</p>
-<!-- /wp:paragraph -->
-
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>491</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-08 12:35:20]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-08 12:35:20]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-08 12:45:48]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-08 12:45:48]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[dimitrium-records]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[dimipedia_entry]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="dimipedia_category" nicename="music-sr"><![CDATA[Muzika]]></category>
-		<category domain="dimipedia_category" nicename="organizations-sr"><![CDATA[Organizacije]]></category>
-		<category domain="post_translations" nicename="pll_6aa00108f1f29"><![CDATA[pll_6aa00108f1f29]]></category>
-		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[489]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_years_active]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026–danas]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_website]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://dimitrium.org/sr/dimitrium-records]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_additional_facts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Osnovan | 2026
-Osnivač | Aleksa Dimitrijević
-Sedište | Požarevac, Srbija
-Žanr | Elektronska muzika]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Dimitrium Records | Dimitrium]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Dimitrium Records je nezavisna izdavačka kuća iz Požarevca, osnovana 2026. i povezana sa Alex Dietrichom i albumom Unendlich.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/Dimitrium-Records-Logo.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_image_caption]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Logo u upotrebi od 2026. godine]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_schema_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Organization]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_schema_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://dimitrium.org/#dimitrium-records]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Nala the cat]]></title>
-		<link>https://dimitrium.org/en/dimipedia/nala-the-cat/</link>
-		<pubDate>Tue, 08 Sep 2026 12:56:32 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimipedia_entry&#038;p=493</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><strong>Nala the cat</strong>, commonly known as <strong>Nala</strong>, is a domestic cat and the companion of <a href="https://dimitrium.org/en/dimipedia/aleksa-dimitrijevic/">Aleksa Dimitrijević</a>. She is credited as a co-producer on <em>Unendlich</em> (2026), the debut album by <strong><a href="https://dimitrium.org/en/dimipedia/alex-dietrich/">Alex Dietrich</a></strong>, and is one of the earliest artists signed to <strong><a href="https://dimitrium.org/en/dimipedia/dimitrium-records/">Dimitrium Records</a></strong>.</p>
-
-<p>Nala is known for her calm presence during work on music and software. She is frequently found sleeping in elevated places and has been documented sitting with Dimitrijević while he writes code, produces music or works at a computer.</p>
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Life and personality</h2>
-<!-- /wp:heading -->
-
-<p>In 2026, Nala was described as being approximately five years old, although her exact date of birth has not been documented. She is regarded as affectionate and gentle, and is particularly associated with sleeping in high places, including the top of a wardrobe.</p>
-
-<p>Her preferred working arrangement involves sitting on a lap while work is in progress. This requires the person beneath her to remain almost completely still so as not to disturb her sleep.</p>
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Music career</h2>
-<!-- /wp:heading -->
-
-<p>Nala is credited as a co-producer on <em>Unendlich</em>, the 2026 debut album by <strong><a href="https://dimitrium.org/en/dimipedia/alex-dietrich/">Alex Dietrich</a></strong>. Her precise musical contribution has not been formally documented; contemporary accounts instead record her presence near computers, production equipment and Dietrich during the album's creation.</p>
-
-<p>Her sole known public comment on the album is “Meow”, later used as a testimonial for the release. She also appears in artwork connected with the project, including material credited to Alex Dietrich &amp; Nala the cat.</p>
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Dimitrium Records</h2>
-<!-- /wp:heading -->
-
-<p>When <strong><a href="https://dimitrium.org/en/dimipedia/alex-dietrich/">Alex Dietrich</a></strong> signed with <strong><a href="https://dimitrium.org/en/dimipedia/dimitrium-records/">Dimitrium Records</a></strong> in 2026, he insisted that Nala be signed alongside him. The label accepted the request, making her one of its earliest signed artists despite the absence of documented experience in recording, production or contract negotiation.</p>
-
-<p>The decision formalized Nala's association with Dietrich's work and with the label. Her image is distributed separately under the Nala Open Image Repository (NOIR) license.</p>
-
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:clamp(1.25rem, 1.25rem + ((1vw - 0.2rem) * 1.705), 2rem);font-style:italic;font-weight:900;line-height:1.5">Things Nala cannot be or do</h2>
-<p>For all nine of her lives, Nala still has a few genuinely heartbreaking limitations. They are not failures of character; they are simply the cruel boundaries of being a cat.</p>
-<ul>
-<li>She cannot produce a song in place of <a href="https://dimitrium.org/en/dimipedia/alex-dietrich/">Alex Dietrich</a>. She can sit on the keyboard during a session, but this has never resulted in a finished arrangement.</li>
-<li>She cannot explain the Pythagorean theorem, even when presented with a very convincing triangle of treats.</li>
-<li>She cannot be a dog. No collar, heroic pose or enthusiastic tail-adjacent movement can change this.</li>
-<li>She cannot send a professional email to <a href="https://dimitrium.org/en/dimipedia/dimitrium-records/">Dimitrium Records</a>; her most reliable written contribution remains a row of accidental letters.</li>
-<li>She cannot perform a server restore, read a monitoring alert, or distinguish an SSH key from the warmest spot on a laptop.</li>
-<li>She cannot understand why a closed door exists when she would prefer it to be open.</li>
-<li>She cannot promise not to shed fur exactly where it will be noticed most.</li>
-</ul>
-<p>These limitations have not prevented Nala from becoming an important presence in the household, the label’s mythology and the long-running struggle between workspaces and cat naps.</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>493</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-08 12:56:32]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-08 12:56:32]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-08 21:21:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-08 21:21:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[nala-the-cat]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[dimipedia_entry]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[EN]]></category>
-		<category domain="dimipedia_category" nicename="nala-en"><![CDATA[Nala]]></category>
-		<category domain="post_translations" nicename="pll_6aa0060a06a61"><![CDATA[pll_6aa0060a06a61]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[494]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_also_known_as]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Nala]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_occupation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Co-producer]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_organization]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Dimitrium Records]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_years_active]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026–present]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_additional_facts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Species | Domestic cat
-Known for | Unendlich]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Nala the cat | Dimitrium]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Nala the cat is Aleksa Dimitrijević’s cat and a credited co-producer on Alex Dietrich’s 2026 album Unendlich.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-02_54_33-PM-e1788872132642.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_schema_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Thing]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_schema_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://dimitrium.org/#nala]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[ChatGPT Image Sep 8, 2026, 10_34_59 PM]]></title>
 		<link>https://dimitrium.org/en/dimipedia/chatgpt-image-sep-8-2026-10_34_59-pm/</link>
 		<pubDate>Tue, 08 Sep 2026 20:35:12 +0000</pubDate>
@@ -3381,31 +3012,104 @@ Known for | Unendlich]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Unendlich is taking shape]]></title>
-		<link>https://dimitrium.org/en/news/unendlich-is-taking-shape/</link>
-		<pubDate>Sun, 06 Sep 2026 19:08:45 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/news/unendlich-is-taking-shape/</guid>
+		<title><![CDATA[ChatGPT Image Sep 11, 2026, 09_52_13 AM]]></title>
+		<link>https://dimitrium.org/?attachment_id=629</link>
+		<pubDate>Fri, 11 Sep 2026 07:52:19 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-09_52_13-AM.png</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph --><p>The album is still growing, changing and finding its final sound. More tracks and refinements are on the way.</p><!-- /wp:paragraph -->]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>291</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-06 19:08:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-06 19:08:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-06 19:08:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-06 19:08:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:post_id>629</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-11 07:52:19]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-11 07:52:19]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-11 07:52:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-11 07:52:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[unendlich-is-taking-shape]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_name><![CDATA[chatgpt-image-sep-11-2026-09_52_13-am]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>628</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[dimitrium_news]]></wp:post_type>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[EN]]></category>
-		<category domain="post_translations" nicename="pll_6a9dbc1e7f3d3"><![CDATA[pll_6a9dbc1e7f3d3]]></category>
-						</item>
+						<wp:attachment_url><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-09_52_13-AM.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/ChatGPT-Image-Sep-11-2026-09_52_13-AM.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1086;s:6:"height";i:1448;s:4:"file";s:49:"2026/09/ChatGPT-Image-Sep-11-2026-09_52_13-AM.png";s:8:"filesize";i:2031774;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:49:"ChatGPT-Image-Sep-11-2026-09_52_13-AM-225x300.png";s:5:"width";i:225;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:102788;}s:5:"large";a:5:{s:4:"file";s:50:"ChatGPT-Image-Sep-11-2026-09_52_13-AM-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:923981;}s:9:"thumbnail";a:5:{s:4:"file";s:49:"ChatGPT-Image-Sep-11-2026-09_52_13-AM-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:38140;}s:12:"medium_large";a:5:{s:4:"file";s:50:"ChatGPT-Image-Sep-11-2026-09_52_13-AM-768x1024.png";s:5:"width";i:768;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:923981;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[ChatGPT Image Sep 11, 2026, 09_52_13 AM]]></title>
+		<link>https://dimitrium.org/?attachment_id=635</link>
+		<pubDate>Fri, 11 Sep 2026 07:55:24 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-09_52_13-AM-edited.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>635</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-11 07:55:24]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-11 07:55:24]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-11 07:55:24]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-11 07:55:24]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[chatgpt-image-sep-11-2026-09_52_13-am-2]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>628</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-09_52_13-AM-edited.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/ChatGPT-Image-Sep-11-2026-09_52_13-AM-edited.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1086;s:6:"height";i:1086;s:4:"file";s:56:"2026/09/ChatGPT-Image-Sep-11-2026-09_52_13-AM-edited.png";s:8:"filesize";i:2589870;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:56:"ChatGPT-Image-Sep-11-2026-09_52_13-AM-edited-300x300.png";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:129822;}s:5:"large";a:5:{s:4:"file";s:58:"ChatGPT-Image-Sep-11-2026-09_52_13-AM-edited-1024x1024.png";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1171832;}s:9:"thumbnail";a:5:{s:4:"file";s:56:"ChatGPT-Image-Sep-11-2026-09_52_13-AM-edited-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:37066;}s:12:"medium_large";a:5:{s:4:"file";s:56:"ChatGPT-Image-Sep-11-2026-09_52_13-AM-edited-768x768.png";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:699163;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:12:"parent_image";a:2:{s:13:"attachment_id";s:3:"629";s:4:"file";s:49:"2026/09/ChatGPT-Image-Sep-11-2026-09_52_13-AM.png";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[ChatGPT Image Sep 11, 2026, 09_56_45 AM]]></title>
+		<link>https://dimitrium.org/chatgpt-image-sep-11-2026-09_56_45-am/</link>
+		<pubDate>Fri, 11 Sep 2026 07:57:04 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-09_56_45-AM.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>637</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-11 07:57:04]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-11 07:57:04]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-11 07:57:04]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-11 07:57:04]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[chatgpt-image-sep-11-2026-09_56_45-am]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-09_56_45-AM.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/ChatGPT-Image-Sep-11-2026-09_56_45-AM.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1672;s:6:"height";i:940;s:4:"file";s:49:"2026/09/ChatGPT-Image-Sep-11-2026-09_56_45-AM.png";s:8:"filesize";i:2134431;s:5:"sizes";a:5:{s:6:"medium";a:5:{s:4:"file";s:49:"ChatGPT-Image-Sep-11-2026-09_56_45-AM-300x169.png";s:5:"width";i:300;s:6:"height";i:169;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:81099;}s:5:"large";a:5:{s:4:"file";s:50:"ChatGPT-Image-Sep-11-2026-09_56_45-AM-1024x576.png";s:5:"width";i:1024;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:739845;}s:9:"thumbnail";a:5:{s:4:"file";s:49:"ChatGPT-Image-Sep-11-2026-09_56_45-AM-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:34366;}s:12:"medium_large";a:5:{s:4:"file";s:49:"ChatGPT-Image-Sep-11-2026-09_56_45-AM-768x432.png";s:5:"width";i:768;s:6:"height";i:432;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:440454;}s:9:"1536x1536";a:5:{s:4:"file";s:50:"ChatGPT-Image-Sep-11-2026-09_56_45-AM-1536x864.png";s:5:"width";i:1536;s:6:"height";i:864;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:1554144;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Flüstern just got longer]]></title>
 		<link>https://dimitrium.org/en/news/flustern-just-got-longer/</link>
@@ -3535,32 +3239,6 @@ Known for | Unendlich]]></wp:meta_value>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="language" nicename="en"><![CDATA[EN]]></category>
 		<category domain="post_translations" nicename="pll_6a9dbc1ec0416"><![CDATA[pll_6a9dbc1ec0416]]></category>
-						</item>
-					<item>
-		<title><![CDATA[Unendlich dobija svoj oblik]]></title>
-		<link>https://dimitrium.org/sr/news/unendlich-dobija-svoj-oblik/</link>
-		<pubDate>Sun, 06 Sep 2026 19:08:45 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/news/unendlich-dobija-svoj-oblik/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:paragraph --><p>Album i dalje raste, menja se i pronalazi svoj konačni zvuk. Stiže još pesama i dodatnog doterivanja.</p><!-- /wp:paragraph -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>301</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-06 19:08:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-06 19:08:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-06 19:08:45]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-06 19:08:45]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[unendlich-dobija-svoj-oblik]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[dimitrium_news]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_translations" nicename="pll_6a9dbc1e7f3d3"><![CDATA[pll_6a9dbc1e7f3d3]]></category>
-		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
 						</item>
 					<item>
 		<title><![CDATA[Flüstern je upravo postao duži]]></title>
@@ -3693,37 +3371,372 @@ Known for | Unendlich]]></wp:meta_value>
 		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
 						</item>
 					<item>
-		<title><![CDATA[Dimipedia &amp; Dimimedia could be entering the early development stage.]]></title>
-		<link>https://dimitrium.org/en/news/dimipedia-dimimedia-could-be-entering-the-early-development-stage/</link>
-		<pubDate>Mon, 07 Sep 2026 08:29:21 +0000</pubDate>
+		<title><![CDATA[Dimitrium Records]]></title>
+		<link>https://dimitrium.org/en/dimipedia/dimitrium-records/</link>
+		<pubDate>Tue, 08 Sep 2026 12:35:01 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimitrium_news&#038;p=404</guid>
+		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimipedia_entry&#038;p=488</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>Dimitrium Records</strong> is an independent record label based in Požarevac, Serbia. Founded in 2026 by <strong><a href="https://dimitrium.org/en/dimipedia/aleksa-dimitrijevic">Aleksa Dimitrijević</a></strong>, the label is associated with independently produced electronic music and with the early recording activities of <strong><a href="https://dimitrium.org/en/dimipedia/alex-dietrich/">Alex Dietrich</a></strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Its early public activity became closely associated with the development of Dietrich's debut album <em><a href="https://dimitrium.org/en/musique/unendlich/"><strong>Unendlich</strong></a></em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>Dietrich also insisted that <strong><a href="https://dimitrium.org/en/dimipedia/nala-the-cat/">Nala the cat</a></strong> be signed alongside him. The label accepted the request, formally adding the album's credited co-producer to its early roster.</p><!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">History</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dimitrium Records was established in 2026 as an independent home for original electronic music. At the time of its formation, the label had little documented commercial infrastructure and a very small public catalogue.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Its early activity focused on material informed by French house, French Touch, ambient electronic music and downtempo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Alex Dietrich</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>In 2026, Dimitrium Records signed Alex Dietrich as one of its earliest known recording artists. At the time, Dietrich had little established commercial presence and no significant catalogue of commercially released music. The decision was therefore regarded internally as an unusually strong commitment to an unproven artist.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dietrich's debut album <em>Unendlich</em> became the project most closely associated with the label. The record consists of four electronic compositions developed with house-oriented rhythms, atmospheric sound design, environmental recordings and French Touch influences.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Operations</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dimitrium Records supports the release and presentation of Alex Dietrich's original electronic music, including material released under the <em>Unendlich</em> project. Dietrich is the project's recording artist and producer.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>The exact professional relationship between Dietrich, the label and its founder has never been formally clarified by the parties involved.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Reputation</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>The signing of Dietrich was later described in Dimitrium Records' own historical documentation as a key moment in the decline of the label. No formal explanation for this assessment has been published.</p>
+<!-- /wp:paragraph -->
+
+]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>404</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-07 08:29:21]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-07 08:29:21]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-07 08:29:21]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-07 08:29:21]]></wp:post_modified_gmt>
+		<wp:post_id>488</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-08 12:35:01]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-08 12:35:01]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-08 12:45:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-08 12:45:48]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[dimipedia-dimimedia-could-be-entering-the-early-development-stage]]></wp:post_name>
+		<wp:post_name><![CDATA[dimitrium-records]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[dimitrium_news]]></wp:post_type>
+		<wp:post_type><![CDATA[dimipedia_entry]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
 										<category domain="language" nicename="en"><![CDATA[EN]]></category>
-		<category domain="post_translations" nicename="pll_6a9e776faaf37"><![CDATA[pll_6a9e776faaf37]]></category>
+		<category domain="dimipedia_category" nicename="music-en"><![CDATA[Music]]></category>
+		<category domain="dimipedia_category" nicename="organizations-en"><![CDATA[Organizations]]></category>
+		<category domain="post_translations" nicename="pll_6aa00108f1f29"><![CDATA[pll_6aa00108f1f29]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[489]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_years_active]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026–present]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://dimitrium.org/en/dimitrium-records]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_additional_facts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Founded | 2026
+Founder | Aleksa Dimitrijević
+Headquarters | Požarevac, Serbia
+Genre | Electronic music]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Dimitrium Records | Dimitrium]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Dimipedia and Dimimedia could soon enter early development. Follow Dimitrium for updates on these two upcoming projects.]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Dimitrium Records is an independent Požarevac record label founded in 2026 and associated with Alex Dietrich and Unendlich.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/Dimitrium-Records-Logo.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_schema_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Organization]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_schema_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://dimitrium.org/#dimitrium-records]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dimitrium Records]]></title>
+		<link>https://dimitrium.org/sr/dimipedia/dimitrium-records/</link>
+		<pubDate>Tue, 08 Sep 2026 12:35:20 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimipedia_entry&#038;p=491</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph -->
+<p><strong>Dimitrium Records</strong> je nezavisna izdavačka kuća iz Požarevca u Srbiji. Osnovao ju je <strong><a href="https://dimitrium.org/sr/dimipedia/aleksa-dimitrijevic">Aleksa Dimitrijević</a></strong> 2026. godine, a povezana je sa samostalno produciranom elektronskom muzikom i ranim snimateljskim aktivnostima <strong><a href="https://dimitrium.org/sr/dimipedia/alex-dietrich/">Alex Dietricha</a></strong>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Rana javna aktivnost izdavačke kuće postala je usko povezana sa razvojem Dietrichovog debitantskog albuma <em><a href="https://dimitrium.org/sr/muzika/unendlich/"><strong>Unendlich</strong></a></em>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph --><p>Dietrich je takođe insistirao da i <strong><a href="https://dimitrium.org/sr/dimipedia/macka-nala/">Mačka Nala</a></strong> potpiše zajedno sa njim. Izdavačka kuća je prihvatila zahtev i time formalno dodala koproducentkinju potpisanu na albumu svom ranom rosteru.</p><!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Istorija</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dimitrium Records je osnovan 2026. godine kao nezavisni dom za originalnu elektronsku muziku. U trenutku osnivanja, kuća je imala malo dokumentovane komercijalne infrastrukture i veoma mali javni katalog.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Njene rane aktivnosti bile su usmerene na materijal pod uticajem francuskog hausa, French Toucha, ambijentalne elektronike i downtempa.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Alex Dietrich</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dimitrium Records je 2026. godine potpisao Alex Dietricha kao jednog od svojih prvih poznatih izvođača. U tom trenutku, Dietrich je imao malo izgrađenog komercijalnog prisustva i nije posedovao značajan katalog komercijalno objavljene muzike. Odluka je zato interno smatrana neuobičajeno snažnom posvećenošću neproverenom izvođaču.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Dietrichov debitantski album <em>Unendlich</em> postao je projekat koji se najviše povezuje sa izdavačkom kućom. Album se sastoji od četiri elektronske kompozicije razvijane uz haus ritmove, atmosferski dizajn zvuka, ambijentalne snimke i French Touch uticaje.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Rad</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Dimitrium Records podržava objavljivanje i predstavljanje originalne elektronske muzike Alex Dietricha, uključujući materijal objavljen u okviru projekta <em>Unendlich</em>. Dietrich je izvođač i producent projekta.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph -->
+<p>Tačan profesionalni odnos između Dietricha, izdavačke kuće i njenog osnivača nikada nije formalno razjašnjen od uključenih strana.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Ugled</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph -->
+<p>Potpisivanje Dietricha kasnije je u sopstvenoj istorijskoj dokumentaciji Dimitrium Recordsa opisano kao ključni trenutak u propadanju izdavačke kuće. Formalno objašnjenje za takvu procenu nije objavljeno.</p>
+<!-- /wp:paragraph -->
+
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>491</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-08 12:35:20]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-08 12:35:20]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-08 12:45:48]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-08 12:45:48]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dimitrium-records]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[dimipedia_entry]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="dimipedia_category" nicename="music-sr"><![CDATA[Muzika]]></category>
+		<category domain="dimipedia_category" nicename="organizations-sr"><![CDATA[Organizacije]]></category>
+		<category domain="post_translations" nicename="pll_6aa00108f1f29"><![CDATA[pll_6aa00108f1f29]]></category>
+		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[489]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_years_active]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026–danas]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_website]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://dimitrium.org/sr/dimitrium-records]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_additional_facts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Osnovan | 2026
+Osnivač | Aleksa Dimitrijević
+Sedište | Požarevac, Srbija
+Žanr | Elektronska muzika]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Dimitrium Records | Dimitrium]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Dimitrium Records je nezavisna izdavačka kuća iz Požarevca, osnovana 2026. i povezana sa Alex Dietrichom i albumom Unendlich.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/Dimitrium-Records-Logo.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_image_caption]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Logo u upotrebi od 2026. godine]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_schema_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Organization]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_schema_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://dimitrium.org/#dimitrium-records]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Nala the cat]]></title>
+		<link>https://dimitrium.org/en/dimipedia/nala-the-cat/</link>
+		<pubDate>Tue, 08 Sep 2026 12:56:32 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimipedia_entry&#038;p=493</guid>
+		<description></description>
+		<content:encoded><![CDATA[<p><strong>Nala the cat</strong>, commonly known as <strong>Nala</strong>, is a domestic cat and the companion of <a href="https://dimitrium.org/en/dimipedia/aleksa-dimitrijevic/">Aleksa Dimitrijević</a>. She is credited as a co-producer on <em>Unendlich</em> (2026), the debut album by <strong><a href="https://dimitrium.org/en/dimipedia/alex-dietrich/">Alex Dietrich</a></strong>, and is one of the earliest artists signed to <strong><a href="https://dimitrium.org/en/dimipedia/dimitrium-records/">Dimitrium Records</a></strong>.</p>
+
+<p>Nala is known for her calm presence during work on music and software. She is frequently found sleeping in elevated places and has been documented sitting with Dimitrijević while he writes code, produces music or works at a computer.</p>
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Life and personality</h2>
+<!-- /wp:heading -->
+
+<p>In 2026, Nala was described as being approximately five years old, although her exact date of birth has not been documented. She is regarded as affectionate and gentle, and is particularly associated with sleeping in high places, including the top of a wardrobe.</p>
+
+<p>Her preferred working arrangement involves sitting on a lap while work is in progress. This requires the person beneath her to remain almost completely still so as not to disturb her sleep.</p>
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Music career</h2>
+<!-- /wp:heading -->
+
+<p>Nala is credited as a co-producer on <em>Unendlich</em>, the 2026 debut album by <strong><a href="https://dimitrium.org/en/dimipedia/alex-dietrich/">Alex Dietrich</a></strong>. Her precise musical contribution has not been formally documented; contemporary accounts instead record her presence near computers, production equipment and Dietrich during the album's creation.</p>
+
+<p>Her sole known public comment on the album is “Meow”, later used as a testimonial for the release. She also appears in artwork connected with the project, including material credited to Alex Dietrich &amp; Nala the cat.</p>
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Dimitrium Records</h2>
+<!-- /wp:heading -->
+
+<p>When <strong><a href="https://dimitrium.org/en/dimipedia/alex-dietrich/">Alex Dietrich</a></strong> signed with <strong><a href="https://dimitrium.org/en/dimipedia/dimitrium-records/">Dimitrium Records</a></strong> in 2026, he insisted that Nala be signed alongside him. The label accepted the request, making her one of its earliest signed artists despite the absence of documented experience in recording, production or contract negotiation.</p>
+
+<p>The decision formalized Nala's association with Dietrich's work and with the label. Her image is distributed separately under the Nala Open Image Repository (NOIR) license.</p>
+
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:clamp(1.25rem, 1.25rem + ((1vw - 0.2rem) * 1.705), 2rem);font-style:italic;font-weight:900;line-height:1.5">Things Nala cannot be or do</h2>
+<p>For all nine of her lives, Nala still has a few genuinely heartbreaking limitations. They are not failures of character; they are simply the cruel boundaries of being a cat.</p>
+<ul>
+<li>She cannot produce a song in place of <a href="https://dimitrium.org/en/dimipedia/alex-dietrich/">Alex Dietrich</a>. She can sit on the keyboard during a session, but this has never resulted in a finished arrangement.</li>
+<li>She cannot explain the Pythagorean theorem, even when presented with a very convincing triangle of treats.</li>
+<li>She cannot be a dog. No collar, heroic pose or enthusiastic tail-adjacent movement can change this.</li>
+<li>She cannot send a professional email to <a href="https://dimitrium.org/en/dimipedia/dimitrium-records/">Dimitrium Records</a>; her most reliable written contribution remains a row of accidental letters.</li>
+<li>She cannot perform a server restore, read a monitoring alert, or distinguish an SSH key from the warmest spot on a laptop.</li>
+<li>She cannot understand why a closed door exists when she would prefer it to be open.</li>
+<li>She cannot promise not to shed fur exactly where it will be noticed most.</li>
+</ul>
+<p>These limitations have not prevented Nala from becoming an important presence in the household, the label’s mythology and the long-running struggle between workspaces and cat naps.</p>]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>493</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-08 12:56:32]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-08 12:56:32]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-08 21:21:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-08 21:21:42]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[nala-the-cat]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[dimipedia_entry]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="language" nicename="en"><![CDATA[EN]]></category>
+		<category domain="dimipedia_category" nicename="nala-en"><![CDATA[Nala]]></category>
+		<category domain="post_translations" nicename="pll_6aa0060a06a61"><![CDATA[pll_6aa0060a06a61]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[494]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_also_known_as]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Nala]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_occupation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Co-producer]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_organization]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Dimitrium Records]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_years_active]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026–present]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_additional_facts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Species | Domestic cat
+Known for | Unendlich]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Nala the cat | Dimitrium]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Nala the cat is Aleksa Dimitrijević’s cat and a credited co-producer on Alex Dietrich’s 2026 album Unendlich.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-02_54_33-PM-e1788872132642.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_schema_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Thing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_schema_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://dimitrium.org/#nala]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5565,6 +5578,92 @@ Održava | <a href="https://dimitrium.org/sr/dimipedia/aleksa-dimitrijevic/">Ale
 		<wp:meta_value><![CDATA[Pročitaj NOIR v1.0 licencu: Nala Open Image Repository. Saznaj uslove korišćenja i deljenja fotografija mačke Nale.]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+					<item>
+		<title><![CDATA[Unendlich is taking shape]]></title>
+		<link>https://dimitrium.org/en/news/unendlich-is-taking-shape/</link>
+		<pubDate>Sun, 06 Sep 2026 19:08:45 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/news/unendlich-is-taking-shape/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph --><p>The album is still growing, changing and finding its final sound. More tracks and refinements are on the way.</p><!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>291</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-06 19:08:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-06 19:08:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-06 19:08:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-06 19:08:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[unendlich-is-taking-shape]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[dimitrium_news]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="language" nicename="en"><![CDATA[EN]]></category>
+		<category domain="post_translations" nicename="pll_6a9dbc1e7f3d3"><![CDATA[pll_6a9dbc1e7f3d3]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Unendlich dobija svoj oblik]]></title>
+		<link>https://dimitrium.org/sr/news/unendlich-dobija-svoj-oblik/</link>
+		<pubDate>Sun, 06 Sep 2026 19:08:45 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/news/unendlich-dobija-svoj-oblik/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:paragraph --><p>Album i dalje raste, menja se i pronalazi svoj konačni zvuk. Stiže još pesama i dodatnog doterivanja.</p><!-- /wp:paragraph -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>301</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-06 19:08:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-06 19:08:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-06 19:08:45]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-06 19:08:45]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[unendlich-dobija-svoj-oblik]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[dimitrium_news]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_translations" nicename="pll_6a9dbc1e7f3d3"><![CDATA[pll_6a9dbc1e7f3d3]]></category>
+		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
+						</item>
+					<item>
+		<title><![CDATA[Dimipedia &amp; Dimimedia could be entering the early development stage.]]></title>
+		<link>https://dimitrium.org/en/news/dimipedia-dimimedia-could-be-entering-the-early-development-stage/</link>
+		<pubDate>Mon, 07 Sep 2026 08:29:21 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimitrium_news&#038;p=404</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>404</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-07 08:29:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-07 08:29:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-07 08:29:21]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-07 08:29:21]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dimipedia-dimimedia-could-be-entering-the-early-development-stage]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[dimitrium_news]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="language" nicename="en"><![CDATA[EN]]></category>
+		<category domain="post_translations" nicename="pll_6a9e776faaf37"><![CDATA[pll_6a9e776faaf37]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Dimipedia and Dimimedia could soon enter early development. Follow Dimitrium for updates on these two upcoming projects.]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 
 					<item>
 		<title><![CDATA[Dimitrium Records signs underdog Alex Dietrich.]]></title>
@@ -6004,327 +6103,6 @@ Održava | <a href="https://dimitrium.org/sr/dimipedia/aleksa-dimitrijevic/">Ale
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Dimipedia]]></title>
-		<link>https://dimitrium.org/sr/dimipedia/</link>
-		<pubDate>Tue, 08 Sep 2026 10:52:00 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?page_id=465</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png","id":505,"dimRatio":60,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeight":80,"minHeightUnit":"vh","sizeSlug":"large","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover dimipedia-hero" style="min-height:80vh"><img class="wp-block-cover__image-background wp-image-505 size-large" alt="" src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:image {"id":504,"width":"auto","height":"256px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://dimitrium.org/wp-content/uploads/2026/09/Dimipedia-Logo.png" alt="" class="wp-image-504" style="width:auto;height:256px" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"5rem","lineHeight":"1.5","fontStyle":"italic","fontWeight":"900","textAlign":"center"},"spacing":{"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h1 class="wp-block-heading has-text-align-center has-monospace-font-family" style="margin-top:40px;font-size:5rem;font-style:italic;font-weight:900;line-height:1.5">DIMIPEDIA</h1>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}},"spacing":{"margin":{"top":"16px"}}},"textColor":"theme-4"} -->
-<p class="has-text-align-center has-theme-4-color has-text-color has-link-color" style="margin-top:16px;font-size:1.2rem;font-style:normal;font-weight:500">0,1 godina slobodne enciklopedije</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:group {"className":"website-section","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"backgroundColor":"theme-3","layout":{"type":"constrained"}} -->
-<div class="wp-block-group website-section has-theme-3-background-color has-background" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Spremite se da slušate kako se hvalim</h2>
-<!-- /wp:heading -->
-
-<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Nije bilo nijednog dobrog razloga da od nule napravim klon Wikipedije.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Volim da pravim prenaglašene, nepotrebne WordPress dodatke, a „Dimipedia” nije izuzetak.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Postoji mnogo dodataka koji verovatno na svaki način bolje kloniraju Wikipediju i bolje su optimizovani, ali me to, naravno, nije sprečilo da napravim svoje prilagođeno rešenje.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Da li je dobar? To prepuštam vama da procenite. Ali po mom skromnom, objektivnom i nepristrasnom mišljenju, ovaj dodatak je remek-delo.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Slobodno istražite Dimipediju i upoznajte glavne aktere kroz njihove zvanične članke.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":508,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM-768x1024.png" alt="" class="wp-image-508" /></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:shortcode -->
-[dimipedia_entries_grid]
-<!-- /wp:shortcode -->
-]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>465</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-08 10:52:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-08 10:52:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-08 20:49:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-08 20:49:19]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[dimipedia]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_translations" nicename="pll_6a9fe8d12ae01"><![CDATA[pll_6a9fe8d12ae01]]></category>
-		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Software]]></title>
-		<link>https://dimitrium.org/en/software/</link>
-		<pubDate>Thu, 10 Sep 2026 00:04:50 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?page_id=572</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>572</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-10 00:04:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-10 00:04:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-10 00:05:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-10 00:05:00]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[software]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[EN]]></category>
-		<category domain="post_translations" nicename="pll_6aa1f4372ad6f"><![CDATA[pll_6aa1f4372ad6f]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Filozofija]]></title>
-		<link>https://dimitrium.org/sr/filozofija/</link>
-		<pubDate>Thu, 10 Sep 2026 22:55:06 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/filozofija/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"className":"website-section philosophy-intro-hero","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group website-section philosophy-intro-hero" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Vratimo veb sebi</h2>
-<!-- /wp:heading -->
-
-<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Neka se zna širom kraljevstva: korisnik mora da poseduje svoje podatke, svoj softver i svoj kutak Veba.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Do sada verovatno već razumeš moju ljubav prema otvorenom kodu i, što je još važnije, pokretu slobodnog softvera — osim ako je ovo prva stranica mog sajta koju si otvorio.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Važna napomena, čitaoče: slobodan softver ne znači da je besplatan; znači slobodu. Meni, doduše, ponekad znači i jedno i drugo!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Da bismo videli zašto je ovo važno za sve nas — i za one koji nisu tehnički potkovani — dovoljno je setiti se da su veliki delovi digitalnog sveta na koji se oslanjamo oblikovani pokretom slobodnog softvera i ljudima poput <a href="https://en.wikipedia.org/wiki/Richard_Stallman" data-type="page" data-id="579"><strong>Richard Stallman</strong></a>.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":585,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-01_20_16-AM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-01_20_16-AM-768x1024.png" alt="" class="wp-image-585" /></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"website-section philosophy-machine-hero","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group website-section philosophy-machine-hero" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Pravo da razumemo mašinu</h2>
-<!-- /wp:heading -->
-
-<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":594,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-01_46_07-AM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-01_46_07-AM-768x1024.png" alt="" class="wp-image-594" /></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Neka se zna: nijednoj osobi ne bi trebalo da bude potrebna dozvola da razume, proučava, menja ili deli softver koji oblikuje njen svet.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Čovek, mit, legenda, jedini i neponovljivi: <a href="https://en.wikipedia.org/wiki/Richard_Stallman" data-type="page" data-id="579"><strong>Richard Stallman</strong></a>.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Krajnje je vreme, čitaoče, da odamo počast ovom neverovatnom čoveku koji je snažno oblikovao način na koji razmišljam o softveru uopšte.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Legenda o kojoj je reč neposredno je pomogla svima nama da uživamo u slobodama koje pruža softver — uključujući i softver na kojem rade sajtovi poput ovog, WordPress. Ovaj neverovatni bradati čovek stvorio je licence dovoljno snažne da svako može da proučava softver pod njima, deli ga, prilagodi sebi i od njega napravi nešto novo!</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"website-section philosophy-build-hero","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group website-section philosophy-build-hero" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">A zatim gradimo za opšte dobro</h2>
-<!-- /wp:heading -->
-
-<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Neka filozofi raspravljaju o mašini. Neka je inženjeri grade — a ono što naprave neka služi svima nama.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Linux je jedna od stvari zbog kojih iskreno verujem u ono što ljudi mogu da izgrade zajedno. Počeo je kao hobi projekat u studentskom domu u Finskoj, delo nikog drugog do <strong><a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a></strong>. Nedugo zatim postao je NAŠ projekat: ljudi doprinose, menjaju ga, uče iz njega i čine ga boljim.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Zašto je ovaj pingvin u smokingu toliko važan svima nama? Pa, dragi čitaoče, video ti to ili ne, Linux je svuda. I da: ako ovo čitaš na Android telefonu, upravo ga koristiš.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Čak i ako ovo čitaš na Windows računaru ili Apple uređaju, mnogi sajtovi — uključujući i ovaj — rade na Linuxu.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":604,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_08_07-AM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_08_07-AM-768x1024.png" alt="" class="wp-image-604" /></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"website-section philosophy-gentleman-hero","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group website-section philosophy-gentleman-hero" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Gospodo, molim vas.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":610,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_27_41-AM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_27_41-AM-768x1024.png" alt="" class="wp-image-610" /></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Možda se ne slažu oko razloga, ali se možda slažu u mnogo čemu više nego što se na prvi pogled čini — na kraju krajeva, i sam pingvin živi pod Stallmanovim GPL-om.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Pa, čitaoče, verovao ili ne, Linux koji možda poznaješ ima mnogo više ispod haube nego što se na prvi pogled čini. Rad Richarda Stallmana imao je dubok uticaj na GNU/Linux ekosistem koji danas poznajemo i volimo.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Iako mnogi Stallmana vide kao filozofa, on je i izuzetan programer. Pokrenuo je GNU projekat, koji obezbeđuje veliki deo slobodnog softverskog temelja neophodnog da potpuni GNU/Linux sistem bude moguć.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">GNU-ovi alati, biblioteke i ideali pomogli su da se jezgro pretvori u upotrebljiv operativni sistem — i omogućili milionima ljudi da koriste, proučavaju, prilagođavaju i dele softver pod sopstvenim uslovima.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:group {"className":"website-section philosophy-librett-hero","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"layout":{"type":"constrained"}} -->
-<div class="wp-block-group website-section philosophy-librett-hero" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Moj skromni doprinos svetu</h2>
-<!-- /wp:heading -->
-
-<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Nema operativnog sistema. Nema velike revolucije. Samo slobodan softver, napravljen za mali kutak sveta koji slučajno prilično dobro poznajem.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Tu ulazim u priču — na znatno manjoj pozornici. Ne pravim operativni sistem niti pokrećem revoluciju. Pravim softver za stoni tenis, mali kutak sveta koji slučajno prilično dobro poznajem.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Ovde slobodno znači obe vrste slobode. Slobodno kao sloboda govora: proučavaj ga, menjaj, deli, unapređuj. I slobodno kao besplatno pivo, jer jednostavan alat za vođenje turnira u stonom tenisu ne bi trebalo da zahteva pretplatu, paywall ili „Professional Ultra Mega Edition“ samo da bi radio svoj posao.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Iznad svega, podaci treba da ostanu u rukama zajednice koja ih stvara. Igrači igraju mečeve, klubovi ih organizuju, a zajedno stvaraju istoriju koju ti rezultati beleže. <strong><a href="https://github.com/tradicije/librett">LibreTT</a></strong> je samo moj mali doprinos: slobodan softver, otvorena vrata i alat koji pripada ljudima koji ga koriste.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":615,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_55_20-AM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_55_20-AM-768x1024.png" alt="" class="wp-image-615" /></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>579</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-10 22:55:06]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-10 22:55:06]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-11 01:02:53]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-11 01:02:53]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[filozofija]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_translations" nicename="pll_6aa3354a77929"><![CDATA[pll_6aa3354a77929]]></category>
-		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Digitalna filozofija: slobodan softver i Linux | Dimitrium]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Za slobodan softver, GNU/Linux, pravo da razumemo tehnologiju i alate zajednice kao što je LibreTT.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-01_22_57-AM.png]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Hello world!]]></title>
 		<link>https://dimitrium.org/hello-world/</link>
 		<pubDate>Fri, 04 Sep 2026 01:52:36 +0000</pubDate>
@@ -6649,92 +6427,129 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_value><![CDATA[monospace-ExtraLight.ttf]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[monospace;italic;250;100%;U+0-10FFFF]]></title>
-		<link>https://dimitrium.org/monospaceitalic250100u0-10ffff/</link>
-		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic250100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"250","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-ExtraLightItalic.ttf"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[monospaceitalic250100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>27</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[monospace-ExtraLightItalic.ttf]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[monospace;normal;900;100%;U+0-10FFFF]]></title>
-		<link>https://dimitrium.org/monospacenormal900100u0-10ffff/</link>
-		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospacenormal900100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"normal","fontWeight":"900","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-Heavy.ttf"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[monospacenormal900100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>27</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[monospace-Heavy.ttf]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[monospace;italic;900;100%;U+0-10FFFF]]></title>
-		<link>https://dimitrium.org/monospaceitalic900100u0-10ffff/</link>
-		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic900100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"900","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-HeavyItalic.ttf"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[monospaceitalic900100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>27</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[monospace-HeavyItalic.ttf]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
 
 
+					<item>
+		<title><![CDATA[Dimipedia]]></title>
+		<link>https://dimitrium.org/sr/dimipedia/</link>
+		<pubDate>Tue, 08 Sep 2026 10:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/?page_id=465</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png","id":505,"dimRatio":60,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeight":80,"minHeightUnit":"vh","sizeSlug":"large","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover dimipedia-hero" style="min-height:80vh"><img class="wp-block-cover__image-background wp-image-505 size-large" alt="" src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:image {"id":504,"width":"auto","height":"256px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://dimitrium.org/wp-content/uploads/2026/09/Dimipedia-Logo.png" alt="" class="wp-image-504" style="width:auto;height:256px" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"5rem","lineHeight":"1.5","fontStyle":"italic","fontWeight":"900","textAlign":"center"},"spacing":{"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h1 class="wp-block-heading has-text-align-center has-monospace-font-family" style="margin-top:40px;font-size:5rem;font-style:italic;font-weight:900;line-height:1.5">DIMIPEDIA</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}},"spacing":{"margin":{"top":"16px"}}},"textColor":"theme-4"} -->
+<p class="has-text-align-center has-theme-4-color has-text-color has-link-color" style="margin-top:16px;font-size:1.2rem;font-style:normal;font-weight:500">0,1 godina slobodne enciklopedije</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"className":"website-section","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"backgroundColor":"theme-3","layout":{"type":"constrained"}} -->
+<div class="wp-block-group website-section has-theme-3-background-color has-background" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Spremite se da slušate kako se hvalim</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
+<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Nije bilo nijednog dobrog razloga da od nule napravim klon Wikipedije.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Volim da pravim prenaglašene, nepotrebne WordPress dodatke, a „Dimipedia” nije izuzetak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Postoji mnogo dodataka koji verovatno na svaki način bolje kloniraju Wikipediju i bolje su optimizovani, ali me to, naravno, nije sprečilo da napravim svoje prilagođeno rešenje.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Da li je dobar? To prepuštam vama da procenite. Ali po mom skromnom, objektivnom i nepristrasnom mišljenju, ovaj dodatak je remek-delo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Slobodno istražite Dimipediju i upoznajte glavne aktere kroz njihove zvanične članke.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":508,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM-768x1024.png" alt="" class="wp-image-508" /></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:shortcode -->
+[dimipedia_entries_grid]
+<!-- /wp:shortcode -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>465</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-08 10:52:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-08 10:52:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-08 20:49:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-08 20:49:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dimipedia]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_translations" nicename="pll_6a9fe8d12ae01"><![CDATA[pll_6a9fe8d12ae01]]></category>
+		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Software]]></title>
+		<link>https://dimitrium.org/en/software/</link>
+		<pubDate>Thu, 10 Sep 2026 00:04:50 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/?page_id=572</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>572</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-10 00:04:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-10 00:04:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-10 00:05:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-10 00:05:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[software]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="language" nicename="en"><![CDATA[EN]]></category>
+		<category domain="post_translations" nicename="pll_6aa1f4372ad6f"><![CDATA[pll_6aa1f4372ad6f]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
 					<item>
 		<title><![CDATA[Softver]]></title>
 		<link>https://dimitrium.org/sr/softver/</link>
@@ -6767,6 +6582,206 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Filozofija]]></title>
+		<link>https://dimitrium.org/sr/filozofija/</link>
+		<pubDate>Thu, 10 Sep 2026 22:55:06 +0000</pubDate>
+		<dc:creator><![CDATA[]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/filozofija/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"className":"website-section philosophy-intro-hero","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group website-section philosophy-intro-hero" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Vratimo veb sebi</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
+<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Neka se zna širom kraljevstva: korisnik mora da poseduje svoje podatke, svoj softver i svoj kutak Veba.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Do sada verovatno već razumeš moju ljubav prema otvorenom kodu i, što je još važnije, pokretu slobodnog softvera — osim ako je ovo prva stranica mog sajta koju si otvorio.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Važna napomena, čitaoče: slobodan softver ne znači da je besplatan; znači slobodu. Meni, doduše, ponekad znači i jedno i drugo!</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Da bismo videli zašto je ovo važno za sve nas — i za one koji nisu tehnički potkovani — dovoljno je setiti se da su veliki delovi digitalnog sveta na koji se oslanjamo oblikovani pokretom slobodnog softvera i ljudima poput <a href="https://en.wikipedia.org/wiki/Richard_Stallman" data-type="page" data-id="579"><strong>Richard Stallman</strong></a>.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":585,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-01_20_16-AM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-01_20_16-AM-768x1024.png" alt="" class="wp-image-585" /></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"website-section philosophy-machine-hero","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group website-section philosophy-machine-hero" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Pravo da razumemo mašinu</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":594,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-01_46_07-AM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-01_46_07-AM-768x1024.png" alt="" class="wp-image-594" /></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
+<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Neka se zna: nijednoj osobi ne bi trebalo da bude potrebna dozvola da razume, proučava, menja ili deli softver koji oblikuje njen svet.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Čovek, mit, legenda, jedini i neponovljivi: <a href="https://en.wikipedia.org/wiki/Richard_Stallman" data-type="page" data-id="579"><strong>Richard Stallman</strong></a>.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Krajnje je vreme, čitaoče, da odamo počast ovom neverovatnom čoveku koji je snažno oblikovao način na koji razmišljam o softveru uopšte.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Legenda o kojoj je reč neposredno je pomogla svima nama da uživamo u slobodama koje pruža softver — uključujući i softver na kojem rade sajtovi poput ovog, WordPress. Ovaj neverovatni bradati čovek stvorio je licence dovoljno snažne da svako može da proučava softver pod njima, deli ga, prilagodi sebi i od njega napravi nešto novo!</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"website-section philosophy-build-hero","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group website-section philosophy-build-hero" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">A zatim gradimo za opšte dobro</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
+<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Neka filozofi raspravljaju o mašini. Neka je inženjeri grade — a ono što naprave neka služi svima nama.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Linux je jedna od stvari zbog kojih iskreno verujem u ono što ljudi mogu da izgrade zajedno. Počeo je kao hobi projekat u studentskom domu u Finskoj, delo nikog drugog do <strong><a href="https://en.wikipedia.org/wiki/Linus_Torvalds">Linus Torvalds</a></strong>. Nedugo zatim postao je NAŠ projekat: ljudi doprinose, menjaju ga, uče iz njega i čine ga boljim.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Zašto je ovaj pingvin u smokingu toliko važan svima nama? Pa, dragi čitaoče, video ti to ili ne, Linux je svuda. I da: ako ovo čitaš na Android telefonu, upravo ga koristiš.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Čak i ako ovo čitaš na Windows računaru ili Apple uređaju, mnogi sajtovi — uključujući i ovaj — rade na Linuxu.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":604,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_08_07-AM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_08_07-AM-768x1024.png" alt="" class="wp-image-604" /></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"website-section philosophy-gentleman-hero","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group website-section philosophy-gentleman-hero" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Gospodo, molim vas.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":610,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_27_41-AM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_27_41-AM-768x1024.png" alt="" class="wp-image-610" /></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
+<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Možda se ne slažu oko razloga, ali se možda slažu u mnogo čemu više nego što se na prvi pogled čini — na kraju krajeva, i sam pingvin živi pod Stallmanovim GPL-om.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Pa, čitaoče, verovao ili ne, Linux koji možda poznaješ ima mnogo više ispod haube nego što se na prvi pogled čini. Rad Richarda Stallmana imao je dubok uticaj na GNU/Linux ekosistem koji danas poznajemo i volimo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Iako mnogi Stallmana vide kao filozofa, on je i izuzetan programer. Pokrenuo je GNU projekat, koji obezbeđuje veliki deo slobodnog softverskog temelja neophodnog da potpuni GNU/Linux sistem bude moguć.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">GNU-ovi alati, biblioteke i ideali pomogli su da se jezgro pretvori u upotrebljiv operativni sistem — i omogućili milionima ljudi da koriste, proučavaju, prilagođavaju i dele softver pod sopstvenim uslovima.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:group {"className":"website-section philosophy-librett-hero","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group website-section philosophy-librett-hero" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Moj skromni doprinos svetu</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
+<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Nema operativnog sistema. Nema velike revolucije. Samo slobodan softver, napravljen za mali kutak sveta koji slučajno prilično dobro poznajem.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Tu ulazim u priču — na znatno manjoj pozornici. Ne pravim operativni sistem niti pokrećem revoluciju. Pravim softver za stoni tenis, mali kutak sveta koji slučajno prilično dobro poznajem.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Ovde slobodno znači obe vrste slobode. Slobodno kao sloboda govora: proučavaj ga, menjaj, deli, unapređuj. I slobodno kao besplatno pivo, jer jednostavan alat za vođenje turnira u stonom tenisu ne bi trebalo da zahteva pretplatu, paywall ili „Professional Ultra Mega Edition“ samo da bi radio svoj posao.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Iznad svega, podaci treba da ostanu u rukama zajednice koja ih stvara. Igrači igraju mečeve, klubovi ih organizuju, a zajedno stvaraju istoriju koju ti rezultati beleže. <strong><a href="https://github.com/tradicije/librett">LibreTT</a></strong> je samo moj mali doprinos: slobodan softver, otvorena vrata i alat koji pripada ljudima koji ga koriste.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":615,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_55_20-AM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_55_20-AM-768x1024.png" alt="" class="wp-image-615" /></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>579</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-10 22:55:06]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-10 22:55:06]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-11 01:02:53]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-11 01:02:53]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[filozofija]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_translations" nicename="pll_6aa3354a77929"><![CDATA[pll_6aa3354a77929]]></category>
+		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Digitalna filozofija: slobodan softver i Linux | Dimitrium]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Za slobodan softver, GNU/Linux, pravo da razumemo tehnologiju i alate zajednice kao što je LibreTT.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-01_22_57-AM.png]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -7768,6 +7783,90 @@ document.addEventListener("DOMContentLoaded", function () {
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[monospace;italic;250;100%;U+0-10FFFF]]></title>
+		<link>https://dimitrium.org/monospaceitalic250100u0-10ffff/</link>
+		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic250100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"250","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-ExtraLightItalic.ttf"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[monospaceitalic250100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>27</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[monospace-ExtraLightItalic.ttf]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[monospace;normal;900;100%;U+0-10FFFF]]></title>
+		<link>https://dimitrium.org/monospacenormal900100u0-10ffff/</link>
+		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospacenormal900100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"normal","fontWeight":"900","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-Heavy.ttf"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>32</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[monospacenormal900100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>27</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[monospace-Heavy.ttf]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[monospace;italic;900;100%;U+0-10FFFF]]></title>
+		<link>https://dimitrium.org/monospaceitalic900100u0-10ffff/</link>
+		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic900100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"900","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-HeavyItalic.ttf"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[monospaceitalic900100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>27</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[monospace-HeavyItalic.ttf]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[monospace;italic;400;100%;U+0-10FFFF]]></title>
 		<link>https://dimitrium.org/monospaceitalic400100u0-10ffff/</link>
 		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
@@ -8009,44 +8108,6 @@ document.addEventListener("DOMContentLoaded", function () {
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Footer]]></title>
-		<link>https://dimitrium.org/footer/</link>
-		<pubDate>Fri, 04 Sep 2026 03:08:33 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/footer/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:group {"className":"main-hero","style":{"spacing":{"padding":{"top":"16px","bottom":"16px"},"blockGap":"8px"},"border":{"top":{"color":"#f7f8f826","width":"1px"},"right":[],"bottom":[],"left":[]}},"backgroundColor":"theme-3","layout":{"type":"constrained"}} -->
-<div class="wp-block-group main-hero has-theme-3-background-color has-background" style="border-top-color:#f7f8f826;border-top-width:1px;padding-top:16px;padding-bottom:16px">
-<!-- wp:shortcode -->
-[dimitrium_footer_legal]
-<!-- /wp:shortcode -->
-
-<!-- wp:polylang/language-switcher {"show_names":true,"show_flags":false,"hide_current":false,"hide_if_no_translation":false,"className":"dimitrium-language-switcher"} /-->
-</div>
-<!-- /wp:group -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>87</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 03:08:33]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 03:08:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-11 05:49:31]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-11 05:49:31]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[footer]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="wp_theme" nicename="assembler-wpcom"><![CDATA[assembler-wpcom]]></category>
-		<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
-		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[template-blank]]></title>
 		<link>https://dimitrium.org/template-blank/</link>
 		<pubDate>Fri, 04 Sep 2026 15:25:16 +0000</pubDate>
@@ -8218,6 +8279,118 @@ document.addEventListener("DOMContentLoaded", function () {
 						<wp:postmeta>
 		<wp:meta_key><![CDATA[is_wp_suggestion]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Page: 404]]></title>
+		<link>https://dimitrium.org/404/</link>
+		<pubDate>Fri, 11 Sep 2026 07:47:21 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/404/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:template-part {"slug":"header","theme":"assembler-wpcom"} /-->
+
+<!-- wp:group {"className":"website-section philosophy-intro-hero dimitrium-404-hero","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"layout":{"type":"constrained"}} -->
+<div class="wp-block-group website-section philosophy-intro-hero dimitrium-404-hero" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5"><span class="dimitrium-404__en">No, viewer. This page does not exist.</span><span class="dimitrium-404__sr">Ne, posetioče. Ova stranica ne postoji.</span></h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
+<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5"><span class="dimitrium-404__en">How did you manage to get lost on my perfectly optimized, architecturally flawless website?</span><span class="dimitrium-404__sr">Kako ti je uspelo da se izgubiš na mom savršeno optimizovanom i arhitektonski besprekornom sajtu?</span></h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500"><span class="dimitrium-404__en">Come on — I thought you were better than this. But don’t worry, I’ve got you. Maybe try one of the links below?</span><span class="dimitrium-404__sr">Hajde — mislio sam da ćeš se bolje snaći. Ali ne brini, imam rešenje. Možda probaj neki od linkova ispod?</span></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:group {"style":{"spacing":{"blockGap":"40px"},"elements":{"link":{"color":{"text":"var:preset|color|theme-2"}}}},"textColor":"theme-2","layout":{"type":"flex","flexWrap":"nowrap","justifyContent":"left"}} -->
+<div class="wp-block-group has-theme-2-color has-text-color has-link-color"><!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"}}} -->
+<p style="font-size:1.2rem;font-style:normal;font-weight:500"><a class="dimitrium-404__en" href="/en/home"><strong>Home Page</strong></a><a class="dimitrium-404__sr" href="/sr/pocetna/"><strong>Početna</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"}}} -->
+<p style="font-size:1.2rem;font-style:normal;font-weight:500"><a class="dimitrium-404__en" href="/en/dimipedia"><strong>Dimipedia</strong></a><a class="dimitrium-404__sr" href="/sr/dimipedia/"><strong>Dimipedija</strong></a></p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"}}} -->
+<p style="font-size:1.2rem;font-style:normal;font-weight:500"><a class="dimitrium-404__en" href="/en/musique"><strong>Musique</strong></a><a class="dimitrium-404__sr" href="/sr/muzika/"><strong>Muzika</strong></a></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:group -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500"><span class="dimitrium-404__en">Also, enjoy this amazing picture of me and my cat. We are trying to figure out what you were looking for.</span><span class="dimitrium-404__sr">Usput, uživaj u ovoj sjajnoj slici mene i moje mačke. Pokušavamo da otkrijemo šta si tražio/la.</span></p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":635,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-09_52_13-AM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-09_52_13-AM-edited.png" alt="" class="wp-image-635" /></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:template-part {"slug":"footer","theme":"assembler-wpcom"} /-->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[Displays when a visitor views a non-existent page, such as a dead link or a mistyped URL.]]></excerpt:encoded>
+		<wp:post_id>628</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-11 07:47:21]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-11 07:47:21]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-11 08:01:59]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-11 08:01:59]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[404]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="assembler-wpcom"><![CDATA[assembler-wpcom]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Footer]]></title>
+		<link>https://dimitrium.org/footer/</link>
+		<pubDate>Fri, 04 Sep 2026 03:08:33 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/footer/</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:group {"className":"main-hero","style":{"spacing":{"padding":{"top":"16px","bottom":"16px"},"blockGap":"8px"},"border":{"top":{"color":"#f7f8f826","width":"1px"},"right":[],"bottom":[],"left":[]}},"backgroundColor":"theme-3","layout":{"type":"constrained"}} -->
+<div class="wp-block-group main-hero has-theme-3-background-color has-background" style="border-top-color:#f7f8f826;border-top-width:1px;padding-top:16px;padding-bottom:16px">
+<!-- wp:shortcode -->
+[dimitrium_footer_legal]
+<!-- /wp:shortcode -->
+
+<!-- wp:polylang/language-switcher {"show_names":true,"show_flags":false,"hide_current":false,"hide_if_no_translation":false,"className":"dimitrium-language-switcher"} /-->
+</div>
+<!-- /wp:group -->]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>87</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-04 03:08:33]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-04 03:08:33]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-11 05:49:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-11 05:49:31]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[footer]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_template_part]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="wp_theme" nicename="assembler-wpcom"><![CDATA[assembler-wpcom]]></category>
+		<category domain="wp_template_part_area" nicename="footer"><![CDATA[footer]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[origin]]></wp:meta_key>
+		<wp:meta_value><![CDATA[theme]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 				</channel>

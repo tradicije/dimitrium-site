@@ -108,7 +108,7 @@ function dimitrium_now_playing_enqueue_header_style() {
 		'dimitrium-frosted-header',
 		plugin_dir_url( __FILE__ ) . 'assets/header.css',
 		array(),
-		'0.2.60.133.15'
+		'0.2.60.133.16'
 	);
 	wp_enqueue_script(
 		'dimitrium-frosted-header',
@@ -128,7 +128,7 @@ function dimitrium_now_playing_enqueue_404_style() {
 		'dimitrium-404',
 		plugin_dir_url( __FILE__ ) . 'assets/404.css',
 		array( 'dimitrium-frosted-header' ),
-		'0.2.60.133.6'
+		'0.2.60.133.7'
 	);
 }
 add_action( 'wp_enqueue_scripts', 'dimitrium_now_playing_enqueue_404_style' );

@@ -1,4 +1,46 @@
 /* A deliberately small, site-specific 404 presentation. */
+
+/*
+ * The active 404 template is edited in WordPress.  It deliberately shares the
+ * soft, blurred background treatment used by the Philosophy sections while
+ * keeping its own content and spacing controls in the Site Editor.
+ */
+body.error404 .dimitrium-404-hero {
+	position: relative;
+	isolation: isolate;
+	overflow: hidden !important;
+	background-color: #08090a !important;
+	background-image: none !important;
+}
+
+body.error404 .dimitrium-404-hero::before {
+	position: absolute;
+	inset: -16px;
+	z-index: 0;
+	background-image:
+		linear-gradient(rgba(8, 9, 10, 0.74), rgba(8, 9, 10, 0.74)),
+		url("https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-09_56_45-AM-768x432.webp");
+	background-position: 50% 80%;
+	background-size: cover;
+	content: "";
+	filter: blur(9px);
+	pointer-events: none;
+	transform: scale(1.035);
+}
+
+body.error404 .dimitrium-404-hero > * {
+	position: relative;
+	z-index: 1;
+}
+
+@media (min-width: 900px) {
+	body.error404 .dimitrium-404-hero::before {
+		background-image:
+			linear-gradient(rgba(8, 9, 10, 0.74), rgba(8, 9, 10, 0.74)),
+			url("https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-09_56_45-AM-1536x864.webp");
+	}
+}
+
 .dimitrium-404 {
 	position: relative;
 	display: grid;
