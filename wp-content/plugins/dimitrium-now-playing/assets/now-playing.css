@@ -109,7 +109,7 @@ html.has-dimitrium-listening-reward .pswp {
 .dimitrium-listening-reward__title {
 	margin: 0;
 	padding-right: 40px;
-	font-family: Minicomputer, monospace;
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
 	font-size: 2rem;
 	font-style: italic;
 	font-weight: 900;
@@ -234,7 +234,7 @@ html.has-dimitrium-listening-reward .pswp {
 
 .dimitrium-now-playing__title {
 	font-size: 1.1rem;
-	font-family: "Minicomputer", sans-serif;
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
 	font-style: italic;
 	font-weight: 900;
 }
@@ -707,7 +707,7 @@ body:is(.page-id-143, .page-id-436) .dimitrium-playlist-album[hidden] {
 body:is(.page-id-122, .page-id-123, .page-id-142, .page-id-434) .dimitrium-playlist-album__title,
 body:is(.page-id-143, .page-id-436) .dimitrium-playlist-album__title {
 	color: #f7f8f8;
-	font-family: "Minicomputer", sans-serif;
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
 	font-size: 1.75rem;
 	font-style: italic;
 	font-weight: 900;
@@ -835,7 +835,7 @@ body:is(.page-id-143, .page-id-436) .wp-block-playlist__tracklist-show-numbers .
 	width: 2ch;
 	margin-right: 14px;
 	color: #8a8f98;
-	font-family: "Minicomputer", sans-serif;
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
 	font-size: 1.05rem;
 	font-style: italic;
 	font-weight: 900;
@@ -861,7 +861,7 @@ body:is(.page-id-122, .page-id-123, .page-id-142, .page-id-434) .wp-block-playli
 body:is(.page-id-143, .page-id-436) .wp-block-playlist-track__title {
 	overflow: hidden;
 	color: #f7f8f8;
-	font-family: "Minicomputer", sans-serif;
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
 	font-size: 1.25rem;
 	font-style: italic;
 	font-weight: 900;
@@ -1001,7 +1001,7 @@ body:is(.page-id-143, .page-id-436) .wp-block-playlist-track__length {
 .dimitrium-album-page__title {
 	margin: 0;
 	color: #f7f8f8;
-	font-family: "Minicomputer", sans-serif;
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
 	font-size: clamp(2rem, 3vw, 3.25rem);
 	font-style: italic;
 	font-weight: 900;
@@ -1342,7 +1342,7 @@ body.has-dimitrium-full-player {
 }
 
 .dimitrium-full-player__album-title {
-	font-family: "Minicomputer", sans-serif;
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
 	font-size: clamp(2rem, 6vw, 4rem);
 	font-style: italic;
 	font-weight: 900;
@@ -1421,7 +1421,7 @@ body.has-dimitrium-full-player {
 
 .dimitrium-full-player__title {
 	color: #f7f8f8;
-	font-family: "Minicomputer", sans-serif;
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
 	font-size: clamp(1.5rem, 3vw, 2.25rem);
 	font-style: italic;
 	font-weight: 900;

@@ -64,7 +64,7 @@ header.wp-block-template-part {
 	}
 
 	.dimitrium-mobile-drawer__title {
-		font-family: Minicomputer, monospace;
+		font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
 		font-size: 1.6rem;
 		font-style: italic;
 		font-weight: 900;
@@ -196,19 +196,19 @@ header.wp-block-template-part {
 .main-header .wp-block-navigation__responsive-container-open::after {
 	position: absolute;
 	inset: 2px;
-	background-position: center;
-	background-repeat: no-repeat;
-	background-size: 24px 24px;
 	content: "";
 	transition: opacity 0.34s ease, transform 0.34s cubic-bezier(0.22, 1, 0.36, 1);
 }
 
 .main-header .wp-block-navigation__responsive-container-open::before {
-	background-image: url("icons/menu.svg");
+	inset: 7px 3px;
+	background: currentColor;
+	box-shadow: 0 -6px currentColor, 0 6px currentColor;
 }
 
 .main-header .wp-block-navigation__responsive-container-open::after {
-	background-image: url("icons/close.svg");
+	inset: 2px;
+	background: linear-gradient(45deg, transparent 46%, currentColor 47% 53%, transparent 54%), linear-gradient(-45deg, transparent 46%, currentColor 47% 53%, transparent 54%);
 	opacity: 0;
 	transform: rotate(-90deg) scale(0.72);
 }
@@ -347,7 +347,7 @@ header.wp-block-template-part {
 	padding: 12px 20px;
 	color: #141516;
 	background: #f7f8f8;
-	font-family: Minicomputer, monospace;
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
 	font-style: italic;
 	font-weight: 900;
 	letter-spacing: 0.04em;
@@ -975,7 +975,7 @@ body:is(.page-id-123, .page-id-436) .home-hero-section > .wp-block-columns > .wp
 		grid-column: 1;
 		grid-row: 1;
 		color: #f7f8f8;
-		font-family: Minicomputer, monospace;
+		font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
 		font-size: 1.6rem;
 		font-style: italic;
 		font-weight: 900;
