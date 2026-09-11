@@ -84,7 +84,7 @@ function dimitrium_footer_legal_shortcode() {
 	$copy = $sr
 		? 'Ne, nisam se potrudio da ovde stavim tekst o autorskim pravima; i da, ovo je jedini footer koji za sada dobijaš.'
 		: 'No, I did not bother to place the copyright text here, and yes, this is the only footer you get for now.';
-	$tagline = $sr ? 'Ostani hladan.' : 'Stay frosty!';
+	$tagline = 'Stay frosty!';
 	$source = $sr ? 'Izvorni kod' : 'Source code';
 	$license = $sr ? 'Slike i muzika, osim fotografija Nale' : 'Images and music, except Nala photography';
 	$nala = $sr ? 'Fotografije Nale' : 'Nala photography';
