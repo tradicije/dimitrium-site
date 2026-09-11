@@ -108,7 +108,7 @@ function dimitrium_now_playing_enqueue_header_style() {
 		'dimitrium-frosted-header',
 		plugin_dir_url( __FILE__ ) . 'assets/header.css',
 		array(),
-		'0.2.60.133.16'
+		'0.2.60.133.17'
 	);
 	wp_enqueue_script(
 		'dimitrium-frosted-header',

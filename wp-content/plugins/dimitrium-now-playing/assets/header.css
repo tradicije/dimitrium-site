@@ -680,7 +680,7 @@ body:is(.page-id-122, .page-id-123, .page-id-142, .page-id-143, .page-id-434, .p
 }
 
 /* Philosophy heroes keep website-section spacing and each own a soft WebP background. */
-body:is(.page-id-580, .page-id-579) .wp-block-post-content > :is(.philosophy-intro-hero, .philosophy-machine-hero, .philosophy-build-hero, .philosophy-gentleman-hero, .philosophy-librett-hero) {
+body:is(.page-id-580, .page-id-579) .wp-block-post-content > :is(.philosophy-intro-hero, .philosophy-machine-hero, .philosophy-build-hero, .philosophy-gentleman-hero, .philosophy-librett-hero, .philosophy-join-hero) {
 	position: relative;
 	isolation: isolate;
 	overflow: hidden !important;
@@ -688,7 +688,7 @@ body:is(.page-id-580, .page-id-579) .wp-block-post-content > :is(.philosophy-int
 	background-image: none !important;
 }
 
-body:is(.page-id-580, .page-id-579) .wp-block-post-content > :is(.philosophy-intro-hero, .philosophy-machine-hero, .philosophy-build-hero, .philosophy-gentleman-hero, .philosophy-librett-hero)::before {
+body:is(.page-id-580, .page-id-579) .wp-block-post-content > :is(.philosophy-intro-hero, .philosophy-machine-hero, .philosophy-build-hero, .philosophy-gentleman-hero, .philosophy-librett-hero, .philosophy-join-hero)::before {
 	position: absolute;
 	inset: -16px;
 	z-index: 0;
@@ -730,7 +730,13 @@ body:is(.page-id-580, .page-id-579) .wp-block-post-content > .philosophy-librett
 		url("https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_56_23-AM-768x432.webp");
 }
 
-body:is(.page-id-580, .page-id-579) .wp-block-post-content > :is(.philosophy-intro-hero, .philosophy-machine-hero, .philosophy-build-hero, .philosophy-gentleman-hero, .philosophy-librett-hero) > * {
+body:is(.page-id-580, .page-id-579) .wp-block-post-content > .philosophy-join-hero::before {
+	background-image:
+		linear-gradient(rgba(8, 9, 10, 0.74), rgba(8, 9, 10, 0.74)),
+		url("https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-10_15_01-AM-768x432.webp");
+}
+
+body:is(.page-id-580, .page-id-579) .wp-block-post-content > :is(.philosophy-intro-hero, .philosophy-machine-hero, .philosophy-build-hero, .philosophy-gentleman-hero, .philosophy-librett-hero, .philosophy-join-hero) > * {
 	position: relative;
 	z-index: 1;
 }
@@ -786,6 +792,12 @@ body:is(.page-id-580, .page-id-579) .wp-block-post-content > .philosophy-intro-h
 		background-image:
 			linear-gradient(rgba(8, 9, 10, 0.74), rgba(8, 9, 10, 0.74)),
 			url("https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-02_56_23-AM-1536x864.webp");
+	}
+
+	body:is(.page-id-580, .page-id-579) .wp-block-post-content > .philosophy-join-hero::before {
+		background-image:
+			linear-gradient(rgba(8, 9, 10, 0.74), rgba(8, 9, 10, 0.74)),
+			url("https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-11-2026-10_15_01-AM-1536x864.webp");
 	}
 }
 
