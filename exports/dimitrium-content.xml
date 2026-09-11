@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1" created="2026-09-11 01:54" -->
+	<!-- generator="WordPress/7.1" created="2026-09-11 05:34" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Dimitrium</title>
 	<link>https://dimitrium.org</link>
 	<description></description>
-	<pubDate>Fri, 11 Sep 2026 01:54:05 +0000</pubDate>
+	<pubDate>Fri, 11 Sep 2026 05:34:57 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://dimitrium.org</wp:base_site_url>
@@ -99,7 +99,7 @@
 		<wp:term_parent><![CDATA[]]></wp:term_parent>
 		<wp:term_name><![CDATA[Projects &amp; Software]]></wp:term_name>
 	</wp:term>
-		
+
 	<generator>https://wordpress.org/?v=7.1</generator>
 
 <image>
@@ -108,7 +108,7 @@
 	<link>https://dimitrium.org</link>
 	<width>32</width>
 	<height>32</height>
-</image> 
+</image>
 
 		<item>
 		<title><![CDATA[DIMITRIUM.ORG]]></title>
@@ -143,12 +143,12 @@
 		<wp:meta_value><![CDATA[a:4:{s:5:"width";i:2574;s:6:"height";i:256;s:4:"file";s:26:"2026/09/DIMITRIUM.ORG_.svg";s:5:"sizes";a:6:{s:9:"thumbnail";a:5:{s:5:"width";s:3:"150";s:6:"height";s:3:"150";s:4:"crop";s:1:"1";s:4:"file";s:18:"DIMITRIUM.ORG_.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:6:"medium";a:5:{s:5:"width";s:3:"300";s:6:"height";s:3:"300";s:4:"crop";b:0;s:4:"file";s:18:"DIMITRIUM.ORG_.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:12:"medium_large";a:5:{s:5:"width";s:3:"768";s:6:"height";s:1:"0";s:4:"crop";b:0;s:4:"file";s:18:"DIMITRIUM.ORG_.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:5:"large";a:5:{s:5:"width";s:4:"1024";s:6:"height";s:4:"1024";s:4:"crop";b:0;s:4:"file";s:18:"DIMITRIUM.ORG_.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:9:"1536x1536";a:5:{s:5:"width";i:1536;s:6:"height";i:1536;s:4:"crop";i:0;s:4:"file";s:18:"DIMITRIUM.ORG_.svg";s:9:"mime-type";s:13:"image/svg+xml";}s:9:"2048x2048";a:5:{s:5:"width";i:2048;s:6:"height";i:2048;s:4:"crop";i:0;s:4:"file";s:18:"DIMITRIUM.ORG_.svg";s:9:"mime-type";s:13:"image/svg+xml";}}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					
-					
-					
-					
-					
-					
+
+
+
+
+
+
 					<item>
 		<title><![CDATA[favicon-dimitrium]]></title>
 		<link>https://dimitrium.org/favicon-dimitrium-2/</link>
@@ -182,7 +182,7 @@
 		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:256;s:6:"height";i:256;s:4:"file";s:31:"2026/09/favicon-dimitrium-1.png";s:8:"filesize";i:5841;s:5:"sizes";a:1:{s:9:"thumbnail";a:5:{s:4:"file";s:31:"favicon-dimitrium-1-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:5078;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					
+
 					<item>
 		<title><![CDATA[Screenshot]]></title>
 		<link>https://dimitrium.org/?attachment_id=104</link>
@@ -315,11 +315,11 @@
 		<wp:meta_value><![CDATA[a:7:{s:5:"width";i:1206;s:6:"height";i:1206;s:4:"file";s:27:"2026/09/IMG_2205-edited.jpg";s:8:"filesize";i:103277;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:27:"IMG_2205-edited-300x300.jpg";s:5:"width";i:300;s:6:"height";i:300;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:14809;}s:5:"large";a:5:{s:4:"file";s:29:"IMG_2205-edited-1024x1024.jpg";s:5:"width";i:1024;s:6:"height";i:1024;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:81575;}s:9:"thumbnail";a:5:{s:4:"file";s:27:"IMG_2205-edited-150x150.jpg";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:6044;}s:12:"medium_large";a:5:{s:4:"file";s:27:"IMG_2205-edited-768x768.jpg";s:5:"width";i:768;s:6:"height";i:768;s:9:"mime-type";s:10:"image/jpeg";s:8:"filesize";i:54587;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:10:"Screenshot";s:17:"created_timestamp";s:10:"1782262139";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:10:"Screenshot";s:11:"orientation";i:1;s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}s:12:"parent_image";a:2:{s:13:"attachment_id";s:3:"113";s:4:"file";s:20:"2026/09/IMG_2205.jpg";}}]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					
-					
+
+
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-5/</link>
+		<link>https://dimitrium.org/screenshot-5/</link>
 		<pubDate>Fri, 04 Sep 2026 15:28:40 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2200.jpg</guid>
@@ -335,7 +335,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-5]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -352,7 +352,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-6/</link>
+		<link>https://dimitrium.org/screenshot-6/</link>
 		<pubDate>Fri, 04 Sep 2026 15:28:40 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2202.jpg</guid>
@@ -368,7 +368,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-6]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -385,7 +385,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-7/</link>
+		<link>https://dimitrium.org/screenshot-7/</link>
 		<pubDate>Fri, 04 Sep 2026 15:28:41 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2203.jpg</guid>
@@ -401,7 +401,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-7]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -418,7 +418,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-8/</link>
+		<link>https://dimitrium.org/screenshot-8/</link>
 		<pubDate>Fri, 04 Sep 2026 15:28:42 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2206.jpg</guid>
@@ -434,7 +434,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-8]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -451,7 +451,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-9/</link>
+		<link>https://dimitrium.org/screenshot-9/</link>
 		<pubDate>Fri, 04 Sep 2026 15:28:43 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2207.jpg</guid>
@@ -467,7 +467,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-9]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -484,7 +484,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-10/</link>
+		<link>https://dimitrium.org/screenshot-10/</link>
 		<pubDate>Fri, 04 Sep 2026 15:28:44 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2209.jpg</guid>
@@ -500,7 +500,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-10]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -517,7 +517,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-11/</link>
+		<link>https://dimitrium.org/screenshot-11/</link>
 		<pubDate>Fri, 04 Sep 2026 15:28:45 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2210.jpg</guid>
@@ -533,7 +533,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-11]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -550,7 +550,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-12/</link>
+		<link>https://dimitrium.org/screenshot-12/</link>
 		<pubDate>Fri, 04 Sep 2026 15:30:47 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2206-edited.jpg</guid>
@@ -566,7 +566,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-12]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -583,7 +583,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-13/</link>
+		<link>https://dimitrium.org/screenshot-13/</link>
 		<pubDate>Fri, 04 Sep 2026 15:31:46 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2202-edited.jpg</guid>
@@ -599,7 +599,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-13]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -616,7 +616,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-14/</link>
+		<link>https://dimitrium.org/screenshot-14/</link>
 		<pubDate>Fri, 04 Sep 2026 15:32:49 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2203-edited.jpg</guid>
@@ -632,7 +632,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-14]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -649,7 +649,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-15/</link>
+		<link>https://dimitrium.org/screenshot-15/</link>
 		<pubDate>Fri, 04 Sep 2026 15:33:18 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2207-edited.jpg</guid>
@@ -665,7 +665,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-15]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -682,7 +682,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-16/</link>
+		<link>https://dimitrium.org/screenshot-16/</link>
 		<pubDate>Fri, 04 Sep 2026 15:33:42 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2210-edited.jpg</guid>
@@ -698,7 +698,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-16]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -715,7 +715,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-17/</link>
+		<link>https://dimitrium.org/screenshot-17/</link>
 		<pubDate>Fri, 04 Sep 2026 15:34:51 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2200-edited.jpg</guid>
@@ -731,7 +731,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-17]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -748,7 +748,7 @@
 							</item>
 					<item>
 		<title><![CDATA[Screenshot]]></title>
-		<link>https://dimitrium.org/en/cat/screenshot-18/</link>
+		<link>https://dimitrium.org/screenshot-18/</link>
 		<pubDate>Fri, 04 Sep 2026 15:35:16 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2209-edited.jpg</guid>
@@ -764,7 +764,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[screenshot-18]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -781,7 +781,7 @@
 							</item>
 					<item>
 		<title><![CDATA[IMG_2224]]></title>
-		<link>https://dimitrium.org/en/cat/img_2224/</link>
+		<link>https://dimitrium.org/img_2224/</link>
 		<pubDate>Fri, 04 Sep 2026 15:37:37 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2224.heic</guid>
@@ -797,7 +797,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[img_2224]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -814,7 +814,7 @@
 							</item>
 					<item>
 		<title><![CDATA[IMG_2224]]></title>
-		<link>https://dimitrium.org/en/cat/img_2224-2/</link>
+		<link>https://dimitrium.org/img_2224-2/</link>
 		<pubDate>Fri, 04 Sep 2026 15:37:58 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
 		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/IMG_2224-edited.heic</guid>
@@ -830,7 +830,7 @@
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[img_2224-2]]></wp:post_name>
 		<wp:status><![CDATA[inherit]]></wp:status>
-		<wp:post_parent>146</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
 		<wp:post_type><![CDATA[attachment]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
@@ -4083,7 +4083,7 @@ Known for | Technical development of STK Bubušinac]]></wp:meta_value>
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_dimipedia_additional_facts]]></wp:meta_key>
 		<wp:meta_value><![CDATA[Poslodavac | <a href="https://eps.rs/">Elektroprivreda Srbije</a>
-Radno mesto | Poslovođa grupe za elektroniku 
+Radno mesto | Poslovođa grupe za elektroniku
 Uloga | Kapiten prvog tima STK Bubušinac
 Poznat po | Tehnički razvoj STK Bubušinac]]></wp:meta_value>
 		</wp:postmeta>
@@ -5387,254 +5387,6 @@ Održava | <a href="https://dimitrium.org/sr/dimipedia/aleksa-dimitrijevic/">Ale
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Cat]]></title>
-		<link>https://dimitrium.org/en/cat/</link>
-		<pubDate>Fri, 04 Sep 2026 15:16:51 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/cat/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">This is my cat.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">No, I don't actually know how old she is, but if I had to guess, I'd say around 5 years.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Her name is Nala, she is the cutest, isn't she?</h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0","left":"0"}}}} -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":114,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2205-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2205-edited-1024x1024.jpg" alt="" class="wp-image-114"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":105,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2204-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2204-edited-1024x1024.jpg" alt="" class="wp-image-105"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0","left":"0"}}}} -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":158,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2206-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2206-edited.jpg" alt="" class="wp-image-158"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":159,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2202-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2202-edited.jpg" alt="" class="wp-image-159"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":160,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2203-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2203-edited.jpg" alt="" class="wp-image-160"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0","left":"0"}}}} -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":161,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2207-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2207-edited.jpg" alt="" class="wp-image-161"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":162,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2210-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2210-edited.jpg" alt="" class="wp-image-162"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0","left":"0"}}}} -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":163,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2200-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2200-edited.jpg" alt="" class="wp-image-163"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":164,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2209-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2209-edited.jpg" alt="" class="wp-image-164"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":166,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2224-edited-scaled.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2224-edited-scaled.jpg" alt="" class="wp-image-166"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Hint: You can absolutely click on the individual images of my cat, enjoy them in full screen and even download them!</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">The images of my cat are under the NOIR license, see <strong><a href="https://dimitrium.org/en/noir-license/" data-type="page" data-id="175">License Page</a></strong> for more details.</h2>
-<!-- /wp:heading -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>146</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 15:16:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 15:16:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-04 16:34:01]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-04 16:34:01]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[cat]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[EN]]></category>
-		<category domain="post_translations" nicename="pll_6a9ae0e36c1b5"><![CDATA[pll_6a9ae0e36c1b5]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-blank]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Meet Nala, Aleksa Dimitrijević’s cat. Browse her photo gallery and learn about the NOIR license for sharing her pictures.]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Mačka]]></title>
-		<link>https://dimitrium.org/sr/macka/</link>
-		<pubDate>Fri, 04 Sep 2026 15:16:51 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/macka/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Ovo je moja mačka.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Ne, zapravo ne znam koliko ima godina, ali kada bih morao da nagađam, rekao bih da ima oko pet godina.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Zove se Nala i najslađa je, zar ne?</h2>
-<!-- /wp:heading -->
-
-<!-- wp:group {"layout":{"type":"constrained"}} -->
-<div class="wp-block-group"><!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0","left":"0"}}}} -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":114,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2205-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2205-edited-1024x1024.jpg" alt="" class="wp-image-114"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":105,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2204-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2204-edited-1024x1024.jpg" alt="" class="wp-image-105"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0","left":"0"}}}} -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":158,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2206-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2206-edited.jpg" alt="" class="wp-image-158"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":159,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2202-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2202-edited.jpg" alt="" class="wp-image-159"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":160,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2203-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2203-edited.jpg" alt="" class="wp-image-160"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0","left":"0"}}}} -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":161,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2207-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2207-edited.jpg" alt="" class="wp-image-161"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":162,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2210-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2210-edited.jpg" alt="" class="wp-image-162"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns -->
-
-<!-- wp:columns {"style":{"spacing":{"blockGap":{"top":"0","left":"0"}}}} -->
-<div class="wp-block-columns"><!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":163,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2200-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2200-edited.jpg" alt="" class="wp-image-163"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":164,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2209-edited.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2209-edited.jpg" alt="" class="wp-image-164"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column -->
-
-<!-- wp:column -->
-<div class="wp-block-column"><!-- wp:image {"id":166,"sizeSlug":"full","linkDestination":"media"} -->
-<figure class="wp-block-image size-full"><a href="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2224-edited-scaled.jpg"><img src="https://dimitrium.org/wp-content/uploads/2026/09/IMG_2224-edited-scaled.jpg" alt="" class="wp-image-166"/></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Savet: Slobodno klikni na pojedinačne slike moje mačke, uživaj u njima preko celog ekrana, pa ih čak i preuzmi!</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Slike moje mačke su pod NOIR licencom; za više detalja pogledaj <strong><a href="https://dimitrium.org/sr/noir-licenca/" data-type="page" data-id="179">stranicu licence</a></strong>.</h2>
-<!-- /wp:heading -->]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>147</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 15:16:51]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 15:16:51]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-04 16:33:27]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-04 16:33:27]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[macka]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_translations" nicename="pll_6a9ae0e36c1b5"><![CDATA[pll_6a9ae0e36c1b5]]></category>
-		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-blank]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Upoznaj Nalu, mačku Alekse Dimitrijevića. Pogledaj njene fotografije i saznaj više o NOIR licenci za njihovo deljenje.]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[Noir]]></title>
 		<link>https://dimitrium.org/en/noir-license/</link>
 		<pubDate>Fri, 04 Sep 2026 16:29:11 +0000</pubDate>
@@ -5814,1189 +5566,7 @@ Održava | <a href="https://dimitrium.org/sr/dimipedia/aleksa-dimitrijevic/">Ale
 		<wp:meta_value><![CDATA[Pročitaj NOIR v1.0 licencu: Nala Open Image Repository. Saznaj uslove korišćenja i deljenja fotografija mačke Nale.]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					<item>
-		<title><![CDATA[Flex]]></title>
-		<link>https://dimitrium.org/en/flex/</link>
-		<pubDate>Fri, 04 Sep 2026 19:20:42 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/flex/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">No, you are not crazy to think that. I indeed created a page on my website to brag about the stuff I own or have created.</h2>
-<!-- /wp:heading -->
 
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Here are some things I am especially proud of:</h2>
-<!-- /wp:heading -->
-
-<section class="dimitrium-flex-grid" aria-label="Flex statistics">
-
-  <article class="dimitrium-flex-card">
-    <div class="dimitrium-flex-number">2</div>
-
-    <div class="dimitrium-flex-info">
-      <div class="dimitrium-flex-label">SELF-HOSTED SERVERS</div>
-      <div class="dimitrium-flex-label">CODENAMES: PLUTO &amp; VENUS</div>
-    </div>
-  </article>
-
-  <a href="/en/musique/" class="dimitrium-flex-card dimitrium-flex-card-link">
-    <div class="dimitrium-flex-number">100%</div>
-
-    <div class="dimitrium-flex-info">
-      <div class="dimitrium-flex-label">CUSTOM MUSIC PLAYER</div>
-      <div class="dimitrium-flex-label">CODENAME: NOW PLAYING</div>
-    </div>
-  </a>
-
-  <a href="/en/noir-license" class="dimitrium-flex-card dimitrium-flex-card-link">
-    <div class="dimitrium-flex-number">1</div>
-
-    <div class="dimitrium-flex-info">
-      <div class="dimitrium-flex-label">CAT WITH HER OWN LICENSE</div>
-      <div class="dimitrium-flex-label">CODENAME: NOIR V1.0</div>
-    </div>
-  </a>
-
-  <article class="dimitrium-flex-card">
-    <div class="dimitrium-flex-number">0</div>
-
-    <div class="dimitrium-flex-info">
-      <div class="dimitrium-flex-label">REASONS THIS NEEDED TO EXIST</div>
-      <div class="dimitrium-flex-label">CODENAME: 404</div>
-    </div>
-  </article>
-
-</section>
-
-<style>
-.dimitrium-flex-grid {
-  width: 100%;
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 18px;
-  margin: 0;
-  padding: 0;
-}
-
-.dimitrium-flex-card {
-  position: relative;
-  min-height: 220px;
-  padding: 30px 28px 26px;
-
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255,255,255,0.025),
-      rgba(255,255,255,0.008)
-    ),
-    #101112;
-
-  border: 1px solid rgba(255,255,255,0.13);
-  border-radius: 2px;
-
-  overflow: hidden;
-
-  transition:
-    transform 0.28s ease,
-    border-color 0.28s ease,
-    background 0.28s ease;
-}
-
-.dimitrium-flex-card-link {
-  color: inherit !important;
-  text-decoration: none !important;
-  cursor: pointer;
-}
-
-.dimitrium-flex-card::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-
-  width: 100%;
-  height: 3px;
-
-  background: rgba(255,255,255,0.9);
-
-  transform: scaleX(0.18);
-  transform-origin: left center;
-
-  transition: transform 0.35s ease;
-}
-
-.dimitrium-flex-card::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-
-  background:
-    linear-gradient(
-      135deg,
-      rgba(255,255,255,0.035),
-      transparent 35%
-    );
-
-  pointer-events: none;
-}
-
-.dimitrium-flex-card:hover {
-  transform: translateY(-4px);
-
-  border-color: rgba(255,255,255,0.3);
-
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255,255,255,0.04),
-      rgba(255,255,255,0.012)
-    ),
-    #101112;
-}
-
-.dimitrium-flex-card:hover::before {
-  transform: scaleX(1);
-}
-
-.dimitrium-flex-number {
-  position: relative;
-  z-index: 1;
-
-  font-family: "monospace", sans-serif !important;
-  font-style: italic;
-  font-weight: 900;
-
-  font-size: clamp(4rem, 8vw, 6.8rem);
-  line-height: 0.9;
-  letter-spacing: -0.03em;
-
-  color: #f7f8f8;
-}
-
-.dimitrium-flex-info {
-  position: relative;
-  z-index: 1;
-}
-
-.dimitrium-flex-label {
-  position: relative;
-  z-index: 1;
-
-  max-width: 90%;
-
-  font-size: 0.88rem;
-  line-height: 1.35;
-  font-weight: 600;
-  letter-spacing: 0.12em;
-
-  color: #8a8f98;
-}
-
-.dimitrium-flex-info .dimitrium-flex-label + .dimitrium-flex-label {
-  margin-top: 5px;
-}
-
-@media (max-width: 700px) {
-  .dimitrium-flex-grid {
-    grid-template-columns: 1fr;
-    gap: 14px;
-  }
-
-  .dimitrium-flex-card {
-    min-height: 170px;
-    padding: 24px 22px 20px;
-  }
-
-  .dimitrium-flex-number {
-    font-size: clamp(4rem, 20vw, 6rem);
-  }
-
-  .dimitrium-flex-label {
-    font-size: 0.8rem;
-    max-width: 100%;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .dimitrium-flex-card,
-  .dimitrium-flex-card::before {
-    transition: none;
-  }
-
-  .dimitrium-flex-card:hover {
-    transform: none;
-  }
-}
-</style>
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Luckily for you, the list has just begun.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Now, we'll take a look at some projects I have created.</h2>
-<!-- /wp:heading -->
-
-<section class="dimitrium-project-grid" aria-label="Projects">
-
-  <!-- LibreTT -->
-  <a
-    href="https://github.com/tradicije/librett"
-    class="dimitrium-project-card"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Open LibreTT on GitHub"
-  >
-    <div class="dimitrium-project-logo-wrap">
-      <img
-        src="https://dimitrium.org/wp-content/uploads/2026/09/librett-logo.svg"
-        alt="LibreTT"
-        class="dimitrium-project-logo dimitrium-project-logo-librett"
-      >
-    </div>
-
-    <div class="dimitrium-project-info">
-      <div class="dimitrium-project-title">LIBRETT</div>
-      <div class="dimitrium-project-description">
-        OPEN-SOURCE TABLE TENNIS TOURNAMENT SOFTWARE
-      </div>
-      <div class="dimitrium-project-source">GITHUB</div>
-    </div>
-  </a>
-
-
-  <!-- Circuit Smart Redirect -->
-  <a
-    href="https://codeberg.org/tradicije/CircuitSmartRedirect"
-    class="dimitrium-project-card"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Open Circuit Smart Redirect on Codeberg"
-  >
-    <div class="dimitrium-project-logo-wrap">
-      <img
-        src="https://dimitrium.org/wp-content/uploads/2026/09/redirect-logo.png"
-        alt="Circuit Smart Redirect"
-        class="dimitrium-project-logo dimitrium-project-logo-redirect"
-      >
-    </div>
-
-    <div class="dimitrium-project-info">
-      <div class="dimitrium-project-title">CIRCUIT SMART REDIRECT</div>
-      <div class="dimitrium-project-description">
-        SMART REDIRECT AND LINK ROUTING TOOL
-      </div>
-      <div class="dimitrium-project-source">CODEBERG</div>
-    </div>
-  </a>
-
-
-  <!-- STK Bubušinac -->
-  <a
-    href="https://stkb.rs"
-    class="dimitrium-project-card"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Open STK Bubušinac official website"
-  >
-    <div class="dimitrium-project-logo-wrap">
-      <img
-        src="https://dimitrium.org/wp-content/uploads/2026/09/Bubusinac-Logo-Simplified.png"
-        alt="STK Bubušinac"
-        class="dimitrium-project-logo dimitrium-project-logo-bubusinac"
-      >
-    </div>
-
-    <div class="dimitrium-project-info">
-      <div class="dimitrium-project-title">STK BUBUŠINAC</div>
-      <div class="dimitrium-project-description">
-        OFFICIAL WEBSITE OF MY TABLE TENNIS CLUB
-      </div>
-      <div class="dimitrium-project-source">STKB.RS</div>
-    </div>
-  </a>
-
-</section>
-
-<style>
-.dimitrium-project-grid {
-  width: 100%;
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 18px;
-  margin: 0;
-  padding: 0;
-}
-
-.dimitrium-project-card {
-  position: relative;
-  width: 100%;
-  padding: 26px 28px 24px;
-
-  display: flex;
-  flex-direction: column;
-
-  color: inherit !important;
-  text-decoration: none !important;
-
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255,255,255,0.025),
-      rgba(255,255,255,0.008)
-    ),
-    #101112;
-
-  border: 1px solid rgba(255,255,255,0.13);
-  border-radius: 2px;
-
-  overflow: hidden;
-  cursor: pointer;
-
-  transition:
-    transform 0.28s ease,
-    border-color 0.28s ease,
-    background 0.28s ease;
-}
-
-.dimitrium-project-card::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-
-  width: 100%;
-  height: 3px;
-
-  background: rgba(255,255,255,0.9);
-
-  transform: scaleX(0.18);
-  transform-origin: left center;
-
-  transition: transform 0.35s ease;
-}
-
-.dimitrium-project-card::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-
-  background:
-    linear-gradient(
-      135deg,
-      rgba(255,255,255,0.035),
-      transparent 35%
-    );
-
-  pointer-events: none;
-}
-
-.dimitrium-project-card:hover {
-  transform: translateY(-4px);
-
-  border-color: rgba(255,255,255,0.30);
-
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255,255,255,0.04),
-      rgba(255,255,255,0.012)
-    ),
-    #101112;
-}
-
-.dimitrium-project-card:hover::before {
-  transform: scaleX(1);
-}
-
-
-/* LOGO */
-
-.dimitrium-project-logo-wrap {
-  position: relative;
-  z-index: 1;
-
-  width: 100%;
-
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-
-  padding: 0;
-  margin: 0 0 40px 0;
-}
-
-.dimitrium-project-logo {
-  display: block;
-
-  width: auto;
-  height: auto;
-
-  max-width: 210px;
-  max-height: 95px;
-
-  object-fit: contain;
-  object-position: left center;
-
-  opacity: 0.92;
-
-  transition:
-    transform 0.3s ease,
-    opacity 0.3s ease;
-}
-
-.dimitrium-project-card:hover .dimitrium-project-logo {
-  transform: scale(1.035);
-  transform-origin: left center;
-  opacity: 1;
-}
-
-
-/* INDIVIDUAL LOGO SIZING */
-
-.dimitrium-project-logo-librett {
-  max-width: 190px;
-  max-height: 82px;
-}
-
-.dimitrium-project-logo-redirect {
-  max-width: 190px;
-  max-height: 82px;
-}
-
-.dimitrium-project-logo-bubusinac {
-  max-width: 145px;
-  max-height: 95px;
-}
-
-
-/* TEXT */
-
-.dimitrium-project-info {
-  position: relative;
-  z-index: 1;
-}
-
-.dimitrium-project-title {
-  margin: 0 0 9px 0;
-
-  font-family: "monospace", sans-serif !important;
-  font-style: italic;
-  font-weight: 900;
-
-  font-size: 1.35rem;
-  line-height: 1.05;
-  letter-spacing: 0.03em;
-
-  color: #f7f8f8;
-}
-
-.dimitrium-project-description {
-  max-width: 100%;
-
-  font-size: 0.78rem;
-  line-height: 1.45;
-  font-weight: 600;
-  letter-spacing: 0.10em;
-
-  color: #8a8f98;
-}
-
-.dimitrium-project-source {
-  margin-top: 12px;
-
-  font-size: 0.7rem;
-  line-height: 1;
-  font-weight: 600;
-  letter-spacing: 0.16em;
-
-  color: rgba(138,143,152,0.58);
-}
-
-
-/* MOBILE */
-
-@media (max-width: 700px) {
-  .dimitrium-project-grid {
-    gap: 14px;
-  }
-
-  .dimitrium-project-card {
-    padding: 22px 22px 20px;
-  }
-
-  .dimitrium-project-logo-wrap {
-    margin-bottom: 40px;
-  }
-
-  .dimitrium-project-logo {
-    max-width: 175px;
-    max-height: 78px;
-  }
-
-  .dimitrium-project-logo-librett,
-  .dimitrium-project-logo-redirect {
-    max-width: 165px;
-    max-height: 72px;
-  }
-
-  .dimitrium-project-logo-bubusinac {
-    max-width: 125px;
-    max-height: 82px;
-  }
-
-  .dimitrium-project-title {
-    font-size: 1.2rem;
-  }
-
-  .dimitrium-project-description {
-    font-size: 0.75rem;
-  }
-
-  .dimitrium-project-source {
-    font-size: 0.66rem;
-  }
-}
-
-
-/* ACCESSIBILITY */
-
-@media (prefers-reduced-motion: reduce) {
-  .dimitrium-project-card,
-  .dimitrium-project-card::before,
-  .dimitrium-project-logo {
-    transition: none;
-  }
-
-  .dimitrium-project-card:hover,
-  .dimitrium-project-card:hover .dimitrium-project-logo {
-    transform: none;
-  }
-}
-</style>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>223</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 19:20:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 19:20:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-08 06:16:36]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-08 06:16:36]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[flex]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[EN]]></category>
-		<category domain="post_translations" nicename="pll_6a9b1a0a42ebc"><![CDATA[pll_6a9b1a0a42ebc]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-blank]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Explore Aleksa Dimitrijević’s personal projects: self-hosted servers, a custom music player, open-source software and websites.]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Flex]]></title>
-		<link>https://dimitrium.org/sr/fleks/</link>
-		<pubDate>Fri, 04 Sep 2026 19:20:42 +0000</pubDate>
-		<dc:creator><![CDATA[]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/fleks/</guid>
-		<description></description>
-		<content:encoded><![CDATA[<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Ne, nisi lud što si to pomislio. Zaista sam napravio stranicu na svom sajtu da se pohvalim stvarima koje posedujem ili sam napravio.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Evo nekoliko stvari na koje sam posebno ponosan:</h2>
-<!-- /wp:heading -->
-
-<section class="dimitrium-flex-grid" aria-label="Flex statistika">
-
-  <article class="dimitrium-flex-card">
-    <div class="dimitrium-flex-number">2</div>
-
-    <div class="dimitrium-flex-info">
-      <div class="dimitrium-flex-label">SERVERI U SOPSTVENOM HOSTINGU</div>
-      <div class="dimitrium-flex-label">OZNAKE: PLUTO &amp; VENUS</div>
-    </div>
-  </article>
-
-  <a href="/sr/muzika/" class="dimitrium-flex-card dimitrium-flex-card-link">
-    <div class="dimitrium-flex-number">100%</div>
-
-    <div class="dimitrium-flex-info">
-      <div class="dimitrium-flex-label">SOPSTVENI MUZIČKI PLEJER</div>
-      <div class="dimitrium-flex-label">OZNAKA: NOW PLAYING</div>
-    </div>
-  </a>
-
-  <a href="/sr/noir-licenca/" class="dimitrium-flex-card dimitrium-flex-card-link">
-    <div class="dimitrium-flex-number">1</div>
-
-    <div class="dimitrium-flex-info">
-      <div class="dimitrium-flex-label">MAČKA SA SOPSTVENOM LICENCOM</div>
-      <div class="dimitrium-flex-label">OZNAKA: NOIR V1.0</div>
-    </div>
-  </a>
-
-  <article class="dimitrium-flex-card">
-    <div class="dimitrium-flex-number">0</div>
-
-    <div class="dimitrium-flex-info">
-      <div class="dimitrium-flex-label">RAZLOGA DA OVO POSTOJI</div>
-      <div class="dimitrium-flex-label">OZNAKA: 404</div>
-    </div>
-  </article>
-
-</section>
-
-<style>
-.dimitrium-flex-grid {
-  width: 100%;
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 18px;
-  margin: 0;
-  padding: 0;
-}
-
-.dimitrium-flex-card {
-  position: relative;
-  min-height: 220px;
-  padding: 30px 28px 26px;
-
-  display: flex;
-  flex-direction: column;
-  justify-content: space-between;
-
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255,255,255,0.025),
-      rgba(255,255,255,0.008)
-    ),
-    #101112;
-
-  border: 1px solid rgba(255,255,255,0.13);
-  border-radius: 2px;
-
-  overflow: hidden;
-
-  transition:
-    transform 0.28s ease,
-    border-color 0.28s ease,
-    background 0.28s ease;
-}
-
-.dimitrium-flex-card-link {
-  color: inherit !important;
-  text-decoration: none !important;
-  cursor: pointer;
-}
-
-.dimitrium-flex-card::before {
-  content: "";
-  position: absolute;
-  left: 0;
-  top: 0;
-
-  width: 100%;
-  height: 3px;
-
-  background: rgba(255,255,255,0.9);
-
-  transform: scaleX(0.18);
-  transform-origin: left center;
-
-  transition: transform 0.35s ease;
-}
-
-.dimitrium-flex-card::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-
-  background:
-    linear-gradient(
-      135deg,
-      rgba(255,255,255,0.035),
-      transparent 35%
-    );
-
-  pointer-events: none;
-}
-
-.dimitrium-flex-card:hover {
-  transform: translateY(-4px);
-
-  border-color: rgba(255,255,255,0.3);
-
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255,255,255,0.04),
-      rgba(255,255,255,0.012)
-    ),
-    #101112;
-}
-
-.dimitrium-flex-card:hover::before {
-  transform: scaleX(1);
-}
-
-.dimitrium-flex-number {
-  position: relative;
-  z-index: 1;
-
-  font-family: "monospace", sans-serif !important;
-  font-style: italic;
-  font-weight: 900;
-
-  font-size: clamp(4rem, 8vw, 6.8rem);
-  line-height: 0.9;
-  letter-spacing: -0.03em;
-
-  color: #f7f8f8;
-}
-
-.dimitrium-flex-info {
-  position: relative;
-  z-index: 1;
-}
-
-.dimitrium-flex-label {
-  position: relative;
-  z-index: 1;
-
-  max-width: 90%;
-
-  font-size: 0.88rem;
-  line-height: 1.35;
-  font-weight: 600;
-  letter-spacing: 0.12em;
-
-  color: #8a8f98;
-}
-
-.dimitrium-flex-info .dimitrium-flex-label + .dimitrium-flex-label {
-  margin-top: 5px;
-}
-
-@media (max-width: 700px) {
-  .dimitrium-flex-grid {
-    grid-template-columns: 1fr;
-    gap: 14px;
-  }
-
-  .dimitrium-flex-card {
-    min-height: 170px;
-    padding: 24px 22px 20px;
-  }
-
-  .dimitrium-flex-number {
-    font-size: clamp(4rem, 20vw, 6rem);
-  }
-
-  .dimitrium-flex-label {
-    font-size: 0.8rem;
-    max-width: 100%;
-  }
-}
-
-@media (prefers-reduced-motion: reduce) {
-  .dimitrium-flex-card,
-  .dimitrium-flex-card::before {
-    transition: none;
-  }
-
-  .dimitrium-flex-card:hover {
-    transform: none;
-  }
-}
-</style>
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Na tvoju sreću, lista je tek počela.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:heading {"style":{"typography":{"lineHeight":"1.5","fontStyle":"normal","fontWeight":"500","fontSize":"2rem"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Sada ćemo pogledati neke projekte koje sam napravio.</h2>
-<!-- /wp:heading -->
-
-<section class="dimitrium-project-grid" aria-label="Projekti">
-
-  <!-- LibreTT -->
-  <a
-    href="https://github.com/tradicije/librett"
-    class="dimitrium-project-card"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Otvori LibreTT na GitHub-u"
-  >
-    <div class="dimitrium-project-logo-wrap">
-      <img
-        src="https://dimitrium.org/wp-content/uploads/2026/09/librett-logo.svg"
-        alt="LibreTT"
-        class="dimitrium-project-logo dimitrium-project-logo-librett"
-      >
-    </div>
-
-    <div class="dimitrium-project-info">
-      <div class="dimitrium-project-title">LIBRETT</div>
-      <div class="dimitrium-project-description">
-        SOFTVER OTVORENOG KODA ZA STONOTENISKE TURNIRE
-      </div>
-      <div class="dimitrium-project-source">GITHUB</div>
-    </div>
-  </a>
-
-
-  <!-- Circuit Smart Redirect -->
-  <a
-    href="https://codeberg.org/tradicije/CircuitSmartRedirect"
-    class="dimitrium-project-card"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Otvori Circuit Smart Redirect na Codeberg-u"
-  >
-    <div class="dimitrium-project-logo-wrap">
-      <img
-        src="https://dimitrium.org/wp-content/uploads/2026/09/redirect-logo.png"
-        alt="Circuit Smart Redirect"
-        class="dimitrium-project-logo dimitrium-project-logo-redirect"
-      >
-    </div>
-
-    <div class="dimitrium-project-info">
-      <div class="dimitrium-project-title">CIRCUIT SMART REDIRECT</div>
-      <div class="dimitrium-project-description">
-        PAMETNI ALAT ZA PREUSMERAVANJE I USMERAVANJE LINKOVA
-      </div>
-      <div class="dimitrium-project-source">CODEBERG</div>
-    </div>
-  </a>
-
-
-  <!-- STK Bubušinac -->
-  <a
-    href="https://stkb.rs"
-    class="dimitrium-project-card"
-    target="_blank"
-    rel="noopener noreferrer"
-    aria-label="Otvori zvanični sajt STK Bubušinac"
-  >
-    <div class="dimitrium-project-logo-wrap">
-      <img
-        src="https://dimitrium.org/wp-content/uploads/2026/09/Bubusinac-Logo-Simplified.png"
-        alt="STK Bubušinac"
-        class="dimitrium-project-logo dimitrium-project-logo-bubusinac"
-      >
-    </div>
-
-    <div class="dimitrium-project-info">
-      <div class="dimitrium-project-title">STK BUBUŠINAC</div>
-      <div class="dimitrium-project-description">
-        ZVANIČNI SAJT MOG STONOTENISKOG KLUBA
-      </div>
-      <div class="dimitrium-project-source">STKB.RS</div>
-    </div>
-  </a>
-
-</section>
-
-<style>
-.dimitrium-project-grid {
-  width: 100%;
-  display: grid;
-  grid-template-columns: 1fr;
-  gap: 18px;
-  margin: 0;
-  padding: 0;
-}
-
-.dimitrium-project-card {
-  position: relative;
-  width: 100%;
-  padding: 26px 28px 24px;
-
-  display: flex;
-  flex-direction: column;
-
-  color: inherit !important;
-  text-decoration: none !important;
-
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255,255,255,0.025),
-      rgba(255,255,255,0.008)
-    ),
-    #101112;
-
-  border: 1px solid rgba(255,255,255,0.13);
-  border-radius: 2px;
-
-  overflow: hidden;
-  cursor: pointer;
-
-  transition:
-    transform 0.28s ease,
-    border-color 0.28s ease,
-    background 0.28s ease;
-}
-
-.dimitrium-project-card::before {
-  content: "";
-  position: absolute;
-  top: 0;
-  left: 0;
-
-  width: 100%;
-  height: 3px;
-
-  background: rgba(255,255,255,0.9);
-
-  transform: scaleX(0.18);
-  transform-origin: left center;
-
-  transition: transform 0.35s ease;
-}
-
-.dimitrium-project-card::after {
-  content: "";
-  position: absolute;
-  inset: 0;
-
-  background:
-    linear-gradient(
-      135deg,
-      rgba(255,255,255,0.035),
-      transparent 35%
-    );
-
-  pointer-events: none;
-}
-
-.dimitrium-project-card:hover {
-  transform: translateY(-4px);
-
-  border-color: rgba(255,255,255,0.30);
-
-  background:
-    linear-gradient(
-      180deg,
-      rgba(255,255,255,0.04),
-      rgba(255,255,255,0.012)
-    ),
-    #101112;
-}
-
-.dimitrium-project-card:hover::before {
-  transform: scaleX(1);
-}
-
-
-/* LOGO */
-
-.dimitrium-project-logo-wrap {
-  position: relative;
-  z-index: 1;
-
-  width: 100%;
-
-  display: flex;
-  align-items: center;
-  justify-content: flex-start;
-
-  padding: 0;
-  margin: 0 0 40px 0;
-}
-
-.dimitrium-project-logo {
-  display: block;
-
-  width: auto;
-  height: auto;
-
-  max-width: 210px;
-  max-height: 95px;
-
-  object-fit: contain;
-  object-position: left center;
-
-  opacity: 0.92;
-
-  transition:
-    transform 0.3s ease,
-    opacity 0.3s ease;
-}
-
-.dimitrium-project-card:hover .dimitrium-project-logo {
-  transform: scale(1.035);
-  transform-origin: left center;
-  opacity: 1;
-}
-
-
-/* INDIVIDUAL LOGO SIZING */
-
-.dimitrium-project-logo-librett {
-  max-width: 190px;
-  max-height: 82px;
-}
-
-.dimitrium-project-logo-redirect {
-  max-width: 190px;
-  max-height: 82px;
-}
-
-.dimitrium-project-logo-bubusinac {
-  max-width: 145px;
-  max-height: 95px;
-}
-
-
-/* TEXT */
-
-.dimitrium-project-info {
-  position: relative;
-  z-index: 1;
-}
-
-.dimitrium-project-title {
-  margin: 0 0 9px 0;
-
-  font-family: "monospace", sans-serif !important;
-  font-style: italic;
-  font-weight: 900;
-
-  font-size: 1.35rem;
-  line-height: 1.05;
-  letter-spacing: 0.03em;
-
-  color: #f7f8f8;
-}
-
-.dimitrium-project-description {
-  max-width: 100%;
-
-  font-size: 0.78rem;
-  line-height: 1.45;
-  font-weight: 600;
-  letter-spacing: 0.10em;
-
-  color: #8a8f98;
-}
-
-.dimitrium-project-source {
-  margin-top: 12px;
-
-  font-size: 0.7rem;
-  line-height: 1;
-  font-weight: 600;
-  letter-spacing: 0.16em;
-
-  color: rgba(138,143,152,0.58);
-}
-
-
-/* MOBILE */
-
-@media (max-width: 700px) {
-  .dimitrium-project-grid {
-    gap: 14px;
-  }
-
-  .dimitrium-project-card {
-    padding: 22px 22px 20px;
-  }
-
-  .dimitrium-project-logo-wrap {
-    margin-bottom: 40px;
-  }
-
-  .dimitrium-project-logo {
-    max-width: 175px;
-    max-height: 78px;
-  }
-
-  .dimitrium-project-logo-librett,
-  .dimitrium-project-logo-redirect {
-    max-width: 165px;
-    max-height: 72px;
-  }
-
-  .dimitrium-project-logo-bubusinac {
-    max-width: 125px;
-    max-height: 82px;
-  }
-
-  .dimitrium-project-title {
-    font-size: 1.2rem;
-  }
-
-  .dimitrium-project-description {
-    font-size: 0.75rem;
-  }
-
-  .dimitrium-project-source {
-    font-size: 0.66rem;
-  }
-}
-
-
-/* ACCESSIBILITY */
-
-@media (prefers-reduced-motion: reduce) {
-  .dimitrium-project-card,
-  .dimitrium-project-card::before,
-  .dimitrium-project-logo {
-    transition: none;
-  }
-
-  .dimitrium-project-card:hover,
-  .dimitrium-project-card:hover .dimitrium-project-logo {
-    transform: none;
-  }
-}
-</style>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>224</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 19:20:42]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 19:20:42]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-04 20:08:57]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-04 20:08:57]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[fleks]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_translations" nicename="pll_6a9b1a0a42ebc"><![CDATA[pll_6a9b1a0a42ebc]]></category>
-		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[template-blank]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Pogledaj lične projekte Alekse Dimitrijevića: self-hosted servere, prilagođeni muzički plejer, softver otvorenog koda i sajtove.]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					
 					<item>
 		<title><![CDATA[Dimipedia i Dimimedia bi uskoro mogli da počnu sa razvojem.]]></title>
 		<link>https://dimitrium.org/sr/news/dimipedia-i-dimimedia-bi-uskoro-mogli-da-pocnu-sa-razvojem/</link>
@@ -7314,6 +5884,248 @@ Održava | <a href="https://dimitrium.org/sr/dimipedia/aleksa-dimitrijevic/">Ale
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[Dimipedia]]></title>
+		<link>https://dimitrium.org/en/dimipedia/</link>
+		<pubDate>Tue, 08 Sep 2026 10:51:45 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/?page_id=463</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png","id":505,"dimRatio":60,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeight":80,"minHeightUnit":"vh","sizeSlug":"large","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover dimipedia-hero" style="min-height:80vh"><img class="wp-block-cover__image-background wp-image-505 size-large" alt="" src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:image {"id":504,"width":"auto","height":"256px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://dimitrium.org/wp-content/uploads/2026/09/Dimipedia-Logo.png" alt="" class="wp-image-504" style="width:auto;height:256px" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"5rem","lineHeight":"1.5","fontStyle":"italic","fontWeight":"900","textAlign":"center"},"spacing":{"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h1 class="wp-block-heading has-text-align-center has-monospace-font-family" style="margin-top:40px;font-size:5rem;font-style:italic;font-weight:900;line-height:1.5">DIMIPEDIA</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}},"spacing":{"margin":{"top":"16px"}}},"textColor":"theme-4"} -->
+<p class="has-text-align-center has-theme-4-color has-text-color has-link-color" style="margin-top:16px;font-size:1.2rem;font-style:normal;font-weight:500">0.1 years of free encyclopedia</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"className":"website-section","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"backgroundColor":"theme-3","layout":{"type":"constrained"}} -->
+<div class="wp-block-group website-section has-theme-3-background-color has-background" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Get ready to hear me brag</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
+<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">There were 0 good reasons for me to created a Wikipedia clone from the ground up.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">I love making over the top, unnecessary plugins for WordPress, and "Dimipedia" is no different.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">There are many plugins out there that are probably better in every way that clone Wikipedia, more optimized, but of course, that did not stop little old me to create a custom solution.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Is it good? I'll let you be the judge of that. But in my humble, objective and unbiased opinion, this plugin is a masterpiece.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">So, feel free to explore Dimipedia and get to know the main actors of the show through their official articles.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":508,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM-768x1024.png" alt="" class="wp-image-508" /></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:shortcode -->
+[dimipedia_entries_grid]
+<!-- /wp:shortcode -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>463</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-08 10:51:45]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-08 10:51:45]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-08 20:49:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-08 20:49:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dimipedia]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="language" nicename="en"><![CDATA[EN]]></category>
+		<category domain="post_translations" nicename="pll_6a9fe8d12ae01"><![CDATA[pll_6a9fe8d12ae01]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Dimipedia]]></title>
+		<link>https://dimitrium.org/sr/dimipedia/</link>
+		<pubDate>Tue, 08 Sep 2026 10:52:00 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/?page_id=465</guid>
+		<description></description>
+		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png","id":505,"dimRatio":60,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeight":80,"minHeightUnit":"vh","sizeSlug":"large","layout":{"type":"constrained"}} -->
+<div class="wp-block-cover dimipedia-hero" style="min-height:80vh"><img class="wp-block-cover__image-background wp-image-505 size-large" alt="" src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:image {"id":504,"width":"auto","height":"256px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
+<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://dimitrium.org/wp-content/uploads/2026/09/Dimipedia-Logo.png" alt="" class="wp-image-504" style="width:auto;height:256px" /></figure>
+<!-- /wp:image -->
+
+<!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"5rem","lineHeight":"1.5","fontStyle":"italic","fontWeight":"900","textAlign":"center"},"spacing":{"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h1 class="wp-block-heading has-text-align-center has-monospace-font-family" style="margin-top:40px;font-size:5rem;font-style:italic;font-weight:900;line-height:1.5">DIMIPEDIA</h1>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}},"spacing":{"margin":{"top":"16px"}}},"textColor":"theme-4"} -->
+<p class="has-text-align-center has-theme-4-color has-text-color has-link-color" style="margin-top:16px;font-size:1.2rem;font-style:normal;font-weight:500">0,1 godina slobodne enciklopedije</p>
+<!-- /wp:paragraph --></div></div>
+<!-- /wp:cover -->
+
+<!-- wp:group {"className":"website-section","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"backgroundColor":"theme-3","layout":{"type":"constrained"}} -->
+<div class="wp-block-group website-section has-theme-3-background-color has-background" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Spremite se da slušate kako se hvalim</h2>
+<!-- /wp:heading -->
+
+<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
+<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
+<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Nije bilo nijednog dobrog razloga da od nule napravim klon Wikipedije.</h2>
+<!-- /wp:heading -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Volim da pravim prenaglašene, nepotrebne WordPress dodatke, a „Dimipedia” nije izuzetak.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Postoji mnogo dodataka koji verovatno na svaki način bolje kloniraju Wikipediju i bolje su optimizovani, ali me to, naravno, nije sprečilo da napravim svoje prilagođeno rešenje.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Da li je dobar? To prepuštam vama da procenite. Ali po mom skromnom, objektivnom i nepristrasnom mišljenju, ovaj dodatak je remek-delo.</p>
+<!-- /wp:paragraph -->
+
+<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
+<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Slobodno istražite Dimipediju i upoznajte glavne aktere kroz njihove zvanične članke.</p>
+<!-- /wp:paragraph --></div>
+<!-- /wp:column -->
+
+<!-- wp:column {"verticalAlignment":"center"} -->
+<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":508,"sizeSlug":"large","linkDestination":"media"} -->
+<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM-768x1024.png" alt="" class="wp-image-508" /></a></figure>
+<!-- /wp:image --></div>
+<!-- /wp:column --></div>
+<!-- /wp:columns --></div>
+<!-- /wp:group -->
+
+<!-- wp:shortcode -->
+[dimipedia_entries_grid]
+<!-- /wp:shortcode -->
+]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>465</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-08 10:52:00]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-08 10:52:00]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-08 20:49:19]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-08 20:49:19]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dimipedia]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_translations" nicename="pll_6a9fe8d12ae01"><![CDATA[pll_6a9fe8d12ae01]]></category>
+		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Software]]></title>
+		<link>https://dimitrium.org/en/software/</link>
+		<pubDate>Thu, 10 Sep 2026 00:04:50 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/?page_id=572</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>572</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-10 00:04:50]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-10 00:04:50]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-10 00:05:00]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-10 00:05:00]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[software]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="language" nicename="en"><![CDATA[EN]]></category>
+		<category domain="post_translations" nicename="pll_6aa1f4372ad6f"><![CDATA[pll_6aa1f4372ad6f]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
+		<title><![CDATA[Softver]]></title>
+		<link>https://dimitrium.org/sr/softver/</link>
+		<pubDate>Thu, 10 Sep 2026 00:05:10 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/?page_id=574</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>574</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-10 00:05:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-10 00:05:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-10 00:05:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-10 00:05:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[softver]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="post_translations" nicename="pll_6aa1f4372ad6f"><![CDATA[pll_6aa1f4372ad6f]]></category>
+		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Filozofija]]></title>
 		<link>https://dimitrium.org/sr/filozofija/</link>
 		<pubDate>Thu, 10 Sep 2026 22:55:06 +0000</pubDate>
@@ -7556,8 +6368,8 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 			<wp:comment_user_id>0</wp:comment_user_id>
 							</wp:comment>
 					</item>
-					
-					
+
+
 					<item>
 		<title><![CDATA[manrope;normal;200;100%;U+0-10FFFF]]></title>
 		<link>https://dimitrium.org/manropenormal200100u0-10ffff/</link>
@@ -7838,250 +6650,120 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_value><![CDATA[monospace-ExtraLight.ttf]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-					
-					
 					<item>
-		<title><![CDATA[Dimipedia]]></title>
-		<link>https://dimitrium.org/en/dimipedia/</link>
-		<pubDate>Tue, 08 Sep 2026 10:51:45 +0000</pubDate>
+		<title><![CDATA[monospace;italic;250;100%;U+0-10FFFF]]></title>
+		<link>https://dimitrium.org/monospaceitalic250100u0-10ffff/</link>
+		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?page_id=463</guid>
+		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic250100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png","id":505,"dimRatio":60,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeight":80,"minHeightUnit":"vh","sizeSlug":"large","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover dimipedia-hero" style="min-height:80vh"><img class="wp-block-cover__image-background wp-image-505 size-large" alt="" src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:image {"id":504,"width":"auto","height":"256px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://dimitrium.org/wp-content/uploads/2026/09/Dimipedia-Logo.png" alt="" class="wp-image-504" style="width:auto;height:256px" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"5rem","lineHeight":"1.5","fontStyle":"italic","fontWeight":"900","textAlign":"center"},"spacing":{"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h1 class="wp-block-heading has-text-align-center has-monospace-font-family" style="margin-top:40px;font-size:5rem;font-style:italic;font-weight:900;line-height:1.5">DIMIPEDIA</h1>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}},"spacing":{"margin":{"top":"16px"}}},"textColor":"theme-4"} -->
-<p class="has-text-align-center has-theme-4-color has-text-color has-link-color" style="margin-top:16px;font-size:1.2rem;font-style:normal;font-weight:500">0.1 years of free encyclopedia</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:group {"className":"website-section","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"backgroundColor":"theme-3","layout":{"type":"constrained"}} -->
-<div class="wp-block-group website-section has-theme-3-background-color has-background" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Get ready to hear me brag</h2>
-<!-- /wp:heading -->
-
-<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">There were 0 good reasons for me to created a Wikipedia clone from the ground up.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">I love making over the top, unnecessary plugins for WordPress, and "Dimipedia" is no different.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">There are many plugins out there that are probably better in every way that clone Wikipedia, more optimized, but of course, that did not stop little old me to create a custom solution.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Is it good? I'll let you be the judge of that. But in my humble, objective and unbiased opinion, this plugin is a masterpiece.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">So, feel free to explore Dimipedia and get to know the main actors of the show through their official articles.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":508,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM-768x1024.png" alt="" class="wp-image-508" /></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:shortcode -->
-[dimipedia_entries_grid]
-<!-- /wp:shortcode -->
-]]></content:encoded>
+		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"250","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-ExtraLightItalic.ttf"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>463</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-08 10:51:45]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-08 10:51:45]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-08 20:49:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-08 20:49:19]]></wp:post_modified_gmt>
+		<wp:post_id>31</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[dimipedia]]></wp:post_name>
+		<wp:post_name><![CDATA[monospaceitalic250100u0-10ffff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>27</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[EN]]></category>
-		<category domain="post_translations" nicename="pll_6a9fe8d12ae01"><![CDATA[pll_6a9fe8d12ae01]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[monospace-ExtraLightItalic.ttf]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Dimipedia]]></title>
-		<link>https://dimitrium.org/sr/dimipedia/</link>
-		<pubDate>Tue, 08 Sep 2026 10:52:00 +0000</pubDate>
+		<title><![CDATA[monospace;normal;900;100%;U+0-10FFFF]]></title>
+		<link>https://dimitrium.org/monospacenormal900100u0-10ffff/</link>
+		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?page_id=465</guid>
+		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospacenormal900100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[<!-- wp:cover {"url":"https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png","id":505,"dimRatio":60,"overlayColor":"theme-1","isUserOverlayColor":true,"minHeight":80,"minHeightUnit":"vh","sizeSlug":"large","layout":{"type":"constrained"}} -->
-<div class="wp-block-cover dimipedia-hero" style="min-height:80vh"><img class="wp-block-cover__image-background wp-image-505 size-large" alt="" src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_25_10-PM-1024x768.png" data-object-fit="cover" /><span aria-hidden="true" class="wp-block-cover__background has-theme-1-background-color has-background-dim-60 has-background-dim"></span><div class="wp-block-cover__inner-container"><!-- wp:image {"id":504,"width":"auto","height":"256px","sizeSlug":"full","linkDestination":"none","align":"center"} -->
-<figure class="wp-block-image aligncenter size-full is-resized"><img src="https://dimitrium.org/wp-content/uploads/2026/09/Dimipedia-Logo.png" alt="" class="wp-image-504" style="width:auto;height:256px" /></figure>
-<!-- /wp:image -->
-
-<!-- wp:heading {"level":1,"style":{"typography":{"fontSize":"5rem","lineHeight":"1.5","fontStyle":"italic","fontWeight":"900","textAlign":"center"},"spacing":{"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h1 class="wp-block-heading has-text-align-center has-monospace-font-family" style="margin-top:40px;font-size:5rem;font-style:italic;font-weight:900;line-height:1.5">DIMIPEDIA</h1>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"textAlign":"center","fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}},"spacing":{"margin":{"top":"16px"}}},"textColor":"theme-4"} -->
-<p class="has-text-align-center has-theme-4-color has-text-color has-link-color" style="margin-top:16px;font-size:1.2rem;font-style:normal;font-weight:500">0,1 godina slobodne enciklopedije</p>
-<!-- /wp:paragraph --></div></div>
-<!-- /wp:cover -->
-
-<!-- wp:group {"className":"website-section","style":{"spacing":{"padding":{"top":"80px","bottom":"80px"},"blockGap":"80px"}},"backgroundColor":"theme-3","layout":{"type":"constrained"}} -->
-<div class="wp-block-group website-section has-theme-3-background-color has-background" style="padding-top:80px;padding-bottom:80px"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","textAlign":"center","lineHeight":"1.5"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4","fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-text-align-center has-theme-4-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Spremite se da slušate kako se hvalim</h2>
-<!-- /wp:heading -->
-
-<!-- wp:columns {"verticalAlignment":"center","style":{"spacing":{"blockGap":{"top":"24px","left":"40px"}}}} -->
-<div class="wp-block-columns are-vertically-aligned-center"><!-- wp:column {"verticalAlignment":"center","style":{"spacing":{"blockGap":"24px"}}} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"normal","fontWeight":"500","lineHeight":"1.5"}}} -->
-<h2 class="wp-block-heading" style="font-size:2rem;font-style:normal;font-weight:500;line-height:1.5">Nije bilo nijednog dobrog razloga da od nule napravim klon Wikipedije.</h2>
-<!-- /wp:heading -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Volim da pravim prenaglašene, nepotrebne WordPress dodatke, a „Dimipedia” nije izuzetak.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Postoji mnogo dodataka koji verovatno na svaki način bolje kloniraju Wikipediju i bolje su optimizovani, ali me to, naravno, nije sprečilo da napravim svoje prilagođeno rešenje.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Da li je dobar? To prepuštam vama da procenite. Ali po mom skromnom, objektivnom i nepristrasnom mišljenju, ovaj dodatak je remek-delo.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"style":{"typography":{"fontSize":"1.2rem","fontStyle":"normal","fontWeight":"500"},"elements":{"link":{"color":{"text":"var:preset|color|theme-4"}}}},"textColor":"theme-4"} -->
-<p class="has-theme-4-color has-text-color has-link-color" style="font-size:1.2rem;font-style:normal;font-weight:500">Slobodno istražite Dimipediju i upoznajte glavne aktere kroz njihove zvanične članke.</p>
-<!-- /wp:paragraph --></div>
-<!-- /wp:column -->
-
-<!-- wp:column {"verticalAlignment":"center"} -->
-<div class="wp-block-column is-vertically-aligned-center"><!-- wp:image {"id":508,"sizeSlug":"large","linkDestination":"media"} -->
-<figure class="wp-block-image size-large"><a href="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM.png"><img src="https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-10_34_59-PM-768x1024.png" alt="" class="wp-image-508" /></a></figure>
-<!-- /wp:image --></div>
-<!-- /wp:column --></div>
-<!-- /wp:columns --></div>
-<!-- /wp:group -->
-
-<!-- wp:shortcode -->
-[dimipedia_entries_grid]
-<!-- /wp:shortcode -->
-]]></content:encoded>
+		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"normal","fontWeight":"900","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-Heavy.ttf"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>465</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-08 10:52:00]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-08 10:52:00]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-08 20:49:19]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-08 20:49:19]]></wp:post_modified_gmt>
+		<wp:post_id>32</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[dimipedia]]></wp:post_name>
+		<wp:post_name><![CDATA[monospacenormal900100u0-10ffff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>27</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_translations" nicename="pll_6a9fe8d12ae01"><![CDATA[pll_6a9fe8d12ae01]]></category>
-		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[monospace-Heavy.ttf]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Software]]></title>
-		<link>https://dimitrium.org/en/software/</link>
-		<pubDate>Thu, 10 Sep 2026 00:04:50 +0000</pubDate>
+		<title><![CDATA[monospace;italic;900;100%;U+0-10FFFF]]></title>
+		<link>https://dimitrium.org/monospaceitalic900100u0-10ffff/</link>
+		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?page_id=572</guid>
+		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic900100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"900","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-HeavyItalic.ttf"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>572</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-10 00:04:50]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-10 00:04:50]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-10 00:05:00]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-10 00:05:00]]></wp:post_modified_gmt>
+		<wp:post_id>33</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[software]]></wp:post_name>
+		<wp:post_name><![CDATA[monospaceitalic900100u0-10ffff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>27</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[EN]]></category>
-		<category domain="post_translations" nicename="pll_6aa1f4372ad6f"><![CDATA[pll_6aa1f4372ad6f]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[monospace-HeavyItalic.ttf]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Softver]]></title>
-		<link>https://dimitrium.org/sr/softver/</link>
-		<pubDate>Thu, 10 Sep 2026 00:05:10 +0000</pubDate>
+		<title><![CDATA[monospace;italic;400;100%;U+0-10FFFF]]></title>
+		<link>https://dimitrium.org/monospaceitalic400100u0-10ffff/</link>
+		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?page_id=574</guid>
+		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic400100u0-10ffff/</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"400","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-Italic.ttf"}]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>574</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-10 00:05:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-10 00:05:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-10 00:05:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-10 00:05:11]]></wp:post_modified_gmt>
+		<wp:post_id>34</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[softver]]></wp:post_name>
+		<wp:post_name><![CDATA[monospaceitalic400100u0-10ffff]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
+		<wp:post_parent>27</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_translations" nicename="pll_6aa1f4372ad6f"><![CDATA[pll_6aa1f4372ad6f]]></category>
-		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[monospace-Italic.ttf]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+
+
 					<item>
 		<title><![CDATA[Philosophy]]></title>
 		<link>https://dimitrium.org/en/philosophy/</link>
@@ -9081,118 +7763,6 @@ document.addEventListener("DOMContentLoaded", function () {
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
-		<title><![CDATA[monospace;italic;250;100%;U+0-10FFFF]]></title>
-		<link>https://dimitrium.org/monospaceitalic250100u0-10ffff/</link>
-		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic250100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"250","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-ExtraLightItalic.ttf"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>31</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[monospaceitalic250100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>27</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[monospace-ExtraLightItalic.ttf]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[monospace;normal;900;100%;U+0-10FFFF]]></title>
-		<link>https://dimitrium.org/monospacenormal900100u0-10ffff/</link>
-		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospacenormal900100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"normal","fontWeight":"900","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-Heavy.ttf"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>32</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[monospacenormal900100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>27</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[monospace-Heavy.ttf]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[monospace;italic;900;100%;U+0-10FFFF]]></title>
-		<link>https://dimitrium.org/monospaceitalic900100u0-10ffff/</link>
-		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic900100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"900","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-HeavyItalic.ttf"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>33</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[monospaceitalic900100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>27</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[monospace-HeavyItalic.ttf]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[monospace;italic;400;100%;U+0-10FFFF]]></title>
-		<link>https://dimitrium.org/monospaceitalic400100u0-10ffff/</link>
-		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic400100u0-10ffff/</guid>
-		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"400","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-Italic.ttf"}]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>34</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[monospaceitalic400100u0-10ffff]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>27</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[monospace-Italic.ttf]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[monospace;normal;300;100%;U+0-10FFFF]]></title>
 		<link>https://dimitrium.org/monospacenormal300100u0-10ffff/</link>
 		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
@@ -9635,4 +8205,3 @@ document.addEventListener("DOMContentLoaded", function () {
 							</item>
 				</channel>
 </rss>
-	

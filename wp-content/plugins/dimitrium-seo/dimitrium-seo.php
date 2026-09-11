@@ -39,6 +39,15 @@ function dimitrium_seo_redirects() {
 }
 add_action( 'template_redirect', 'dimitrium_seo_redirects', -20 );
 
+/** Do not let WordPress guess a surviving page for deliberately retired URLs. */
+function dimitrium_seo_disable_404_guess_for_retired_pages( $allow_guess ) {
+	$path = isset( $_SERVER['REQUEST_URI'] ) ? (string) wp_parse_url( wp_unslash( $_SERVER['REQUEST_URI'] ), PHP_URL_PATH ) : '';
+	$path = trailingslashit( $path );
+	$retired_paths = array( '/en/flex/', '/sr/flex/', '/en/cat/', '/sr/macka/' );
+	return in_array( $path, $retired_paths, true ) ? false : $allow_guess;
+}
+add_filter( 'do_redirect_guess_404_permalink', 'dimitrium_seo_disable_404_guess_for_retired_pages' );
+
 /**
  * Let two translated pages share a slug when Polylang distinguishes them by
  * the language directory (for example /en/dimitrium/ and /sr/dimitrium/).

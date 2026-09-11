@@ -7,6 +7,9 @@ class Dimitrium_SEO_Schema_Builder {
 	const PERSON_ID  = 'https://dimitrium.org/#aleksadimitrijevic';
 	const DIMITRIUM_ID = 'https://dimitrium.org/#dimitrium';
 	const WEBSITE_ID = 'https://dimitrium.org/#website';
+	const ALEX_DIETRICH_ID = 'https://dimitrium.org/#alexdietrich';
+	const DIMITRIUM_RECORDS_ID = 'https://dimitrium.org/#dimitrium-records';
+	const UNENDLICH_ID = 'https://dimitrium.org/#unendlich';
 
 	public static function output() {
 		$builder = new self( new Dimitrium_SEO_Schema_Context() );
@@ -33,7 +36,14 @@ class Dimitrium_SEO_Schema_Builder {
 			'article_types' => array(),
 			// Key by a translation's post ID. Add only verified project facts.
 			'software' => array(),
-			'music' => array(),
+			'music' => array(
+				434 => array( '@type' => 'MusicAlbum', '@id' => self::UNENDLICH_ID, 'name' => 'Unendlich', 'byArtist' => array( '@id' => self::ALEX_DIETRICH_ID ), 'publisher' => array( '@id' => self::DIMITRIUM_RECORDS_ID ) ),
+				436 => array( '@type' => 'MusicAlbum', '@id' => self::UNENDLICH_ID, 'name' => 'Unendlich', 'byArtist' => array( '@id' => self::ALEX_DIETRICH_ID ), 'publisher' => array( '@id' => self::DIMITRIUM_RECORDS_ID ) ),
+			),
+			// Only add relationships stated and verified by Dimitrium content.
+			'entity_relations' => array(
+				self::DIMITRIUM_RECORDS_ID => array( 'founder' => array( '@id' => self::PERSON_ID ) ),
+			),
 		) );
 	}
 
@@ -67,7 +77,8 @@ class Dimitrium_SEO_Schema_Builder {
 		if ( $entity && in_array( $entity['@type'], array( 'Person', 'Organization' ), true ) ) { $type = 'ProfilePage'; }
 		elseif ( $this->is_aleksa_profile() ) { $type = 'ProfilePage'; } // Safe legacy fallback for the existing profile.
 		$page = array( '@type' => $type, '@id' => $this->context->canonical . '#webpage', 'url' => $this->context->canonical, 'name' => $this->context->title, 'description' => $this->context->description, 'inLanguage' => $this->context->language, 'isPartOf' => $this->context->ref( self::WEBSITE_ID ) );
-		if ( $entity ) { $page['mainEntity'] = $this->context->ref( $entity['@id'] ); }
+		$main_entity_id = $entity ? $entity['@id'] : $this->configured_page_entity_id();
+		if ( $main_entity_id ) { $page['mainEntity'] = $this->context->ref( $main_entity_id ); }
 		elseif ( $this->is_aleksa_profile() ) { $page['mainEntity'] = $this->context->ref( self::PERSON_ID ); }
 		$this->registry->add( $this->clean( $page ) );
 	}
@@ -94,6 +105,11 @@ class Dimitrium_SEO_Schema_Builder {
 		if ( $image ) { $entity['image'] = $image; }
 		$same_as = $this->same_as_urls( get_post_meta( $post_id, '_dimipedia_schema_same_as', true ) );
 		if ( $same_as ) { $entity['sameAs'] = $same_as; }
+		foreach ( (array) ( $this->config['entity_relations'][ $entity['@id'] ] ?? array() ) as $property => $value ) {
+			if ( preg_match( '/^[A-Za-z][A-Za-z0-9]*$/', (string) $property ) && is_array( $value ) && ! empty( $value['@id'] ) ) {
+				$entity[ $property ] = $this->context->ref( esc_url_raw( $value['@id'] ) );
+			}
+		}
 		$entity = apply_filters( 'dimitrium_seo_schema_dimipedia_entity', $entity, $post_id, $this->context );
 		if ( is_array( $entity ) && ! empty( $entity['@id'] ) && ! empty( $entity['@type'] ) ) { $this->registry->add( $this->clean( $entity ) ); }
 	}
@@ -136,14 +152,32 @@ class Dimitrium_SEO_Schema_Builder {
 		$node = $facts;
 		$node['@id'] = $node['@id'] ?? $this->context->canonical . '#music';
 		$node['url'] = $node['url'] ?? $this->context->canonical;
+		$node['isPartOf'] = $node['isPartOf'] ?? $this->context->ref( self::WEBSITE_ID );
 		$node['mainEntityOfPage'] = $this->context->ref( $this->context->canonical . '#webpage' );
 		$this->registry->add( $this->clean( $node ) );
+	}
+
+	/** Return a configured real-world entity for non-Dimipedia pages, if any. */
+	private function configured_page_entity_id() {
+		$post_id = $this->context->post_id;
+		if ( isset( $this->config['software'][ $post_id ] ) ) {
+			return $this->config['software'][ $post_id ]['@id'] ?? $this->context->canonical . '#software';
+		}
+		if ( isset( $this->config['music'][ $post_id ] ) && ! empty( $this->config['music'][ $post_id ]['@id'] ) ) {
+			return $this->config['music'][ $post_id ]['@id'];
+		}
+		return '';
 	}
 
 	private function profile_id() {
 		$current = $this->dimipedia_entity();
 		if ( $current && self::PERSON_ID === $current['@id'] ) { return $this->context->post_id; }
-		foreach ( (array) $this->config['aleksa_profile_ids'] as $id ) { if ( get_post_status( $id ) === 'publish' ) { return (int) $id; } }
+		foreach ( (array) $this->config['aleksa_profile_ids'] as $id ) {
+			if ( get_post_status( $id ) !== 'publish' ) { continue; }
+			$translations = function_exists( 'pll_get_post_translations' ) ? pll_get_post_translations( $id ) : array();
+			$localized_id = isset( $translations[ $this->context->language ] ) ? (int) $translations[ $this->context->language ] : (int) $id;
+			if ( 'publish' === get_post_status( $localized_id ) ) { return $localized_id; }
+		}
 		return 0;
 	}
 

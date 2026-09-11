@@ -193,6 +193,42 @@ function dimipedia_resolve_shared_translation_slug( $query_vars ) {
 }
 add_filter( 'request', 'dimipedia_resolve_shared_translation_slug', 20 );
 
+/**
+ * A translation can have a localized slug. If a visitor combines a language
+ * prefix with the other translation's slug, WordPress may otherwise fall back
+ * to that other entry. Redirect to the actual translation instead of serving
+ * a non-canonical language/slug combination.
+ */
+function dimipedia_redirect_mismatched_language_slug() {
+	$request_path = isset( $_SERVER['REQUEST_URI'] ) ? (string) wp_parse_url( wp_unslash( $_SERVER['REQUEST_URI'] ), PHP_URL_PATH ) : '';
+	$legacy_paths = array(
+		'/sr/dimipedia/nala/' => '/sr/dimipedia/macka-nala/',
+	);
+	$request_path = trailingslashit( $request_path );
+	if ( isset( $legacy_paths[ $request_path ] ) ) {
+		wp_safe_redirect( home_url( $legacy_paths[ $request_path ] ), 301 );
+		exit;
+	}
+	if ( ! is_singular( 'dimipedia_entry' ) || ! function_exists( 'pll_get_post_language' ) || ! function_exists( 'pll_get_post_translations' ) ) {
+		return;
+	}
+	if ( ! preg_match( '#^/(en|sr)/dimipedia/[^/]+/?$#i', $request_path, $matches ) ) {
+		return;
+	}
+	$requested_language = sanitize_key( $matches[1] );
+	$post_id            = get_queried_object_id();
+	if ( ! $post_id || $requested_language === pll_get_post_language( $post_id, 'slug' ) ) {
+		return;
+	}
+	$translations = pll_get_post_translations( $post_id );
+	$target_id    = isset( $translations[ $requested_language ] ) ? (int) $translations[ $requested_language ] : 0;
+	if ( $target_id && 'publish' === get_post_status( $target_id ) ) {
+		wp_safe_redirect( get_permalink( $target_id ), 301 );
+		exit;
+	}
+}
+add_action( 'template_redirect', 'dimipedia_redirect_mismatched_language_slug', -30 );
+
 function dimipedia_infobox_fields( $post_id = 0 ) {
 	$language = function_exists( 'pll_get_post_language' ) ? pll_get_post_language( $post_id, 'slug' ) : 'en';
 	$sr       = 'sr' === $language;
