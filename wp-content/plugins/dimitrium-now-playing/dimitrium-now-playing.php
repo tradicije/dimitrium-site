@@ -128,7 +128,7 @@ function dimitrium_now_playing_enqueue_404_style() {
 		'dimitrium-404',
 		plugin_dir_url( __FILE__ ) . 'assets/404.css',
 		array( 'dimitrium-frosted-header' ),
-		'0.2.60.133.8'
+		'0.2.60.133.10'
 	);
 }
 add_action( 'wp_enqueue_scripts', 'dimitrium_now_playing_enqueue_404_style' );

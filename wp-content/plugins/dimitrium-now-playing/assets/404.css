@@ -36,6 +36,7 @@ body.error404 .dimitrium-404-hero > * {
 /* Match the deliberate expansion used by the desktop primary navigation. */
 body.error404 .dimitrium-404-hero > .wp-block-columns > .wp-block-column:first-child > .wp-block-group a {
 	display: inline-block;
+	font-family: var(--wp--preset--font-family--manrope, Manrope, sans-serif);
 	transform: scaleX(1);
 	transform-origin: left center;
 	letter-spacing: 0.04em;
@@ -47,6 +48,12 @@ body.error404 .dimitrium-404-hero > .wp-block-columns > .wp-block-column:first-c
 	color: #f7f8f8;
 	transform: scaleX(1.14);
 	letter-spacing: 0.09em;
+}
+
+/* This is intentionally more specific than the link display rule above. */
+html[lang^="sr"] body.error404 .dimitrium-404-hero .dimitrium-404__en,
+html:not([lang^="sr"]) body.error404 .dimitrium-404-hero .dimitrium-404__sr {
+	display: none !important;
 }
 
 @media (min-width: 900px) {
