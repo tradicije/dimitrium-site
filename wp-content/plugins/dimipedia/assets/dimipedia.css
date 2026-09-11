@@ -1,0 +1,510 @@
+.dimipedia-infobox {
+	background: rgba(255, 255, 255, 0.04);
+	border: 2px solid var(--wp--preset--color--theme-2, currentColor);
+	color: var(--wp--preset--color--theme-2, currentColor);
+	font-family: var(--wp--preset--font-family--manrope, sans-serif);
+	font-weight: 500;
+	margin: 0;
+	padding: 18px;
+}
+
+.dimipedia-article-layout::after {
+	clear: both;
+	content: '';
+	display: table;
+}
+
+.dimipedia-article-layout > .wp-block-post-content {
+	display: block;
+}
+
+.dimipedia-article-layout > .wp-block-post-content > :is(h1, h2, h3, h4, h5, h6, .wp-block-heading) {
+	display: flow-root;
+}
+
+.dimipedia-article-layout > .wp-block-post-content a {
+	font-weight: 700;
+}
+
+.dimipedia-entry-header {
+	border-bottom: 2px solid var(--wp--preset--color--theme-2, currentColor);
+	gap: 20px;
+	margin-bottom: 40px;
+	padding-bottom: 16px;
+}
+
+.dimipedia-entry-header .wp-block-post-title {
+	margin: 0;
+}
+
+.dimipedia-main-header {
+	padding-left: 16px !important;
+	padding-right: 16px !important;
+	position: relative;
+}
+
+.dimipedia-main-header__version {
+	color: rgba(255, 255, 255, 0.56);
+	font-family: var(--wp--preset--font-family--manrope, sans-serif);
+	font-size: 0.72rem;
+	font-weight: 700;
+	letter-spacing: 0.1em;
+	position: absolute;
+	right: max(var(--wp--style--root--padding-right, 24px), calc((100vw - var(--wp--style--global--wide-size, 1200px)) / 2));
+	text-transform: uppercase;
+	top: 50%;
+	transform: translateY(-50%);
+}
+
+.dimipedia-main-header__home-link {
+	color: inherit;
+	display: block;
+	text-decoration: none;
+}
+
+.dimipedia-main-header__home-link .wp-block-heading {
+	letter-spacing: 0.04em;
+	transition: letter-spacing 0.3s ease, text-shadow 0.3s ease;
+}
+
+.dimipedia-main-header__cursor {
+	animation: dimipedia-header-blink 0.7s steps(1) infinite;
+	display: inline-block;
+	margin-left: 0.04em;
+}
+
+.dimipedia-main-header__home-link .wp-block-heading.is-finished .dimipedia-main-header__cursor {
+	animation: none;
+	opacity: 0;
+	transition: opacity 0.35s ease;
+}
+
+@keyframes dimipedia-header-blink {
+	0%, 50% { opacity: 1; }
+	51%, 100% { opacity: 0; }
+}
+
+.dimipedia-main-header__home-link:hover .wp-block-heading,
+.dimipedia-main-header__home-link:focus-visible .wp-block-heading {
+	letter-spacing: 0.09em;
+	text-shadow: 0 0 6px rgba(255, 255, 255, 0.45), 0 0 14px rgba(255, 255, 255, 0.25), 0 0 26px rgba(255, 255, 255, 0.12);
+}
+
+.dimipedia-main-header__home-link:focus-visible {
+	outline: 2px solid #f7f8f8;
+	outline-offset: 4px;
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.dimipedia-main-header__home-link .wp-block-heading {
+		transition: none;
+	}
+}
+
+.dimipedia-entry-header nav {
+	align-self: flex-end;
+	margin: 0;
+}
+
+ul.dimipedia-language-switcher {
+	display: flex !important;
+	align-items: center;
+	gap: 8px;
+	list-style: none;
+	margin: 0;
+	padding: 0;
+}
+
+.dimipedia-language-switcher > li {
+	display: flex;
+	align-items: center;
+}
+
+.dimipedia-language-switcher li + li::before {
+	color: rgba(255, 255, 255, 0.38);
+	content: '/';
+	margin-right: 8px;
+}
+
+.dimipedia-language-switcher a {
+	border: 0;
+	color: rgba(255, 255, 255, 0.68);
+	display: block;
+	font-family: var(--wp--preset--font-family--manrope, sans-serif);
+	font-size: 0.9rem;
+	font-weight: 600;
+	line-height: 1;
+	padding: 0;
+	text-decoration: none;
+}
+
+.dimipedia-language-switcher .current-lang a,
+.dimipedia-language-switcher a[aria-current='true'] {
+	background: transparent;
+	color: #fff;
+}
+
+.dimipedia-language-switcher a:hover,
+.dimipedia-language-switcher a:focus-visible {
+	color: #fff;
+}
+
+.dimipedia-article-layout .dimipedia-infobox-stack {
+	float: right;
+	margin: 0 0 28px 40px;
+	max-width: 360px;
+	width: 30%;
+}
+
+.dimipedia-infobox-stack .dimipedia-infobox {
+	margin: 0;
+	max-width: none;
+	width: auto;
+}
+
+.dimipedia-infobox__title {
+	font-family: var(--wp--preset--font-family--minicomputer, inherit);
+	font-size: 1.45rem;
+	font-style: italic;
+	line-height: 1.15;
+	margin: 0 0 16px;
+	padding-bottom: 0;
+	text-align: center;
+}
+
+.dimipedia-infobox__image {
+	margin: 0 0 16px;
+}
+
+.dimipedia-infobox__image a {
+	cursor: zoom-in;
+	display: block;
+	line-height: 0;
+	margin: 0;
+	padding: 0;
+	text-decoration: none;
+}
+
+.dimipedia-infobox__image a > br {
+	display: none;
+}
+
+.dimipedia-infobox__image img {
+	display: block;
+	height: auto;
+	max-width: 100%;
+	width: 100%;
+}
+
+.dimipedia-infobox__image figcaption {
+	color: rgba(255, 255, 255, 0.62);
+	font-size: 0.8rem;
+	font-weight: 500;
+	line-height: 1.35;
+	margin-top: 8px;
+	text-align: center;
+}
+
+.dimipedia-infobox__facts {
+	display: grid;
+	font-size: 0.92rem;
+	gap: 8px 14px;
+	grid-template-columns: minmax(90px, 0.8fr) minmax(0, 1.2fr);
+	margin: 0;
+}
+
+.dimipedia-infobox__facts dt {
+	color: rgba(255, 255, 255, 0.62);
+	font-family: inherit;
+	font-weight: 700;
+}
+
+.dimipedia-infobox__facts dd {
+	color: #fff;
+	font-weight: 500;
+	margin: 0;
+	overflow-wrap: anywhere;
+}
+
+.dimipedia-infobox__facts a {
+	color: inherit;
+}
+
+.dimipedia-server-status {
+	background: rgba(255, 255, 255, 0.035);
+	border: 2px solid var(--wp--preset--color--theme-2, currentColor);
+	font-family: var(--wp--preset--font-family--manrope, sans-serif);
+	margin: 18px 0 0;
+	padding: 18px;
+}
+
+.dimipedia-server-status__title {
+	font-family: var(--wp--preset--font-family--minicomputer, inherit);
+	font-size: 1.45rem;
+	font-style: italic;
+	font-weight: 900;
+	line-height: 1.15;
+	margin: 0 0 16px;
+	padding-bottom: 0;
+	text-align: center;
+}
+
+.dimipedia-server-status__state {
+	align-items: center;
+	display: flex;
+	color: #fff;
+	font-family: var(--wp--preset--font-family--manrope, sans-serif);
+	font-size: 0.98rem;
+	font-style: normal;
+	font-weight: 500;
+	gap: 9px;
+	margin: 0;
+}
+
+.dimipedia-server-status__state span {
+	background: #c8a44c;
+	border-radius: 50%;
+	height: 9px;
+	width: 9px;
+}
+.dimipedia-server-status--online .dimipedia-server-status__state span { background: #65ba86; }
+.dimipedia-server-status--offline .dimipedia-server-status__state span { background: #d66a6a; }
+
+.dimipedia-server-status__updated,
+.dimipedia-server-status__caveat {
+	color: rgba(255, 255, 255, 0.62);
+	font-size: 0.85rem;
+	font-weight: 500;
+	line-height: 1.5;
+	margin: 8px 0 0;
+}
+
+.dimipedia-server-status dl {
+	display: grid;
+	gap: 8px 16px;
+	grid-template-columns: minmax(150px, 0.8fr) minmax(0, 1.2fr);
+	margin: 20px 0 0;
+}
+.dimipedia-server-status dt { color: rgba(255, 255, 255, 0.62); font-family: inherit; font-weight: 700; }
+.dimipedia-server-status dd { color: #fff; font-family: inherit; font-weight: 500; margin: 0; }
+
+.dimipedia-link-preview {
+	aspect-ratio: 15 / 8;
+	background: #08090a;
+	border: 1px solid rgba(247, 248, 248, 0.24);
+	box-shadow: 0 16px 40px rgba(0, 0, 0, 0.38);
+	color: #fff;
+	font-family: var(--wp--preset--font-family--manrope, sans-serif);
+	opacity: 0;
+	overflow: hidden;
+	pointer-events: none;
+	position: fixed;
+	transform: translateY(4px) !important;
+	transition: opacity 140ms ease, transform 140ms ease;
+	visibility: hidden;
+	z-index: 1000005;
+}
+
+.dimipedia-link-preview.is-visible {
+	opacity: 1;
+	pointer-events: auto;
+	transform: translateY(0) !important;
+	visibility: visible;
+}
+
+.dimipedia-link-preview__link {
+	color: inherit;
+	display: grid;
+	grid-template-columns: minmax(0, 2fr) minmax(0, 3fr);
+	height: 100%;
+	text-decoration: none;
+}
+
+.dimipedia-link-preview__link > img {
+	align-self: start;
+	aspect-ratio: 3 / 4;
+	display: block;
+	height: 100%;
+	object-fit: cover;
+	object-position: center;
+	width: 100%;
+}
+
+.dimipedia-link-preview__content { box-sizing: border-box; display: flex; flex-direction: column; height: 100%; min-width: 0; overflow: hidden; padding: 13px 14px; }
+.dimipedia-link-preview__category { color: rgba(255,255,255,.62); font-size: .66rem; font-weight: 700; letter-spacing: .08em; margin: 0 0 6px; overflow: hidden; text-overflow: ellipsis; text-transform: uppercase; white-space: nowrap; }
+.dimipedia-link-preview h2 { -webkit-box-orient: vertical; -webkit-line-clamp: 2; color: #fff; display: -webkit-box; font-family: var(--wp--preset--font-family--minicomputer, inherit); font-size: 1.05rem; font-style: italic; font-weight: 900; line-height: 1.1; margin: 0; overflow: hidden; }
+.dimipedia-link-preview__excerpt { -webkit-box-orient: vertical; -webkit-line-clamp: 4; color: rgba(255,255,255,.72); display: -webkit-box; font-size: .76rem; font-weight: 500; line-height: 1.4; margin: 9px 0 0; overflow: hidden; }
+.dimipedia-link-preview:hover { border-color: #fff; }
+.dimipedia-link-preview__link:focus-visible { outline: 2px solid #fff; outline-offset: -2px; }
+
+.dimipedia-directory-section {
+	background-color: #08090a !important;
+	color: var(--wp--preset--color--theme-2, #f7f8f8);
+}
+
+.dimipedia-directory-section__title {
+	color: var(--wp--preset--color--theme-4, currentColor);
+	font-family: var(--wp--preset--font-family--minicomputer, inherit);
+	font-size: clamp(1.25rem, 1.25rem + ((1vw - 0.2rem) * 1.705), 2rem);
+	font-style: italic;
+	font-weight: 900;
+	line-height: 1.5;
+	margin: 0 0 80px;
+	text-align: center;
+}
+
+.dimipedia-entries-grid {
+	column-count: 3;
+	column-gap: 24px;
+	margin: 0;
+}
+
+.dimipedia-entry-card {
+	break-inside: avoid;
+	margin: 0 0 24px;
+	page-break-inside: avoid;
+}
+
+.dimipedia-entry-card__link {
+	background: rgba(255, 255, 255, 0.035);
+	border: 1px solid rgba(247, 248, 248, 0.18);
+	color: inherit;
+	display: block;
+	text-decoration: none;
+	transition: border-color 180ms ease, transform 180ms ease, background-color 180ms ease;
+}
+
+.dimipedia-entry-card__link:hover,
+.dimipedia-entry-card__link:focus-visible {
+	background: rgba(255, 255, 255, 0.07);
+	border-color: var(--wp--preset--color--theme-2, #f7f8f8);
+	transform: translateY(-3px);
+}
+
+.dimipedia-entry-card__image img {
+	display: block;
+	height: auto;
+	width: 100%;
+}
+
+.dimipedia-entry-card__content {
+	padding: 20px;
+}
+
+.dimipedia-entry-card__category {
+	color: rgba(255, 255, 255, 0.6);
+	font-family: var(--wp--preset--font-family--manrope, sans-serif);
+	font-size: 0.72rem;
+	font-weight: 700;
+	letter-spacing: 0.08em;
+	margin: 0 0 8px;
+	text-transform: uppercase;
+}
+
+.dimipedia-entry-card__title {
+	font-family: var(--wp--preset--font-family--minicomputer, inherit);
+	font-size: clamp(1.3rem, 1.7vw, 1.75rem);
+	font-style: italic;
+	font-weight: 900;
+	line-height: 1.2;
+	margin: 0;
+}
+
+.dimipedia-entry-card__excerpt {
+	color: rgba(255, 255, 255, 0.7);
+	font-family: var(--wp--preset--font-family--manrope, sans-serif);
+	font-size: 0.92rem;
+	font-weight: 500;
+	line-height: 1.55;
+	margin: 14px 0 0;
+}
+
+@media (max-width: 781px) {
+	body:is(.page-id-463, .page-id-465) .website-section > .wp-block-columns {
+		flex-direction: column-reverse;
+	}
+
+	body:is(.page-id-463, .page-id-465) .dimipedia-directory-section {
+		padding-bottom: 80px;
+		padding-top: 80px;
+	}
+
+	body:is(.page-id-463, .page-id-465) .dimipedia-directory-section__title {
+		font-size: 2rem;
+		margin-bottom: 40px;
+	}
+
+	.dimipedia-main-header {
+		display: block !important;
+		text-align: left;
+		width: 100%;
+	}
+
+	.dimipedia-main-header > .dimipedia-main-header__home-link > .wp-block-group {
+		align-items: center !important;
+		column-gap: 12px !important;
+		justify-content: flex-start !important;
+		width: 100%;
+	}
+
+	.dimipedia-main-header > .dimipedia-main-header__home-link > .wp-block-group > .wp-block-image {
+		flex: 0 0 48px !important;
+		margin: 0 !important;
+	}
+
+	.dimipedia-main-header > .dimipedia-main-header__home-link > .wp-block-group > .wp-block-group {
+		flex: 0 1 auto;
+		text-align: left;
+	}
+
+	.dimipedia-main-header > .dimipedia-main-header__home-link .wp-block-heading {
+		font-size: 2rem !important;
+	}
+
+	.dimipedia-main-header > .dimipedia-main-header__home-link > .wp-block-group > .wp-block-group > :is(h1, h2, h3, h4, h5, h6, p) {
+		margin: 0 !important;
+		text-align: left;
+	}
+
+	.dimipedia-main-header > .dimipedia-main-header__home-link > .wp-block-group > .wp-block-image img {
+		height: 48px !important;
+		width: auto !important;
+	}
+
+	.dimipedia-main-header__version {
+		display: block;
+		margin-top: 14px;
+		position: static;
+		text-align: left;
+		transform: none;
+	}
+
+	.dimipedia-entry-header {
+		align-items: flex-start;
+		flex-wrap: wrap !important;
+	}
+
+	.dimipedia-article-layout .dimipedia-infobox {
+		float: none;
+		margin: 0 0 28px;
+		max-width: none;
+		width: auto;
+	}
+
+	.dimipedia-article-layout .dimipedia-infobox-stack {
+		float: none;
+		margin: 0 0 28px;
+		max-width: none;
+		width: auto;
+	}
+
+	.dimipedia-entries-grid {
+		column-count: 2;
+	}
+}
+
+@media (max-width: 520px) {
+	.dimipedia-entries-grid {
+		column-count: 1;
+	}
+}

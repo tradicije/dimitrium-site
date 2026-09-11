@@ -1,0 +1,50 @@
+{
+    "site": {
+        "blogname": "Dimitrium",
+        "blogdescription": "",
+        "home": "https://dimitrium.org",
+        "siteurl": "https://dimitrium.org",
+        "permalink_structure": "/%postname%/",
+        "timezone_string": "",
+        "date_format": "F j, Y",
+        "time_format": "g:i a",
+        "start_of_week": "1",
+        "stylesheet": "assembler-wpcom",
+        "template": "assembler-wpcom",
+        "active_plugins": [
+            "polylang/polylang.php",
+            "custom-post-type-ui/custom-post-type-ui.php",
+            "darkify/darkify.php",
+            "dimipedia/dimipedia.php",
+            "dimitrium-now-playing/dimitrium-now-playing.php",
+            "dimitrium-seo/dimitrium-seo.php",
+            "lightbox-photoswipe/lightbox-photoswipe.php",
+            "safe-svg/safe-svg.php"
+        ]
+    },
+    "polylang": {
+        "force_lang": 1,
+        "domains": [],
+        "hide_default": false,
+        "rewrite": true,
+        "redirect_lang": false,
+        "browser": false,
+        "media_support": false,
+        "post_types": [],
+        "taxonomies": [],
+        "sync": [],
+        "default_lang": "en",
+        "nav_menus": [],
+        "previous_version": "3.8.7",
+        "version": "3.8.8",
+        "first_activation": 1788830705
+    },
+    "theme_mods_assembler-wpcom": {
+        "0": false,
+        "wp_classic_sidebars": [],
+        "nav_menu_locations": [],
+        "custom_css_post_id": 73
+    },
+    "cptui_post_types": [],
+    "cptui_taxonomies": []
+}

@@ -1,0 +1,741 @@
+/* DimiPress Nightify Midnight — the single dark color system. */
+html[data-adm-mode="dark"] {
+  color-scheme: dark;
+  --nightify-bg: #0D1117; --nightify-surface: #131A24; --nightify-surface-raised: #192231;
+  --nightify-surface-elevated: #202B3C; --nightify-surface-hover: #263449;
+  --nightify-text: #E6EDF3; --nightify-text-secondary: #B7C3D0; --nightify-text-muted: #8290A3; --nightify-text-disabled: #596779;
+  --nightify-border-subtle: #202C3B; --nightify-border: #2D3B4F; --nightify-border-strong: #40516A;
+  --nightify-accent: #6EA8FE; --nightify-accent-hover: #8FBCFF; --nightify-accent-active: #4C8FE8; --nightify-accent-subtle: #172A46;
+  --nightify-success-bg: #10251F; --nightify-success-border: #275B4B; --nightify-success-text: #86E3C4;
+  --nightify-warning-bg: #2A2111; --nightify-warning-border: #6B5524; --nightify-warning-text: #F3C969;
+  --nightify-error-bg: #2A161D; --nightify-error-border: #713543; --nightify-error-text: #FFB4C0;
+  --nightify-info-bg: #172A46; --nightify-info-border: #3A639A; --nightify-info-text: #A8C9FF;
+  --wp-admin-theme-color: var(--nightify-accent); --wp-admin-theme-color-darker-10: var(--nightify-accent-active); --wp-admin-theme-color-darker-20: #3477CB;
+  --wp-components-color-accent: var(--nightify-accent); --wp-components-color-accent-darker-10: var(--nightify-accent-active);
+  --wp-components-color-foreground: var(--nightify-text); --wp-components-color-background: var(--nightify-surface);
+  --wp-components-color-background-inverted: var(--nightify-bg); --wp-components-color-foreground-inverted: var(--nightify-text);
+}
+/* Core color schemes declare these variables on body, so override them there too. */
+html[data-adm-mode="dark"] body {
+  --wp-admin-theme-color: var(--nightify-accent);
+  --wp-admin-theme-color-darker-10: var(--nightify-accent-active);
+  --wp-admin-theme-color-darker-20: #3477CB;
+  --wp-admin-theme-color--rgb: 110, 168, 254;
+}
+
+html[data-adm-mode="dark"], html[data-adm-mode="dark"] body, html[data-adm-mode="dark"] #wpwrap,
+html[data-adm-mode="dark"] #wpcontent, html[data-adm-mode="dark"] #wpfooter, html[data-adm-mode="dark"] .wrap { background: var(--nightify-bg); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #adminmenu, html[data-adm-mode="dark"] #adminmenuback, html[data-adm-mode="dark"] #adminmenuwrap { background: var(--nightify-surface); }
+html[data-adm-mode="dark"] #wpadminbar { background: var(--nightify-surface); border-bottom: 1px solid var(--nightify-border-subtle); }
+html[data-adm-mode="dark"] #adminmenu a, html[data-adm-mode="dark"] #wpadminbar .ab-item { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] #adminmenu a:hover, html[data-adm-mode="dark"] #adminmenu li.opensub > a.menu-top, html[data-adm-mode="dark"] #adminmenu li.current > a.menu-top, html[data-adm-mode="dark"] #wpadminbar .ab-item:hover { background: var(--nightify-accent-subtle); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #adminmenu .wp-has-current-submenu .wp-submenu, html[data-adm-mode="dark"] #adminmenu .wp-submenu { background: var(--nightify-surface-raised); }
+html[data-adm-mode="dark"] #adminmenu .wp-submenu a { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] #adminmenu li.wp-has-submenu.wp-not-current-submenu.opensub:hover:after,
+html[data-adm-mode="dark"] #adminmenu li.wp-has-submenu.wp-not-current-submenu:focus-within:after { border-right-color: var(--nightify-surface-raised); }
+/* Admin bar is dark in light WordPress too; give it its own Midnight navigation treatment. */
+html[data-adm-mode="dark"] #wpadminbar .ab-icon:before,
+html[data-adm-mode="dark"] #wpadminbar .ab-item:before,
+html[data-adm-mode="dark"] #wpadminbar .ab-item .ab-icon:before { color: var(--nightify-text-muted); }
+html[data-adm-mode="dark"] #wpadminbar .ab-top-menu > li:hover > .ab-item,
+html[data-adm-mode="dark"] #wpadminbar .ab-top-menu > li:focus > .ab-item,
+html[data-adm-mode="dark"] #wpadminbar .ab-top-menu > li.hover > .ab-item { background: var(--nightify-accent-subtle); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #wpadminbar .ab-top-menu > li:hover > .ab-item .ab-icon:before,
+html[data-adm-mode="dark"] #wpadminbar .ab-top-menu > li:focus > .ab-item .ab-icon:before { color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] #wpadminbar .ab-sub-wrapper,
+html[data-adm-mode="dark"] #wpadminbar .ab-submenu { background: var(--nightify-surface-raised); border-color: var(--nightify-border); }
+html[data-adm-mode="dark"] #wpadminbar .ab-submenu .ab-item { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] #wpadminbar .ab-submenu .ab-item:hover,
+html[data-adm-mode="dark"] #wpadminbar .ab-submenu .ab-item:focus { background: var(--nightify-surface-hover); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #wpadminbar .ab-submenu .ab-submenu { border-left-color: var(--nightify-border); }
+html[data-adm-mode="dark"] #wpadminbar .quicklinks .menupop ul.ab-sub-secondary,
+html[data-adm-mode="dark"] #wpadminbar .quicklinks .menupop ul.ab-sub-secondary .ab-submenu { background: var(--nightify-surface-elevated); border-color: var(--nightify-border); }
+html[data-adm-mode="dark"] #wpadminbar .quicklinks .menupop .ab-sub-secondary > li > a,
+html[data-adm-mode="dark"] #wpadminbar .quicklinks .menupop .ab-sub-secondary > li .ab-item { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] #wpadminbar .quicklinks .menupop .ab-sub-secondary > li > a:hover,
+html[data-adm-mode="dark"] #wpadminbar .quicklinks .menupop .ab-sub-secondary > li .ab-item:hover,
+html[data-adm-mode="dark"] #wpadminbar .quicklinks .menupop .ab-sub-secondary > li .ab-item:focus { background: var(--nightify-surface-hover); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #wpadminbar .ab-label,
+html[data-adm-mode="dark"] #wpadminbar .ab-item .ab-label { color: inherit; }
+html[data-adm-mode="dark"] #wpadminbar .ab-top-secondary .ab-sub-wrapper { box-shadow: 0 4px 14px rgba(0, 0, 0, .36); }
+
+/* Gutenberg / Block Editor: a complete editor chrome layer, scoped to wp-admin only. */
+html[data-adm-mode="dark"] body.block-editor-page,
+html[data-adm-mode="dark"] body.block-editor-page #wpwrap,
+html[data-adm-mode="dark"] body.block-editor-page #wpcontent { background: var(--nightify-bg); }
+html[data-adm-mode="dark"] .interface-interface-skeleton,
+html[data-adm-mode="dark"] .interface-interface-skeleton__editor,
+html[data-adm-mode="dark"] .interface-interface-skeleton__body,
+html[data-adm-mode="dark"] .interface-interface-skeleton__content,
+html[data-adm-mode="dark"] .edit-post-visual-editor { background: var(--nightify-bg); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .interface-interface-skeleton__header,
+html[data-adm-mode="dark"] .editor-header,
+html[data-adm-mode="dark"] .edit-post-header { background: var(--nightify-surface); border-color: var(--nightify-border); box-shadow: 0 1px 0 var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .interface-interface-skeleton__sidebar,
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar,
+html[data-adm-mode="dark"] .interface-complementary-area,
+html[data-adm-mode="dark"] .interface-complementary-area-header,
+html[data-adm-mode="dark"] .editor-sidebar,
+html[data-adm-mode="dark"] .edit-post-sidebar { background: var(--nightify-surface); border-color: var(--nightify-border); box-shadow: -1px 0 0 var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .interface-interface-skeleton__footer,
+html[data-adm-mode="dark"] .interface-interface-skeleton__footer .block-editor-block-breadcrumb { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .interface-complementary-area h2,
+html[data-adm-mode="dark"] .interface-complementary-area h3,
+html[data-adm-mode="dark"] .editor-sidebar h2,
+html[data-adm-mode="dark"] .editor-sidebar h3 { color: var(--nightify-text); }
+html[data-adm-mode="dark"] .interface-complementary-area hr { border-bottom-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .interface-complementary-area .components-panel,
+html[data-adm-mode="dark"] .interface-complementary-area .components-panel__body,
+html[data-adm-mode="dark"] .interface-complementary-area .components-panel__header { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .interface-complementary-area .components-panel__header:hover,
+html[data-adm-mode="dark"] .interface-complementary-area .components-panel__body-title:hover { background: var(--nightify-surface-raised); }
+
+html[data-adm-mode="dark"] .block-editor-writing-flow,
+html[data-adm-mode="dark"] .block-editor-block-list__layout,
+html[data-adm-mode="dark"] .editor-styles-wrapper,
+html[data-adm-mode="dark"] .editor-styles-wrapper .wp-block { background-color: var(--nightify-bg); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .editor-styles-wrapper p,
+html[data-adm-mode="dark"] .editor-styles-wrapper li,
+html[data-adm-mode="dark"] .editor-styles-wrapper dt,
+html[data-adm-mode="dark"] .editor-styles-wrapper dd,
+html[data-adm-mode="dark"] .editor-styles-wrapper blockquote,
+html[data-adm-mode="dark"] .editor-styles-wrapper h1,
+html[data-adm-mode="dark"] .editor-styles-wrapper h2,
+html[data-adm-mode="dark"] .editor-styles-wrapper h3,
+html[data-adm-mode="dark"] .editor-styles-wrapper h4,
+html[data-adm-mode="dark"] .editor-styles-wrapper h5,
+html[data-adm-mode="dark"] .editor-styles-wrapper h6 { color: var(--nightify-text); }
+html[data-adm-mode="dark"] .editor-styles-wrapper a { color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .block-editor-block-list__block.is-selected > .block-editor-block-list__block-edit,
+html[data-adm-mode="dark"] .block-editor-block-list__block.has-selected-ui > .block-editor-block-list__block-edit { box-shadow: 0 0 0 var(--wp-admin-border-width-focus, 2px) var(--nightify-accent); }
+html[data-adm-mode="dark"] .block-editor-default-block-appender__content,
+html[data-adm-mode="dark"] .block-editor-inserter__toggle,
+html[data-adm-mode="dark"] .block-editor-button-block-appender { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .block-editor-default-block-appender__content:hover,
+html[data-adm-mode="dark"] .block-editor-inserter__toggle:hover,
+html[data-adm-mode="dark"] .block-editor-button-block-appender:hover { background: var(--nightify-accent-subtle); color: var(--nightify-accent-hover); }
+
+html[data-adm-mode="dark"] .block-editor-inserter__menu,
+html[data-adm-mode="dark"] .block-editor-inserter__panel,
+html[data-adm-mode="dark"] .block-editor-block-inspector,
+html[data-adm-mode="dark"] .block-editor-list-view,
+html[data-adm-mode="dark"] .block-editor-link-control,
+html[data-adm-mode="dark"] .block-editor-link-control__search-input-wrapper { background: var(--nightify-surface-elevated); border-color: var(--nightify-border-strong); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .block-editor-inserter__search,
+html[data-adm-mode="dark"] .block-editor-inserter__search input,
+html[data-adm-mode="dark"] .block-editor-link-control input { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .block-editor-inserter__block-list .block-editor-block-types-list__item,
+html[data-adm-mode="dark"] .block-editor-list-view-block-select-button { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .block-editor-inserter__block-list .block-editor-block-types-list__item:hover,
+html[data-adm-mode="dark"] .block-editor-list-view-block-select-button:hover,
+html[data-adm-mode="dark"] .block-editor-list-view-block-select-button.is-selected { background: var(--nightify-accent-subtle); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .block-editor-block-toolbar,
+html[data-adm-mode="dark"] .components-toolbar,
+html[data-adm-mode="dark"] .components-toolbar-group { background: var(--nightify-surface-elevated); border-color: var(--nightify-border-strong); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .block-editor-block-toolbar .components-button,
+html[data-adm-mode="dark"] .components-toolbar .components-button { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .block-editor-block-toolbar .components-button:hover,
+html[data-adm-mode="dark"] .block-editor-block-toolbar .components-button.is-pressed,
+html[data-adm-mode="dark"] .components-toolbar .components-button:hover,
+html[data-adm-mode="dark"] .components-toolbar .components-button.is-pressed { background: var(--nightify-accent-subtle); color: var(--nightify-accent-hover); }
+
+/* Gutenberg panels ship a few late, literal light declarations.  These need a
+ * higher-priority editor-only layer rather than changing Components globally. */
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar,
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar .interface-complementary-area,
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar .interface-complementary-area-header,
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar .components-panel,
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar .components-panel__body,
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar .components-panel__header {
+	background-color: var(--nightify-surface) !important;
+	border-color: var(--nightify-border) !important;
+	color: var(--nightify-text) !important;
+}
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar .components-panel__header:hover,
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar .components-panel__body-title:hover {
+	background-color: var(--nightify-surface-raised) !important;
+}
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar :is(
+	p, span, label, legend, h1, h2, h3, h4, h5, h6,
+	.components-base-control__label,
+	.components-panel__body-title,
+	.components-toggle-control__label,
+	.components-input-control__label,
+	.block-editor-panel-color-gradient-settings__color-name,
+	.block-editor-panel-color-gradient-settings__color-indicator
+) { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar :is(
+	.components-panel__body-title, h1, h2, h3, h4, h5, h6,
+	.block-editor-panel-color-gradient-settings__color-name
+) { color: var(--nightify-text) !important; }
+html[data-adm-mode="dark"] .interface-interface-skeleton__secondary-sidebar .components-flex-item {
+	color: var(--nightify-text-secondary);
+}
+
+/* Core often gives headings #1d2327 directly; make every admin heading legible. */
+html[data-adm-mode="dark"] #wpbody h1,
+html[data-adm-mode="dark"] #wpbody h2,
+html[data-adm-mode="dark"] #wpbody h3,
+html[data-adm-mode="dark"] #wpbody h4,
+html[data-adm-mode="dark"] #wpbody h5,
+html[data-adm-mode="dark"] #wpbody h6,
+html[data-adm-mode="dark"] .media-modal h1,
+html[data-adm-mode="dark"] .media-modal h2,
+html[data-adm-mode="dark"] .media-modal h3,
+html[data-adm-mode="dark"] .media-modal h4,
+html[data-adm-mode="dark"] .components-modal__frame h1,
+html[data-adm-mode="dark"] .components-modal__frame h2,
+html[data-adm-mode="dark"] .components-modal__frame h3,
+html[data-adm-mode="dark"] .components-modal__frame h4,
+html[data-adm-mode="dark"] #customize-controls h1,
+html[data-adm-mode="dark"] #customize-controls h2,
+html[data-adm-mode="dark"] #customize-controls h3,
+html[data-adm-mode="dark"] #customize-controls h4 { color: var(--nightify-text); }
+html[data-adm-mode="dark"] #wpbody h1 a,
+html[data-adm-mode="dark"] #wpbody h2 a,
+html[data-adm-mode="dark"] #wpbody h3 a,
+html[data-adm-mode="dark"] #wpbody h4 a { color: var(--nightify-accent); }
+html[data-adm-mode="dark"] #wpbody h1 a:hover,
+html[data-adm-mode="dark"] #wpbody h2 a:hover,
+html[data-adm-mode="dark"] #wpbody h3 a:hover,
+html[data-adm-mode="dark"] #wpbody h4 a:hover { color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .wrap h1, html[data-adm-mode="dark"] .wrap h2, html[data-adm-mode="dark"] .wrap h3, html[data-adm-mode="dark"] .wrap h4, html[data-adm-mode="dark"] .wrap p, html[data-adm-mode="dark"] .wrap label, html[data-adm-mode="dark"] .wrap td, html[data-adm-mode="dark"] .wrap th { color: var(--nightify-text); }
+html[data-adm-mode="dark"] .description, html[data-adm-mode="dark"] .howto, html[data-adm-mode="dark"] .wrap .subsubsub a { color: var(--nightify-text-muted); }
+html[data-adm-mode="dark"] a { color: var(--nightify-accent); } html[data-adm-mode="dark"] a:hover { color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] code { background: var(--nightify-surface-raised); color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] kbd { background: var(--nightify-surface-elevated); border: 1px solid var(--nightify-border-strong); border-radius: 3px; box-shadow: inset 0 -1px 0 var(--nightify-border-subtle); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .button-link,
+html[data-adm-mode="dark"] button.button-link { color: var(--nightify-accent); }
+html[data-adm-mode="dark"] .button-link:hover,
+html[data-adm-mode="dark"] .button-link:active,
+html[data-adm-mode="dark"] button.button-link:hover,
+html[data-adm-mode="dark"] button.button-link:active { color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .button-link:focus,
+html[data-adm-mode="dark"] button.button-link:focus { color: var(--nightify-accent-hover); box-shadow: 0 0 0 1px var(--nightify-accent), 0 0 2px 1px var(--nightify-accent); outline: 1px solid transparent; }
+html[data-adm-mode="dark"] .button-link-delete,
+html[data-adm-mode="dark"] .button-link-delete:hover,
+html[data-adm-mode="dark"] .button-link-delete:active { color: #FF9AA8; }
+
+html[data-adm-mode="dark"] .postbox, html[data-adm-mode="dark"] .notice, html[data-adm-mode="dark"] .card, html[data-adm-mode="dark"] .welcome-panel, html[data-adm-mode="dark"] .health-check-accordion-panel, html[data-adm-mode="dark"] .plugin-card, html[data-adm-mode="dark"] .theme, html[data-adm-mode="dark"] .wp-list-table, html[data-adm-mode="dark"] .components-card, html[data-adm-mode="dark"] .components-panel, html[data-adm-mode="dark"] .components-panel__body, html[data-adm-mode="dark"] .components-notice { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text); }
+/* A form-table is layout, not a card. Core supplies its row spacing. */
+html[data-adm-mode="dark"] .form-table { background: transparent; border-color: transparent; color: var(--nightify-text); }
+html[data-adm-mode="dark"] .postbox .inside, html[data-adm-mode="dark"] .postbox h2, html[data-adm-mode="dark"] .postbox h3, html[data-adm-mode="dark"] .welcome-panel-content, html[data-adm-mode="dark"] .components-panel__body-title, html[data-adm-mode="dark"] .components-card__header, html[data-adm-mode="dark"] .components-card__body { color: var(--nightify-text); }
+html[data-adm-mode="dark"] .postbox .postbox-header,
+html[data-adm-mode="dark"] .postbox .hndle,
+html[data-adm-mode="dark"] .postbox .handlediv { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .postbox .postbox-header { border-bottom-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .postbox .postbox-header:hover,
+html[data-adm-mode="dark"] .postbox .handlediv:hover { background: var(--nightify-surface-raised); }
+
+html[data-adm-mode="dark"] .components-modal__frame, html[data-adm-mode="dark"] .components-modal__content, html[data-adm-mode="dark"] .components-popover__content, html[data-adm-mode="dark"] .components-dropdown-menu__menu, html[data-adm-mode="dark"] .components-menu-group, html[data-adm-mode="dark"] .components-snackbar { background: var(--nightify-surface-elevated); border-color: var(--nightify-border-strong); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .components-menu-item__button:hover, html[data-adm-mode="dark"] .components-dropdown-menu__menu-item:hover, html[data-adm-mode="dark"] .components-button:hover { background: var(--nightify-surface-hover); color: var(--nightify-text); }
+
+html[data-adm-mode="dark"] .widefat, html[data-adm-mode="dark"] .widefat thead td, html[data-adm-mode="dark"] .widefat thead th, html[data-adm-mode="dark"] .widefat tfoot td, html[data-adm-mode="dark"] .widefat tfoot th { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .widefat tbody tr, html[data-adm-mode="dark"] .striped > tbody > :nth-child(odd), html[data-adm-mode="dark"] ul.striped > :nth-child(odd), html[data-adm-mode="dark"] .alternate { background: var(--nightify-surface-raised); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .widefat tbody tr:hover { background: var(--nightify-surface-hover); }
+/* List tables need an explicit zebra pattern across all core list screens. */
+html[data-adm-mode="dark"] #wpbody .wp-list-table tbody tr:nth-child(odd),
+html[data-adm-mode="dark"] #wpbody .wp-list-table.striped > tbody > tr:nth-child(odd) { background: var(--nightify-surface); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #wpbody .wp-list-table tbody tr:nth-child(even),
+html[data-adm-mode="dark"] #wpbody .wp-list-table.striped > tbody > tr:nth-child(even) { background: var(--nightify-surface-raised); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #wpbody .wp-list-table tbody tr:hover { background: var(--nightify-surface-hover); }
+/* Tools > Import uses a widefat table but not the regular wp-list-table class. */
+html[data-adm-mode="dark"] .widefat.importers,
+html[data-adm-mode="dark"] .widefat.importers thead th,
+html[data-adm-mode="dark"] .widefat.importers tbody td,
+html[data-adm-mode="dark"] .widefat.importers tbody th { border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .widefat.importers tbody tr:nth-child(odd),
+html[data-adm-mode="dark"] .widefat.importers tbody tr:nth-child(odd) > td,
+html[data-adm-mode="dark"] .widefat.importers tbody tr:nth-child(odd) > th { background: var(--nightify-surface); }
+html[data-adm-mode="dark"] .widefat.importers tbody tr:nth-child(even),
+html[data-adm-mode="dark"] .widefat.importers tbody tr:nth-child(even) > td,
+html[data-adm-mode="dark"] .widefat.importers tbody tr:nth-child(even) > th { background: var(--nightify-surface-raised); }
+html[data-adm-mode="dark"] .widefat.importers tbody tr:hover { background: var(--nightify-surface-hover); }
+html[data-adm-mode="dark"] .widefat.importers .import-system,
+html[data-adm-mode="dark"] .widefat.importers .import-system p,
+html[data-adm-mode="dark"] .widefat.importers .import-system .desc { color: var(--nightify-text-secondary); }
+
+html[data-adm-mode="dark"] input:not([type="checkbox"]):not([type="radio"]), html[data-adm-mode="dark"] textarea, html[data-adm-mode="dark"] select, html[data-adm-mode="dark"] .components-text-control__input, html[data-adm-mode="dark"] .components-select-control__input { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] select,
+html[data-adm-mode="dark"] .components-select-control__input { color-scheme: dark !important; }
+html[data-adm-mode="dark"] select option,
+html[data-adm-mode="dark"] select optgroup { color-scheme: dark !important; background-color: var(--nightify-surface-raised) !important; color: var(--nightify-text) !important; }
+html[data-adm-mode="dark"] select option:checked { background-color: var(--nightify-accent) !important; color: #08111E !important; }
+html[data-adm-mode="dark"] select option:hover,
+html[data-adm-mode="dark"] select option:focus { background-color: var(--nightify-surface-hover) !important; color: var(--nightify-text) !important; }
+html[data-adm-mode="dark"] select:hover,
+html[data-adm-mode="dark"] select:focus,
+html[data-adm-mode="dark"] #default_post_format:hover,
+html[data-adm-mode="dark"] #default_post_format:focus { background-color: var(--nightify-surface-hover); border-color: var(--nightify-border-strong); color: var(--nightify-text); }
+html[data-adm-mode="dark"] input::placeholder, html[data-adm-mode="dark"] textarea::placeholder { color: var(--nightify-text-muted); }
+html[data-adm-mode="dark"] input[type="checkbox"],
+html[data-adm-mode="dark"] input[type="radio"] { background: var(--nightify-surface-raised); border-color: var(--nightify-border-strong); color: var(--nightify-text); }
+html[data-adm-mode="dark"] input[type="checkbox"]:checked,
+html[data-adm-mode="dark"] input[type="radio"]:checked { background: var(--nightify-accent); border-color: var(--nightify-accent); }
+html[data-adm-mode="dark"] input[type="checkbox"]:focus,
+html[data-adm-mode="dark"] input[type="radio"]:focus { border-color: var(--nightify-accent); box-shadow: 0 0 0 2px var(--nightify-bg), 0 0 0 4px var(--nightify-accent); }
+html[data-adm-mode="dark"] input:disabled, html[data-adm-mode="dark"] textarea:disabled, html[data-adm-mode="dark"] select:disabled, html[data-adm-mode="dark"] .button:disabled { color: var(--nightify-text-disabled); background: var(--nightify-surface); border-color: var(--nightify-border-subtle); }
+html[data-adm-mode="dark"] .button:not(.button-primary) { background: var(--nightify-surface-raised); color: var(--nightify-text); border-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .button:not(.button-primary):hover { background: var(--nightify-surface-hover); border-color: var(--nightify-border-strong); }
+html[data-adm-mode="dark"] .button-primary, html[data-adm-mode="dark"] .components-button.is-primary { background: var(--nightify-accent); border-color: var(--nightify-accent); color: #08111E; }
+html[data-adm-mode="dark"] .button-primary:hover, html[data-adm-mode="dark"] .components-button.is-primary:hover { background: var(--nightify-accent-hover); border-color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .button-primary:active, html[data-adm-mode="dark"] .components-button.is-primary:active { background: var(--nightify-accent-active); border-color: var(--nightify-accent-active); }
+
+html[data-adm-mode="dark"] :focus-visible { outline: 2px solid var(--nightify-accent); outline-offset: 2px; }
+html[data-adm-mode="dark"] .components-button.is-pressed, html[data-adm-mode="dark"] .components-tab-panel__tabs-item.is-active, html[data-adm-mode="dark"] .is-selected { background: var(--nightify-accent-subtle); color: var(--nightify-accent-hover); }
+/* Notices have many core aliases; their body, links and dismiss controls need the same status system. */
+html[data-adm-mode="dark"] .notice,
+html[data-adm-mode="dark"] div.updated,
+html[data-adm-mode="dark"] div.error,
+html[data-adm-mode="dark"] .settings-error,
+html[data-adm-mode="dark"] .update-message,
+html[data-adm-mode="dark"] .notice-inline { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .notice-success, html[data-adm-mode="dark"] .updated { background: var(--nightify-success-bg); border-left-color: var(--nightify-success-border); color: var(--nightify-success-text); }
+html[data-adm-mode="dark"] .notice-warning, html[data-adm-mode="dark"] .update-nag, html[data-adm-mode="dark"] .update-message.notice-warning { background: var(--nightify-warning-bg); border-left-color: var(--nightify-warning-border); color: var(--nightify-warning-text); }
+html[data-adm-mode="dark"] .notice-error, html[data-adm-mode="dark"] .error, html[data-adm-mode="dark"] .settings-error.notice-error { background: var(--nightify-error-bg); border-left-color: var(--nightify-error-border); color: var(--nightify-error-text); }
+html[data-adm-mode="dark"] .notice-info { background: var(--nightify-info-bg); border-left-color: var(--nightify-info-border); color: var(--nightify-info-text); }
+html[data-adm-mode="dark"] .notice.notice-alt { box-shadow: inset 0 0 0 1px color-mix(in srgb, currentColor 18%, transparent); }
+html[data-adm-mode="dark"] .notice p,
+html[data-adm-mode="dark"] .notice .notice-title,
+html[data-adm-mode="dark"] .notice .notice-message,
+html[data-adm-mode="dark"] .update-message p,
+html[data-adm-mode="dark"] .settings-error p { color: inherit; }
+html[data-adm-mode="dark"] .notice a,
+html[data-adm-mode="dark"] .update-message a,
+html[data-adm-mode="dark"] .settings-error a { color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .notice a:hover,
+html[data-adm-mode="dark"] .update-message a:hover,
+html[data-adm-mode="dark"] .settings-error a:hover { color: var(--nightify-text); }
+html[data-adm-mode="dark"] .notice-dismiss:before { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .notice-dismiss:hover,
+html[data-adm-mode="dark"] .notice-dismiss:focus { background: var(--nightify-surface-hover); }
+html[data-adm-mode="dark"] .notice-dismiss:hover:before,
+html[data-adm-mode="dark"] .notice-dismiss:focus:before { color: var(--nightify-text); }
+
+/* Lists, row actions, filters, and pagination. */
+html[data-adm-mode="dark"] .row-actions,
+html[data-adm-mode="dark"] .row-actions span,
+html[data-adm-mode="dark"] .row-actions span a,
+html[data-adm-mode="dark"] .tablenav,
+html[data-adm-mode="dark"] .tablenav .displaying-num,
+html[data-adm-mode="dark"] .tablenav-pages,
+html[data-adm-mode="dark"] .search-box label,
+html[data-adm-mode="dark"] .views a { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .row-actions a:hover,
+html[data-adm-mode="dark"] .views a:hover,
+html[data-adm-mode="dark"] .views .current { color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .row-actions .trash a { color: #FF9AA8; }
+html[data-adm-mode="dark"] .row-actions .trash a:hover { color: #FFB4C0; }
+html[data-adm-mode="dark"] .tablenav .actions select,
+html[data-adm-mode="dark"] .tablenav .actions input,
+html[data-adm-mode="dark"] .tablenav-pages .current-page { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .tablenav-pages .pagination-links .tablenav-pages-navspan,
+html[data-adm-mode="dark"] .tablenav-pages .pagination-links a { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .tablenav-pages .pagination-links a:hover { background: var(--nightify-surface-hover); color: var(--nightify-text); border-color: var(--nightify-border-strong); }
+
+/* Screen Options and contextual Help panels. */
+html[data-adm-mode="dark"] #screen-meta,
+html[data-adm-mode="dark"] #screen-options-wrap,
+html[data-adm-mode="dark"] #contextual-help-wrap,
+html[data-adm-mode="dark"] #contextual-help-back { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #screen-meta-links .show-settings,
+html[data-adm-mode="dark"] #contextual-help-tabs li a { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] #screen-meta-links .show-settings:hover,
+html[data-adm-mode="dark"] #screen-meta-links .show-settings.screen-meta-active,
+html[data-adm-mode="dark"] #contextual-help-tabs li.active a,
+html[data-adm-mode="dark"] #contextual-help-tabs li a:hover { background: var(--nightify-accent-subtle); border-color: var(--nightify-border-strong); color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] #screen-options-wrap label,
+html[data-adm-mode="dark"] #screen-options-wrap legend,
+html[data-adm-mode="dark"] #contextual-help-wrap p,
+html[data-adm-mode="dark"] #contextual-help-wrap li,
+html[data-adm-mode="dark"] #contextual-help-wrap h2,
+html[data-adm-mode="dark"] #contextual-help-wrap h3 { color: var(--nightify-text); }
+html[data-adm-mode="dark"] #contextual-help-tabs { border-right-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .contextual-help-tabs .active,
+html[data-adm-mode="dark"] #contextual-help-tabs .active { background: var(--nightify-accent-subtle); border-left-color: var(--nightify-accent); box-shadow: 0 2px 0 rgba(0, 0, 0, .22), 0 1px 0 rgba(0, 0, 0, .22); }
+html[data-adm-mode="dark"] .contextual-help-tabs .active a,
+html[data-adm-mode="dark"] #contextual-help-tabs .active a { border-color: var(--nightify-border-strong); color: var(--nightify-accent-hover); }
+
+/* Core tabs and secondary navigation. */
+html[data-adm-mode="dark"] .nav-tab-wrapper,
+html[data-adm-mode="dark"] .wrap h2.nav-tab-wrapper,
+html[data-adm-mode="dark"] .nav-tab-wrapper { border-bottom-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .nav-tab { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .nav-tab:hover { background: var(--nightify-surface-hover); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .nav-tab-active,
+html[data-adm-mode="dark"] .nav-tab-active:hover { background: var(--nightify-surface); border-bottom-color: var(--nightify-surface); color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .subsubsub li { color: var(--nightify-text-muted); }
+
+/* Common core panels outside postboxes: filters, Widgets and Menus. */
+html[data-adm-mode="dark"] .wp-filter,
+html[data-adm-mode="dark"] .stuffbox,
+html[data-adm-mode="dark"] .widgets-holder-wrap,
+html[data-adm-mode="dark"] .widget-inside,
+html[data-adm-mode="dark"] .widget-top,
+html[data-adm-mode="dark"] .menu-item-handle,
+html[data-adm-mode="dark"] .menu-item-settings,
+html[data-adm-mode="dark"] #menu-management .menu-edit { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .wp-filter .filter-links li > a { border-bottom-color: var(--nightify-surface); color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .wp-filter .filter-links .current { border-bottom-color: var(--nightify-accent); color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .wp-filter .filter-links li > a:hover,
+html[data-adm-mode="dark"] .wp-filter .filter-links li > a:focus { color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .filter-count .count,
+html[data-adm-mode="dark"] .title-count { background: var(--nightify-surface-elevated); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .widget-top:hover,
+html[data-adm-mode="dark"] .menu-item-handle:hover { background: var(--nightify-surface-raised); border-color: var(--nightify-border-strong); }
+html[data-adm-mode="dark"] .view-switch a:before { color: var(--nightify-text-muted); }
+html[data-adm-mode="dark"] .view-switch a:hover:before,
+html[data-adm-mode="dark"] .view-switch a:focus:before { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .view-switch a.current:before { color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .view-switch a:focus { border-color: var(--nightify-accent); }
+
+/* Core Thickbox/modal content used by plugin details, media and legacy dialogs. */
+html[data-adm-mode="dark"] #TB_window,
+html[data-adm-mode="dark"] #TB_ajaxContent,
+html[data-adm-mode="dark"] .wp-dialog,
+html[data-adm-mode="dark"] #plugin-information-content,
+html[data-adm-mode="dark"] #plugin-information .fyi { background: var(--nightify-surface-elevated); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #plugin-information-tabs,
+html[data-adm-mode="dark"] #plugin-information-footer { background: var(--nightify-surface-raised); border-color: var(--nightify-border); }
+html[data-adm-mode="dark"] #plugin-information-tabs a.current { background: var(--nightify-surface-elevated); border-color: var(--nightify-border); border-bottom-color: var(--nightify-surface-elevated); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #plugin-information .fyi,
+html[data-adm-mode="dark"] #plugin-information .fyi strong,
+html[data-adm-mode="dark"] #plugin-information .fyi h3 { color: var(--nightify-text-secondary); }
+
+/* Common core popups and overlays outside Gutenberg. */
+html[data-adm-mode="dark"] .media-modal,
+html[data-adm-mode="dark"] .media-frame,
+html[data-adm-mode="dark"] .media-frame-content,
+html[data-adm-mode="dark"] .media-modal-content,
+html[data-adm-mode="dark"] .theme-overlay .theme-wrap,
+html[data-adm-mode="dark"] .theme-overlay .theme-about { background: var(--nightify-surface-elevated); color: var(--nightify-text); border-color: var(--nightify-border-strong); }
+html[data-adm-mode="dark"] .media-frame-title,
+html[data-adm-mode="dark"] .media-frame-toolbar,
+html[data-adm-mode="dark"] .media-frame-router,
+html[data-adm-mode="dark"] .media-frame-content,
+html[data-adm-mode="dark"] .media-menu { border-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .media-menu-item { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .media-menu-item:hover,
+html[data-adm-mode="dark"] .media-menu-item.active { background: var(--nightify-accent-subtle); color: var(--nightify-accent-hover); }
+
+/* Appearance > Themes: the classic theme browser and its detail overlay. */
+html[data-adm-mode="dark"] .theme-browser .theme,
+html[data-adm-mode="dark"] .theme-browser .theme.add-new-theme a,
+html[data-adm-mode="dark"] .theme-overlay .theme-header,
+html[data-adm-mode="dark"] .theme-overlay .theme-actions,
+html[data-adm-mode="dark"] .theme-overlay .theme-info,
+html[data-adm-mode="dark"] .theme-overlay .theme-info .theme-description { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .theme-browser .theme .theme-name,
+html[data-adm-mode="dark"] .theme-overlay .theme-name,
+html[data-adm-mode="dark"] .theme-overlay .theme-version,
+html[data-adm-mode="dark"] .theme-overlay .theme-description { color: var(--nightify-text); }
+html[data-adm-mode="dark"] .theme-browser .theme:hover,
+html[data-adm-mode="dark"] .theme-browser .theme:focus-within { border-color: var(--nightify-border-strong); box-shadow: 0 0 0 1px var(--nightify-border-strong); }
+html[data-adm-mode="dark"] .theme-browser .theme.active .theme-name { background: var(--nightify-accent-subtle); color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .theme-browser .theme .more-details,
+html[data-adm-mode="dark"] .theme-browser .theme.add-new-theme a:hover:after { background: var(--nightify-surface-elevated); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .theme-browser .theme.add-new-theme a:before,
+html[data-adm-mode="dark"] .theme-browser .theme.add-new-theme a:after { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .theme-browser .theme.add-new-theme a:hover { background: var(--nightify-surface-hover); border-color: var(--nightify-border-strong); color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .theme-overlay .theme-header .left,
+html[data-adm-mode="dark"] .theme-overlay .theme-header .right,
+html[data-adm-mode="dark"] .theme-overlay .theme-header .close-modal,
+html[data-adm-mode="dark"] .theme-overlay .previous-theme,
+html[data-adm-mode="dark"] .theme-overlay .next-theme { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .theme-overlay .theme-header .left:hover,
+html[data-adm-mode="dark"] .theme-overlay .theme-header .right:hover,
+html[data-adm-mode="dark"] .theme-overlay .theme-header .close-modal:hover,
+html[data-adm-mode="dark"] .theme-overlay .previous-theme:hover,
+html[data-adm-mode="dark"] .theme-overlay .next-theme:hover { background: var(--nightify-surface-hover); color: var(--nightify-text); }
+
+/* Profile > Administration Color Scheme: keep the scheme previews intact, style their controls. */
+html[data-adm-mode="dark"] #color-picker { color: var(--nightify-text); }
+html[data-adm-mode="dark"] #color-picker .color-option { color: var(--nightify-text-secondary); border-color: transparent; border-radius: 3px; }
+html[data-adm-mode="dark"] #color-picker .color-option:hover { background: var(--nightify-surface-hover); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #color-picker .color-option.selected { background: var(--nightify-accent-subtle); color: var(--nightify-accent-hover); box-shadow: 0 0 0 1px var(--nightify-accent); }
+html[data-adm-mode="dark"] #color-picker .color-option:focus-within { outline: 2px solid var(--nightify-accent); outline-offset: 2px; }
+html[data-adm-mode="dark"] #color-picker .color-option input[type="radio"] { accent-color: var(--nightify-accent); }
+
+/* Core maintenance screens: dashboard, updates, plugins and Site Health. */
+html[data-adm-mode="dark"] #dashboard-widgets .postbox .inside,
+html[data-adm-mode="dark"] #dashboard_quick_press .drafts,
+html[data-adm-mode="dark"] .plugin-card-top,
+html[data-adm-mode="dark"] .plugin-card-bottom,
+html[data-adm-mode="dark"] .health-check-accordion,
+html[data-adm-mode="dark"] .site-health-issue,
+html[data-adm-mode="dark"] .site-health-issue-wrapper,
+html[data-adm-mode="dark"] .update-core,
+html[data-adm-mode="dark"] .core-updates,
+html[data-adm-mode="dark"] .updates-table { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .plugin-card-bottom,
+html[data-adm-mode="dark"] .health-check-accordion,
+html[data-adm-mode="dark"] .site-health-issue,
+html[data-adm-mode="dark"] .update-core { border-top-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .health-check-accordion-trigger,
+html[data-adm-mode="dark"] .health-check-accordion-trigger:hover,
+html[data-adm-mode="dark"] .health-check-accordion-trigger:focus { background: var(--nightify-surface-raised); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .health-check-accordion-trigger:hover { background: var(--nightify-surface-hover); }
+html[data-adm-mode="dark"] .health-check-accordion-trigger[aria-expanded="true"] { background: var(--nightify-accent-subtle); color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .site-health-issue .health-check-accordion-panel,
+html[data-adm-mode="dark"] .plugin-card .desc,
+html[data-adm-mode="dark"] .plugin-card .name { color: var(--nightify-text); }
+
+/* Dashboard Activity has its own rows, metadata and moderation states. */
+html[data-adm-mode="dark"] #dashboard_activity .inside { background: var(--nightify-surface); }
+html[data-adm-mode="dark"] #dashboard_activity .subsubsub,
+html[data-adm-mode="dark"] #dashboard_activity .activity-block,
+html[data-adm-mode="dark"] #activity-widget #the-comment-list .comment-item { border-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .activity-block { border-bottom-color: var(--nightify-border); }
+html[data-adm-mode="dark"] #dashboard_activity .no-activity p,
+html[data-adm-mode="dark"] #dashboard_activity .subsubsub a .count,
+html[data-adm-mode="dark"] #dashboard_activity .subsubsub a.current .count,
+html[data-adm-mode="dark"] #future-posts li,
+html[data-adm-mode="dark"] #published-posts li,
+html[data-adm-mode="dark"] #latest-comments #the-comment-list .comment-meta { color: var(--nightify-text-muted); }
+html[data-adm-mode="dark"] #future-posts li:nth-child(odd),
+html[data-adm-mode="dark"] #published-posts li:nth-child(odd),
+html[data-adm-mode="dark"] #activity-widget #the-comment-list .comment-item { background: var(--nightify-surface-raised); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #future-posts li:hover,
+html[data-adm-mode="dark"] #published-posts li:hover,
+html[data-adm-mode="dark"] #activity-widget #the-comment-list .comment-item:hover { background: var(--nightify-surface-hover); }
+html[data-adm-mode="dark"] #activity-widget .comments #the-comment-list .alt { background: transparent; }
+html[data-adm-mode="dark"] #activity-widget #the-comment-list .unapproved { background: var(--nightify-warning-bg); }
+html[data-adm-mode="dark"] #activity-widget #the-comment-list .unapproved:before { background: var(--nightify-warning-text); }
+html[data-adm-mode="dark"] #activity-widget #the-comment-list .comment,
+html[data-adm-mode="dark"] #activity-widget #the-comment-list .pingback { box-shadow: inset 0 1px 0 var(--nightify-border-subtle); }
+
+/* Dashboard Events & News has its own pale event list and muted metadata. */
+html[data-adm-mode="dark"] .community-events ul { background: var(--nightify-accent-subtle); }
+html[data-adm-mode="dark"] .community-events li,
+html[data-adm-mode="dark"] .community-events .event-info,
+html[data-adm-mode="dark"] .community-events .event-info-inner { color: var(--nightify-text); }
+html[data-adm-mode="dark"] .community-events li:first-child,
+html[data-adm-mode="dark"] .community-events li ~ li,
+html[data-adm-mode="dark"] .community-events .activity-block.last,
+html[data-adm-mode="dark"] .community-events-footer { border-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .community-events .event-date,
+html[data-adm-mode="dark"] .community-events .event-time,
+html[data-adm-mode="dark"] .community-events-footer,
+html[data-adm-mode="dark"] .event-icon:before { color: var(--nightify-text-muted); }
+html[data-adm-mode="dark"] .community-events .event-title { color: var(--nightify-text); }
+
+/* Media Library, attachment details and classic-editor chrome. */
+html[data-adm-mode="dark"] .attachments-browser,
+html[data-adm-mode="dark"] .media-sidebar,
+html[data-adm-mode="dark"] .attachment-details,
+html[data-adm-mode="dark"] .attachment-info,
+html[data-adm-mode="dark"] .attachment-display-settings,
+html[data-adm-mode="dark"] .attachment-content-description,
+html[data-adm-mode="dark"] .wp-editor-container,
+html[data-adm-mode="dark"] .quicktags-toolbar,
+html[data-adm-mode="dark"] #wp-content-editor-tools,
+html[data-adm-mode="dark"] .wp-media-buttons { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .attachment,
+html[data-adm-mode="dark"] .attachment .thumbnail,
+html[data-adm-mode="dark"] .attachments .attachment-preview { background: var(--nightify-surface-raised); border-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .attachment.selected .attachment-preview,
+html[data-adm-mode="dark"] .attachments .attachment:hover .attachment-preview { border-color: var(--nightify-accent); box-shadow: 0 0 0 1px var(--nightify-accent); }
+html[data-adm-mode="dark"] .wp-core-ui .attachment:not(:has(.filename))::after { background-color: rgba(25, 34, 49, .92); border: 1px solid rgba(64, 81, 106, .8); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .wp-core-ui .attachment .filename { background: rgba(25, 34, 49, .94); box-shadow: inset 0 0 0 1px rgba(64, 81, 106, .72); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .attachment-info .filename { color: var(--nightify-text); }
+html[data-adm-mode="dark"] .wp-editor-tabs .wp-switch-editor { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .wp-editor-tabs .wp-switch-editor.switch-tmce,
+html[data-adm-mode="dark"] .wp-editor-tabs .wp-switch-editor:hover { background: var(--nightify-surface-hover); color: var(--nightify-text); }
+/* Classic post/attachment editor has ID-level fields and publishing panels. */
+html[data-adm-mode="dark"] #titlediv #title,
+html[data-adm-mode="dark"] #titlewrap .skiplink,
+html[data-adm-mode="dark"] #post-status-info { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #titlediv #title:focus { background: var(--nightify-surface-elevated); border-color: var(--nightify-accent); box-shadow: 0 0 0 1px var(--nightify-accent); }
+html[data-adm-mode="dark"] #titlediv #title-prompt-text,
+html[data-adm-mode="dark"] #edit-slug-box,
+html[data-adm-mode="dark"] #comment-link-box,
+html[data-adm-mode="dark"] .misc-pub-section { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] #major-publishing-actions { background: var(--nightify-surface-raised); border-top-color: var(--nightify-border); }
+html[data-adm-mode="dark"] #minor-publishing-actions { background: var(--nightify-surface); border-color: var(--nightify-border); }
+html[data-adm-mode="dark"] #post-status-info .autosave-info,
+html[data-adm-mode="dark"] #wp-word-count { color: var(--nightify-text-muted); }
+html[data-adm-mode="dark"] .media-frame .media-toolbar,
+html[data-adm-mode="dark"] .media-frame .media-toolbar.wp-filter,
+html[data-adm-mode="dark"] .attachments-browser .media-toolbar { background: var(--nightify-surface); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .media-toolbar .media-toolbar-secondary,
+html[data-adm-mode="dark"] .media-toolbar .media-toolbar-primary { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .attachment-details .setting,
+html[data-adm-mode="dark"] .attachment-details .setting span,
+html[data-adm-mode="dark"] .attachment-details .setting .name { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .attachment-details .setting input[type="text"],
+html[data-adm-mode="dark"] .attachment-details .setting input[type="url"],
+html[data-adm-mode="dark"] .attachment-details .setting textarea,
+html[data-adm-mode="dark"] .attachment-details input[type="text"],
+html[data-adm-mode="dark"] .attachment-details textarea { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text); box-shadow: none; }
+html[data-adm-mode="dark"] .attachment-details .setting input[type="text"]:focus,
+html[data-adm-mode="dark"] .attachment-details .setting input[type="url"]:focus,
+html[data-adm-mode="dark"] .attachment-details .setting textarea:focus { background: var(--nightify-surface-elevated); border-color: var(--nightify-accent); box-shadow: 0 0 0 1px var(--nightify-accent); }
+/* Attachment action groups distinguish edit, restore and destructive actions. */
+html[data-adm-mode="dark"] .attachment-info .actions .edit-attachment,
+html[data-adm-mode="dark"] .attachment-info .actions a:not(.delete-attachment):not(.trash-attachment):not(.remove-attachment):not(.untrash-attachment) { color: var(--nightify-accent); }
+html[data-adm-mode="dark"] .attachment-info .actions .edit-attachment:hover,
+html[data-adm-mode="dark"] .attachment-info .actions a:not(.delete-attachment):not(.trash-attachment):not(.remove-attachment):not(.untrash-attachment):hover { color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .attachment-info .actions .delete-attachment,
+html[data-adm-mode="dark"] .attachment-info .actions .trash-attachment,
+html[data-adm-mode="dark"] .attachment-info .actions .remove-attachment,
+html[data-adm-mode="dark"] .media-modal .delete-attachment,
+html[data-adm-mode="dark"] .media-modal .trash-attachment { color: #FF9AA8; }
+html[data-adm-mode="dark"] .attachment-info .actions .delete-attachment:hover,
+html[data-adm-mode="dark"] .attachment-info .actions .delete-attachment:focus,
+html[data-adm-mode="dark"] .attachment-info .actions .trash-attachment:hover,
+html[data-adm-mode="dark"] .attachment-info .actions .trash-attachment:focus,
+html[data-adm-mode="dark"] .attachment-info .actions .remove-attachment:hover,
+html[data-adm-mode="dark"] .attachment-info .actions .remove-attachment:focus,
+html[data-adm-mode="dark"] .media-modal .delete-attachment:hover,
+html[data-adm-mode="dark"] .media-modal .trash-attachment:hover { color: var(--nightify-error-text); }
+html[data-adm-mode="dark"] .attachment-info .actions .untrash-attachment,
+html[data-adm-mode="dark"] .media-modal .untrash-attachment { color: var(--nightify-success-text); }
+html[data-adm-mode="dark"] .attachment-info .actions .untrash-attachment:hover,
+html[data-adm-mode="dark"] .media-modal .untrash-attachment:hover { color: #B2F0D8; }
+
+/* Dense admin controls: inline editing, accordions, autocomplete and date picker. */
+html[data-adm-mode="dark"] .inline-edit-row,
+html[data-adm-mode="dark"] .inline-edit-row td,
+html[data-adm-mode="dark"] #replyrow,
+html[data-adm-mode="dark"] .accordion-container,
+html[data-adm-mode="dark"] .accordion-section,
+html[data-adm-mode="dark"] .accordion-section-content,
+html[data-adm-mode="dark"] .ui-datepicker,
+html[data-adm-mode="dark"] .ac_results,
+html[data-adm-mode="dark"] .wp-link-input,
+html[data-adm-mode="dark"] #wp-link-wrap .submitbox { background: var(--nightify-surface-elevated); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .accordion-section-title,
+html[data-adm-mode="dark"] .accordion-section-title:hover,
+html[data-adm-mode="dark"] .ui-datepicker-header { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .accordion-section.open .accordion-section-title,
+html[data-adm-mode="dark"] .accordion-section-title:hover { background: var(--nightify-accent-subtle); color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .ui-datepicker td a,
+html[data-adm-mode="dark"] .ui-datepicker td span,
+html[data-adm-mode="dark"] .ui-datepicker th { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .ui-datepicker td a:hover,
+html[data-adm-mode="dark"] .ui-datepicker .ui-state-active { background: var(--nightify-accent-subtle); color: var(--nightify-accent-hover); }
+html[data-adm-mode="dark"] .ac_results li { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .ac_results li.ac_over { background: var(--nightify-accent-subtle); color: var(--nightify-text); }
+
+/* Code editor is a separate canvas from ordinary textareas. */
+html[data-adm-mode="dark"] .CodeMirror,
+html[data-adm-mode="dark"] .CodeMirror-gutters,
+html[data-adm-mode="dark"] .CodeMirror-hints,
+html[data-adm-mode="dark"] .CodeMirror-lint-tooltip { background: var(--nightify-surface-raised); border-color: var(--nightify-border); color: var(--nightify-text); }
+html[data-adm-mode="dark"] .CodeMirror-linenumber { color: var(--nightify-text-muted); }
+html[data-adm-mode="dark"] .CodeMirror-cursor { border-left-color: var(--nightify-accent); }
+
+/* Site Health is a dedicated core application, not an ordinary settings screen. */
+html[data-adm-mode="dark"] .site-health #wpcontent,
+html[data-adm-mode="dark"] .health-check-header { background: var(--nightify-bg); }
+html[data-adm-mode="dark"] .health-check-header { border-bottom-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .health-check-tab { color: var(--nightify-text-secondary); }
+html[data-adm-mode="dark"] .health-check-tab:hover,
+html[data-adm-mode="dark"] .health-check-tab:focus { color: var(--nightify-text); outline-color: var(--nightify-accent); }
+html[data-adm-mode="dark"] .health-check-tab.active { color: var(--nightify-accent-hover); box-shadow: inset 0 -3px var(--nightify-accent); }
+html[data-adm-mode="dark"] .health-check-offscreen-nav:before { border-bottom-color: var(--nightify-surface-elevated); }
+html[data-adm-mode="dark"] .health-check-offscreen-nav .health-check-tab { background: var(--nightify-surface-elevated); box-shadow: 0 2px 5px 0 rgba(0, 0, 0, .45); }
+html[data-adm-mode="dark"] .health-check-offscreen-nav .health-check-tab.active { box-shadow: inset 3px 0 var(--nightify-accent); }
+html[data-adm-mode="dark"] .health-check-accordion-heading { border-top-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .health-check-accordion-trigger .icon,
+html[data-adm-mode="dark"] .site-health-view-passed .icon { border-color: var(--nightify-text-muted); }
+html[data-adm-mode="dark"] .health-check-accordion-trigger .badge { color: var(--nightify-text-secondary); background: var(--nightify-surface-raised); }
+html[data-adm-mode="dark"] .health-check-accordion-trigger .badge.blue { border-color: var(--nightify-accent); }
+html[data-adm-mode="dark"] .health-check-accordion-trigger .badge.orange { border-color: var(--nightify-warning-text); }
+html[data-adm-mode="dark"] .health-check-accordion-trigger .badge.red { border-color: var(--nightify-error-text); }
+html[data-adm-mode="dark"] .health-check-accordion-trigger .badge.green { border-color: var(--nightify-success-text); }
+html[data-adm-mode="dark"] .health-check-accordion-trigger .badge.purple { border-color: #B9A5FF; }
+html[data-adm-mode="dark"] .health-check-accordion-trigger .badge.gray { border-color: var(--nightify-border-strong); }
+html[data-adm-mode="dark"] .site-health-progress svg circle { stroke: var(--nightify-border-strong); }
+html[data-adm-mode="dark"] .loading .site-health-progress svg #bar { stroke: var(--nightify-border-strong); }
+html[data-adm-mode="dark"] .site-health-progress svg #bar,
+html[data-adm-mode="dark"] .health-check-body .fail::before,
+html[data-adm-mode="dark"] .health-check-body .error::before { stroke: var(--nightify-error-text); color: var(--nightify-error-text); }
+html[data-adm-mode="dark"] .green .site-health-progress #bar,
+html[data-adm-mode="dark"] .health-check-body .pass::before,
+html[data-adm-mode="dark"] .health-check-body .good::before { stroke: var(--nightify-success-text); color: var(--nightify-success-text); }
+html[data-adm-mode="dark"] .orange .site-health-progress #bar,
+html[data-adm-mode="dark"] .health-check-body .warning::before { stroke: var(--nightify-warning-text); color: var(--nightify-warning-text); }
+html[data-adm-mode="dark"] .health-check-body .info::before { color: var(--nightify-info-text); }
+html[data-adm-mode="dark"] .green .site-health-progress .site-health-progress-label { color: var(--nightify-success-text); }
+html[data-adm-mode="dark"] .orange .site-health-progress .site-health-progress-label { color: var(--nightify-warning-text); }
+html[data-adm-mode="dark"] .site-health-copy-buttons .success { color: var(--nightify-success-text); }
+/* The Info tab uses its own striped health-check table, including cell-level colors. */
+html[data-adm-mode="dark"] .widefat.health-check-table,
+html[data-adm-mode="dark"] .widefat.health-check-table tbody td,
+html[data-adm-mode="dark"] .widefat.health-check-table tbody th,
+html[data-adm-mode="dark"] .widefat.health-check-table tbody p,
+html[data-adm-mode="dark"] .widefat.health-check-table tbody li,
+html[data-adm-mode="dark"] .widefat.health-check-table tbody strong { color: var(--nightify-text); border-color: var(--nightify-border); }
+html[data-adm-mode="dark"] .widefat.health-check-table tbody tr:nth-child(odd),
+html[data-adm-mode="dark"] .widefat.health-check-table.striped > tbody > tr:nth-child(odd),
+html[data-adm-mode="dark"] .widefat.health-check-table tbody tr:nth-child(odd) > td,
+html[data-adm-mode="dark"] .widefat.health-check-table tbody tr:nth-child(odd) > th { background: var(--nightify-surface); }
+html[data-adm-mode="dark"] .widefat.health-check-table tbody tr:nth-child(even),
+html[data-adm-mode="dark"] .widefat.health-check-table.striped > tbody > tr:nth-child(even),
+html[data-adm-mode="dark"] .widefat.health-check-table tbody tr:nth-child(even) > td,
+html[data-adm-mode="dark"] .widefat.health-check-table tbody tr:nth-child(even) > th { background: var(--nightify-surface-raised); }
+html[data-adm-mode="dark"] .widefat.health-check-table tbody tr:hover,
+html[data-adm-mode="dark"] .widefat.health-check-table tbody tr:hover > td,
+html[data-adm-mode="dark"] .widefat.health-check-table tbody tr:hover > th { background: var(--nightify-surface-hover); }
+html[data-adm-mode="dark"] .widefat.health-check-table code,
+html[data-adm-mode="dark"] .widefat.health-check-table kbd,
+html[data-adm-mode="dark"] .widefat.health-check-table pre { background: var(--nightify-bg); color: var(--nightify-text-secondary); border-color: var(--nightify-border-subtle); }
+
+/* New core React/Boot screens such as Settings > Connectors use wpds tokens. */
+html[data-adm-mode="dark"] body.options-connectors-php,
+html[data-adm-mode="dark"] body:has(#options-connectors-wp-admin-app) { background: var(--nightify-bg) !important; }
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app,
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app * {
+  --wpds-color-background-surface-neutral: var(--nightify-surface) !important;
+  --wpds-color-background-surface-neutral-strong: var(--nightify-surface-elevated) !important;
+  --wpds-color-background-surface-neutral-weak: var(--nightify-bg) !important;
+  --wpds-color-foreground-content-neutral: var(--nightify-text) !important;
+  --wpds-color-foreground-content-neutral-weak: var(--nightify-text-secondary) !important;
+  --wpds-color-foreground-interactive-brand-active: var(--nightify-accent) !important;
+  --wpds-color-foreground-interactive-neutral: var(--nightify-text-secondary) !important;
+  --wpds-color-foreground-interactive-neutral-disabled: var(--nightify-text-disabled) !important;
+  --wpds-color-stroke-surface-neutral-weak: var(--nightify-border) !important;
+}
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app,
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .boot-layout { background: var(--nightify-bg); color: var(--nightify-text);
+}
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .components-card,
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .components-panel,
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .components-modal__frame { background: var(--nightify-surface); color: var(--nightify-text); border-color: var(--nightify-border); }
+/* Connectors home cards are generated by the new Core app, not classic Components cards. */
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .connectors-page .components-item,
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .connectors-page .css-1bcj5ek { background: var(--nightify-surface) !important; border-color: var(--nightify-border) !important; color: var(--nightify-text) !important; }
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .connectors-page .components-item:hover,
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .connectors-page .css-1bcj5ek:hover { background: var(--nightify-surface-raised) !important; border-color: var(--nightify-border-strong) !important; }
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .connectors-page .components-item p,
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .connectors-page > p { color: var(--nightify-text-secondary) !important; }
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .connectors-page .ai-plugin-callout { background-color: var(--nightify-accent-subtle) !important; background-image: radial-gradient(ellipse 70% 120% at 18% 115%, rgba(76, 143, 232, .34) 0, transparent 60%), radial-gradient(ellipse 55% 110% at 92% -15%, rgba(88, 74, 155, .38) 0, transparent 65%), radial-gradient(ellipse 40% 85% at 58% -10%, rgba(110, 168, 254, .16) 0, transparent 70%) !important; border: 1px solid var(--nightify-border-strong); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .ai-plugin-callout__content,
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .ai-plugin-callout__content p,
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .ai-plugin-callout__content strong { color: var(--nightify-text) !important; }
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .ai-plugin-callout__content a { color: var(--nightify-accent-hover) !important; }
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .components-button.is-secondary { background: var(--nightify-surface-raised) !important; border-color: var(--nightify-border-strong) !important; color: var(--nightify-accent-hover) !important; }
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .components-button.is-secondary:hover { background: var(--nightify-surface-hover) !important; border-color: var(--nightify-accent) !important; color: var(--nightify-text) !important; }
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .components-button.is-secondary:focus { box-shadow: 0 0 0 1px var(--nightify-accent), 0 0 0 3px var(--nightify-bg) !important; }
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .components-button.is-secondary:disabled { background: var(--nightify-surface) !important; border-color: var(--nightify-border-subtle) !important; color: var(--nightify-text-disabled) !important; }
+/* Core provides this decoration as a base64 PNG inside SVG with inline multiply blending. */
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .ai-plugin-callout__decoration svg { filter: brightness(0) invert(1) sepia(.18) saturate(1.35) hue-rotate(178deg); opacity: .5; }
+html[data-adm-mode="dark"] #options-connectors-wp-admin-app .ai-plugin-callout__decoration svg image { mix-blend-mode: screen !important; }
+
+/* Settings > General Site Icon browser preview defines its own light token set. */
+html[data-adm-mode="dark"] .site-icon-preview {
+  --site-icon-input-border: var(--nightify-border-strong);
+  --site-icon-preview-background: var(--nightify-surface);
+  --site-icon-preview-browser-top: var(--nightify-surface-elevated);
+  --site-icon-preview-browser-bottom: var(--nightify-surface-raised);
+  --site-icon-preview-browser-border: var(--nightify-border);
+  --site-icon-address-bar-background: var(--nightify-bg);
+  --site-icon-address-bar-close: var(--nightify-text-muted);
+  --site-icon-address-bar-text: var(--nightify-text-secondary);
+  --site-icon-shadow-1: rgba(0, 0, 0, .24);
+  --site-icon-shadow-2: rgba(0, 0, 0, .36);
+  --site-icon-shadow-3: rgba(0, 0, 0, .55);
+}
+html[data-adm-mode="dark"] .edit-post-layout__content, html[data-adm-mode="dark"] .edit-site-layout__canvas, html[data-adm-mode="dark"] .interface-interface-skeleton__content, html[data-adm-mode="dark"] .editor-styles-wrapper { background: var(--nightify-bg); color: var(--nightify-text); }
+html[data-adm-mode="dark"] #wp-admin-bar-adm-color-mode .ab-icon:before { content: "\f339"; top: 2px; }

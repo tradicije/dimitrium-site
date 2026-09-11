@@ -1,0 +1,29 @@
+# Secrets and machine-specific configuration
+.env
+.env.*
+!.env.example
+wp-config.php
+wp-config-local.php
+*.pem
+*.key
+*.crt
+
+# WordPress runtime data
+# Public uploads are intentionally tracked with Git LFS in this repository.
+wp-content/cache/
+wp-content/upgrade/
+wp-content/backups/
+wp-content/debug.log
+
+# Paid assets used only by the production site. They must never enter this
+# public source repository.
+wp-content/plugins/dimitrium-now-playing/assets/icons/
+wp-content/uploads/social-icons/
+wp-content/uploads/fonts/Minicomputer-*.ttf
+
+# Dependencies and local tooling
+node_modules/
+vendor/
+.DS_Store
+Thumbs.db
+*.log
