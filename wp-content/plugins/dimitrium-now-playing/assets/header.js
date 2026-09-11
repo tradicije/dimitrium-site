@@ -102,7 +102,9 @@
 		'header.wp-block-template-part > .main-header:first-child .wp-block-navigation'
 	);
 	const menuButton = mobileNavigation?.querySelector('.wp-block-navigation__responsive-container-open');
-	const sourcePageList = mobileNavigation?.querySelector('.wp-block-page-list');
+	// WordPress emits a page-list block on some templates and a Navigation block
+	// container on others. Either is a valid source for our mobile drawer.
+	const sourcePageList = mobileNavigation?.querySelector('.wp-block-page-list, .wp-block-navigation__container');
 	if (mobileNavigation && menuButton && sourcePageList) {
 		const drawer = document.createElement('aside');
 		drawer.className = 'dimitrium-mobile-drawer';

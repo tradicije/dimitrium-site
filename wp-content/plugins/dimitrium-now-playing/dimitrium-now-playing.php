@@ -93,7 +93,7 @@ function dimitrium_now_playing_enqueue_header_style() {
 		'dimitrium-frosted-header',
 		plugin_dir_url( __FILE__ ) . 'assets/header.js',
 		array(),
-		'0.2.60.133.10',
+		'0.2.60.133.11',
 		array( 'in_footer' => false, 'strategy' => 'defer' )
 	);
 }
