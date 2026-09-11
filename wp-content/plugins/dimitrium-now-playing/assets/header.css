@@ -372,7 +372,7 @@ html:not([lang^="sr"]) :is(.footer-copy-sr, .footer-tagline-sr, .dimitrium-sourc
 }
 
 .dimitrium-footer-tagline {
-	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
+	font-family: var(--wp--preset--font-family--minicomputer, ui-monospace, "SFMono-Regular", Consolas, monospace);
 	font-size: clamp(1.25rem, 1.25rem + ((1vw - 0.2rem) * 1.705), 2rem) !important;
 	font-style: italic;
 	font-weight: 900;
