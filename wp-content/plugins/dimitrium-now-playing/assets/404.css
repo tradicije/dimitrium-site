@@ -1,0 +1,154 @@
+/* A deliberately small, site-specific 404 presentation. */
+.dimitrium-404 {
+	position: relative;
+	display: grid;
+	place-items: center;
+	box-sizing: border-box;
+	min-height: calc(100svh - 96px);
+	padding: clamp(40px, 7vw, 112px) 16px;
+	overflow: hidden;
+	background: #08090a;
+}
+
+.dimitrium-404::before {
+	position: absolute;
+	inset: auto 8% -35% auto;
+	width: min(54vw, 760px);
+	aspect-ratio: 1;
+	background: #b9632c;
+	border-radius: 50%;
+	content: "";
+	filter: blur(130px);
+	opacity: 0.2;
+	pointer-events: none;
+}
+
+.dimitrium-404__layout {
+	position: relative;
+	z-index: 1;
+	display: grid !important;
+	grid-template-columns: minmax(0, 0.86fr) minmax(0, 1.14fr);
+	align-items: center !important;
+	width: min(1180px, 100%);
+	margin: 0 !important;
+	gap: clamp(32px, 6vw, 96px) !important;
+}
+
+.dimitrium-404__copy,
+.dimitrium-404__art {
+	min-width: 0;
+}
+
+.dimitrium-404__eyebrow {
+	margin: 0 0 14px !important;
+	color: #8a8f98;
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
+	font-size: 0.72rem;
+	font-weight: 700;
+	letter-spacing: 0.14em;
+	line-height: 1.2;
+}
+
+.dimitrium-404__title {
+	margin: 0 !important;
+	color: #f7f8f8;
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
+	font-size: clamp(2.6rem, 5vw, 5.8rem);
+	font-style: italic;
+	font-weight: 900;
+	letter-spacing: -0.055em;
+	line-height: 0.93;
+}
+
+.dimitrium-404__copy-text {
+	max-width: 36rem;
+	margin: 26px 0 0 !important;
+	color: #b9bdc4;
+	font-size: clamp(1rem, 1.25vw, 1.16rem);
+	font-weight: 500;
+	line-height: 1.65;
+}
+
+.dimitrium-404__actions {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 12px;
+	margin-top: 32px;
+}
+
+.dimitrium-404__actions .wp-block-button__link {
+	padding: 13px 18px;
+	font-size: 0.85rem;
+	font-weight: 700;
+}
+
+.dimitrium-404__actions .dimitrium-404__secondary {
+	color: #f7f8f8;
+	background: transparent;
+	border: 1px solid rgba(247, 248, 248, 0.28);
+}
+
+.dimitrium-404__actions .dimitrium-404__secondary:hover,
+.dimitrium-404__actions .dimitrium-404__secondary:focus-visible {
+	color: #08090a;
+	background: #f7f8f8;
+}
+
+.dimitrium-404__image {
+	position: relative;
+	margin: 0;
+	line-height: 0;
+	border: 1px solid rgba(247, 248, 248, 0.12);
+	box-shadow: 0 28px 76px rgba(0, 0, 0, 0.46);
+	overflow: hidden;
+}
+
+.dimitrium-404__image::after {
+	position: absolute;
+	inset: 0;
+	background: linear-gradient(135deg, rgba(8, 9, 10, 0.08), transparent 54%, rgba(8, 9, 10, 0.38));
+	content: "";
+	pointer-events: none;
+}
+
+.dimitrium-404__image img {
+	display: block;
+	width: 100%;
+	height: auto;
+	transform: scale(1.002);
+}
+
+html[lang^="sr"] .dimitrium-404__en,
+html:not([lang^="sr"]) .dimitrium-404__sr {
+	display: none;
+}
+
+@media (max-width: 781px) {
+	.dimitrium-404 {
+		min-height: auto;
+		padding-block: 32px 56px;
+	}
+
+	.dimitrium-404__layout {
+		grid-template-columns: minmax(0, 1fr);
+		gap: 32px !important;
+	}
+
+	.dimitrium-404__art {
+		grid-row: 1;
+	}
+
+	.dimitrium-404__copy {
+		grid-row: 2;
+	}
+
+	.dimitrium-404__title {
+		font-size: clamp(2.7rem, 15vw, 4.5rem);
+	}
+}
+
+@media (prefers-reduced-motion: reduce) {
+	.dimitrium-404__image img {
+		transform: none;
+	}
+}

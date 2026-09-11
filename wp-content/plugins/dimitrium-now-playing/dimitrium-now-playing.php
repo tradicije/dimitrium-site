@@ -78,6 +78,27 @@ function dimitrium_news_marquee_shortcode() {
 }
 add_shortcode( 'dimitrium_news_marquee', 'dimitrium_news_marquee_shortcode' );
 
+/** Render one localized legal/footer copy instead of shipping both languages. */
+function dimitrium_footer_legal_shortcode() {
+	$sr = function_exists( 'pll_current_language' ) && 'sr' === pll_current_language( 'slug' );
+	$copy = $sr
+		? 'Ne, nisam se potrudio da ovde stavim tekst o autorskim pravima; i da, ovo je jedini footer koji za sada dobijaš.'
+		: 'No, I did not bother to place the copyright text here, and yes, this is the only footer you get for now.';
+	$tagline = $sr ? 'Ostani hladan.' : 'Stay frosty!';
+	$source = $sr ? 'Izvorni kod' : 'Source code';
+	$license = $sr ? 'Slike i muzika, osim fotografija Nale' : 'Images and music, except Nala photography';
+	$nala = $sr ? 'Fotografije Nale' : 'Nala photography';
+	$noir_url = $sr ? home_url( '/sr/noir-licenca/' ) : home_url( '/en/noir-license/' );
+
+	return '<div class="dimitrium-footer-legal">'
+		. '<p class="dimitrium-footer-copy">' . esc_html( $copy ) . '</p>'
+		. '<p class="dimitrium-footer-tagline">' . esc_html( $tagline ) . '</p>'
+		. '<p class="dimitrium-footer-source">' . esc_html( $source ) . ': <a href="https://github.com/tradicije/dimitrium-site">GitHub</a> · AGPLv3</p>'
+		. '<p class="dimitrium-footer-license">' . esc_html( $license ) . ': <a href="https://artlibre.org/licence/lal/en/">Free Art License 1.3</a> · ' . esc_html( $nala ) . ': <a href="' . esc_url( $noir_url ) . '">NoIR ' . esc_html( $sr ? 'licenca' : 'License' ) . '</a></p>'
+		. '</div>';
+}
+add_shortcode( 'dimitrium_footer_legal', 'dimitrium_footer_legal_shortcode' );
+
 function dimitrium_now_playing_is_music_page() {
 	return is_page( array( 122, 123, 142, 143, 434, 436 ) );
 }
@@ -87,7 +108,7 @@ function dimitrium_now_playing_enqueue_header_style() {
 		'dimitrium-frosted-header',
 		plugin_dir_url( __FILE__ ) . 'assets/header.css',
 		array(),
-		'0.2.60.133.12'
+		'0.2.60.133.14'
 	);
 	wp_enqueue_script(
 		'dimitrium-frosted-header',
@@ -98,6 +119,19 @@ function dimitrium_now_playing_enqueue_header_style() {
 	);
 }
 add_action( 'wp_enqueue_scripts', 'dimitrium_now_playing_enqueue_header_style' );
+
+function dimitrium_now_playing_enqueue_404_style() {
+	if ( ! is_404() ) {
+		return;
+	}
+	wp_enqueue_style(
+		'dimitrium-404',
+		plugin_dir_url( __FILE__ ) . 'assets/404.css',
+		array( 'dimitrium-frosted-header' ),
+		'0.2.60.133.6'
+	);
+}
+add_action( 'wp_enqueue_scripts', 'dimitrium_now_playing_enqueue_404_style' );
 
 /**
  * Homepage image performance: preserve PNG uploads as fallbacks while serving

@@ -1,8 +1,46 @@
 <!-- wp:template-part {"slug":"header"} /-->
 
-<!-- wp:group {"tagName":"main","metadata":{"name":"Main"},"layout":{"type":"constrained","contentSize":"400px","wideSize":"720px"}} -->
-<main class="wp-block-group">
-    <!-- wp:pattern {"slug":"assembler/hidden-404"} /-->
+<!-- wp:group {"tagName":"main","className":"dimitrium-404","layout":{"type":"constrained"}} -->
+<main id="wp--skip-link--target" class="wp-block-group dimitrium-404">
+    <!-- wp:columns {"className":"dimitrium-404__layout"} -->
+    <div class="wp-block-columns dimitrium-404__layout">
+        <!-- wp:column {"className":"dimitrium-404__copy"} -->
+        <div class="wp-block-column dimitrium-404__copy">
+            <!-- wp:paragraph {"className":"dimitrium-404__eyebrow"} -->
+            <p class="dimitrium-404__eyebrow">ERROR 404 / NOT FOUND</p>
+            <!-- /wp:paragraph -->
+
+            <!-- wp:heading {"level":1,"className":"dimitrium-404__title"} -->
+            <h1 class="wp-block-heading dimitrium-404__title"><span class="dimitrium-404__en">This page packed its boxes and left.</span><span class="dimitrium-404__sr">Ova stranica je spakovala kutije i otišla.</span></h1>
+            <!-- /wp:heading -->
+
+            <!-- wp:paragraph {"className":"dimitrium-404__copy-text"} -->
+            <p class="dimitrium-404__copy-text"><span class="dimitrium-404__en">You have arrived somewhere that is no longer here. Nala suggests returning to familiar territory.</span><span class="dimitrium-404__sr">Stigao/la si negde čega više nema. Nala predlaže povratak na poznat teren.</span></p>
+            <!-- /wp:paragraph -->
+
+            <!-- wp:buttons {"className":"dimitrium-404__actions"} -->
+            <div class="wp-block-buttons dimitrium-404__actions">
+                <!-- wp:button -->
+                <div class="wp-block-button"><a class="wp-block-button__link wp-element-button dimitrium-404__en" href="/en/home/">Return home</a><a class="wp-block-button__link wp-element-button dimitrium-404__sr" href="/sr/pocetna/">Nazad na početnu</a></div>
+                <!-- /wp:button -->
+
+                <!-- wp:button {"className":"dimitrium-404__secondary"} -->
+                <div class="wp-block-button dimitrium-404__secondary"><a class="wp-block-button__link wp-element-button dimitrium-404__en" href="/en/dimipedia/">Open Dimipedia</a><a class="wp-block-button__link wp-element-button dimitrium-404__sr" href="/sr/dimipedia/">Otvori Dimipediju</a></div>
+                <!-- /wp:button -->
+            </div>
+            <!-- /wp:buttons -->
+        </div>
+        <!-- /wp:column -->
+
+        <!-- wp:column {"className":"dimitrium-404__art"} -->
+        <div class="wp-block-column dimitrium-404__art">
+            <!-- wp:html -->
+            <figure class="dimitrium-404__image"><picture><source type="image/webp" srcset="https://dimitrium.org/wp-content/uploads/2026/09/404-page-image.webp"><img src="https://dimitrium.org/wp-content/uploads/2026/09/404-page-image.png" width="1448" height="1086" alt="Aleksa and Nala among moving boxes" decoding="async" fetchpriority="high"></picture></figure>
+            <!-- /wp:html -->
+        </div>
+        <!-- /wp:column -->
+    </div>
+    <!-- /wp:columns -->
 </main>
 <!-- /wp:group -->
 

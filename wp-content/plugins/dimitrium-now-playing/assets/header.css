@@ -353,6 +353,36 @@ header.wp-block-template-part {
 	letter-spacing: 0.04em;
 }
 
+/* Footer copy is authored in both site languages; expose only the current one. */
+html[lang^="sr"] :is(.footer-copy-en, .footer-tagline-en, .dimitrium-source-link-en, .dimitrium-image-license-en),
+html:not([lang^="sr"]) :is(.footer-copy-sr, .footer-tagline-sr, .dimitrium-source-link-sr, .dimitrium-image-license-sr) {
+	display: none;
+}
+
+.dimitrium-footer-legal {
+	display: grid;
+	gap: 8px;
+	text-align: center;
+}
+
+.dimitrium-footer-legal p {
+	margin: 0;
+	color: #f7f8f8;
+	font-size: 0.9rem;
+}
+
+.dimitrium-footer-tagline {
+	font-family: ui-monospace, "SFMono-Regular", Consolas, monospace;
+	font-size: clamp(1.25rem, 1.25rem + ((1vw - 0.2rem) * 1.705), 2rem) !important;
+	font-style: italic;
+	font-weight: 900;
+}
+
+.dimitrium-footer-source,
+.dimitrium-footer-license {
+	font-size: 0.8rem !important;
+}
+
 .dimitrium-news-marquee__viewport {
 	min-width: 0;
 	flex: 1;

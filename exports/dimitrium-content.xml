@@ -16,7 +16,7 @@
 <!-- 7. WordPress will then import each of the posts, pages, comments, categories, etc. -->
 <!--    contained in this file into your site. -->
 
-	<!-- generator="WordPress/7.1" created="2026-09-11 05:34" -->
+	<!-- generator="WordPress/7.1" created="2026-09-11 05:49" -->
 <rss version="2.0"
 	xmlns:excerpt="http://wordpress.org/export/1.2/excerpt/"
 	xmlns:content="http://purl.org/rss/1.0/modules/content/"
@@ -29,7 +29,7 @@
 	<title>Dimitrium</title>
 	<link>https://dimitrium.org</link>
 	<description></description>
-	<pubDate>Fri, 11 Sep 2026 05:34:57 +0000</pubDate>
+	<pubDate>Fri, 11 Sep 2026 05:49:53 +0000</pubDate>
 	<language>en-US</language>
 	<wp:wxr_version>1.2</wp:wxr_version>
 	<wp:base_site_url>https://dimitrium.org</wp:base_site_url>
@@ -2915,125 +2915,6 @@ Known for | Unendlich]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Mačka Nala]]></title>
-		<link>https://dimitrium.org/sr/dimipedia/macka-nala/</link>
-		<pubDate>Tue, 08 Sep 2026 12:56:41 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimipedia_entry&#038;p=496</guid>
-		<description></description>
-		<content:encoded><![CDATA[<p><strong>Mačka Nala</strong>, najčešće poznata kao <strong>Nala</strong>, domaća je mačka i saputnica <a href="https://dimitrium.org/sr/dimipedia/aleksa-dimitrijevic/">Alekse Dimitrijevića</a>. Navedena je kao koproducentkinja na albumu <em>Unendlich</em> (2026), debitantskom albumu <strong><a href="https://dimitrium.org/sr/dimipedia/alex-dietrich/">Alex Dietricha</a></strong>, i jedna je od prvih izvođačica koje su potpisale za <strong><a href="https://dimitrium.org/sr/dimipedia/dimitrium-records/">Dimitrium Records</a></strong>.</p>
-
-<p>Nala je poznata po mirnom prisustvu tokom rada na muzici i softveru. Često spava na visokim mestima, a zabeleženo je i da sedi sa Dimitrijevićem dok programira, producira muziku ili radi za računarom.</p>
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Život i narav</h2>
-<!-- /wp:heading -->
-
-<p>Za Nalu je 2026. navedeno da ima približno pet godina, iako njen tačan datum rođenja nije dokumentovan. Opisana je kao umiljata i nežna, a naročito je povezana sa spavanjem na visokim mestima, uključujući vrh ormara.</p>
-
-<p>Njen omiljeni raspored tokom rada podrazumeva sedenje u krilu dok je posao u toku. To od osobe ispod nje zahteva da bude gotovo potpuno mirna kako ne bi poremetila njen san.</p>
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Muzička karijera</h2>
-<!-- /wp:heading -->
-
-<p>Nala je navedena kao koproducentkinja na <em>Unendlich</em>, debitantskom albumu <strong><a href="https://dimitrium.org/sr/dimipedia/alex-dietrich/">Alex Dietricha</a></strong> iz 2026. godine. Njen precizan muzički doprinos nije formalno dokumentovan; savremeni zapisi pre svega beleže njeno prisustvo pored računara, produkcijske opreme i Dietricha tokom nastanka albuma.</p>
-
-<p>Njena jedina poznata javna izjava o albumu glasi „Mjau”, a kasnije je iskorišćena kao svedočanstvo za izdanje. Pojavljuje se i na vizuelima povezanim sa projektom, uključujući materijal potpisan imenom Alex Dietrich &amp; Mačka Nala.</p>
-
-<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Dimitrium Records</h2>
-<!-- /wp:heading -->
-
-<p>Kada je <strong><a href="https://dimitrium.org/sr/dimipedia/alex-dietrich/">Alex Dietrich</a></strong> 2026. potpisao za <strong><a href="https://dimitrium.org/sr/dimipedia/dimitrium-records/">Dimitrium Records</a></strong>, insistirao je da i Nala potpiše zajedno sa njim. Izdavačka kuća je prihvatila zahtev, čime je Nala postala jedna od prvih potpisanih izvođačica, uprkos odsustvu dokumentovanog iskustva u snimanju, produkciji ili pregovorima o ugovorima.</p>
-
-<p>Tom odlukom je Nalina povezanost sa Dietrichovim radom i izdavačkom kućom formalizovana. Njena slika se zasebno distribuira pod licencom Nala Open Image Repository (NOIR).</p>
-
-<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:clamp(1.25rem, 1.25rem + ((1vw - 0.2rem) * 1.705), 2rem);font-style:italic;font-weight:900;line-height:1.5">Stvari koje Mačka Nala ne može da bude ili radi</h2>
-<p>I pored svih devet života, Nala i dalje ima nekoliko zaista srceparajućih ograničenja. To nisu mane karaktera; to su jednostavno surove granice mačjeg postojanja.</p>
-<ul>
-<li>Ne može da producira pesmu umesto <a href="https://dimitrium.org/sr/dimipedia/alex-dietrich/">Alex Dietricha</a>. Može da sedne na tastaturu tokom sesije, ali to još nijednom nije dovelo do gotovog aranžmana.</li>
-<li>Ne može da objasni Pitagorinu teoremu, čak ni kada joj se pokaže veoma ubedljiv trougao od poslastica.</li>
-<li>Ne može da bude pas. Nijedna ogrlica, herojska poza ni posebno energično pomeranje dela tela blizu repa to ne mogu promeniti.</li>
-<li>Ne može da pošalje profesionalan mejl <a href="https://dimitrium.org/sr/dimipedia/dimitrium-records/">Dimitrium Records-u</a>; njen najpouzdaniji pisani doprinos i dalje je niz slučajno unetih slova.</li>
-<li>Ne može da uradi restore servera, pročita monitoring upozorenje niti da razlikuje SSH ključ od najtoplijeg mesta na laptopu.</li>
-<li>Ne može da razume zašto zatvorena vrata postoje kada bi ona više volela da budu otvorena.</li>
-<li>Ne može da obeća da neće ostaviti dlake baš na mestu gde će se najviše primetiti.</li>
-</ul>
-<p>Ova ograničenja nisu sprečila Nalu da postane važna pojava u domu, mitologiji izdavačke kuće i dugotrajnoj borbi između radnog prostora i mačjih dremki.</p>]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>496</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-08 12:56:41]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-08 12:56:41]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-08 21:21:42]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-08 21:21:42]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[macka-nala]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[dimipedia_entry]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="dimipedia_category" nicename="nala-sr"><![CDATA[Nala]]></category>
-		<category domain="post_translations" nicename="pll_6aa0060a06a61"><![CDATA[pll_6aa0060a06a61]]></category>
-		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[494]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_also_known_as]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Nala]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_occupation]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Koproducentkinja]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_organization]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Dimitrium Records]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_years_active]]></wp:meta_key>
-		<wp:meta_value><![CDATA[2026–danas]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_additional_facts]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Vrsta | Domaća mačka
-Poznata po | Unendlich]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_title]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Mačka Nala | Dimitrium]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Mačka Nala je mačka Alekse Dimitrijevića i potpisana koproducentkinja na albumu Unendlich Alex Dietricha iz 2026.]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimitrium_seo_image]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-02_54_33-PM-e1788872132642.png]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_image_caption]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Nala u svom domu]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_schema_type]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Thing]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_dimipedia_schema_id]]></wp:meta_key>
-		<wp:meta_value><![CDATA[https://dimitrium.org/#nala]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
 		<title><![CDATA[ChatGPT Image Sep 8, 2026, 10_34_59 PM]]></title>
 		<link>https://dimitrium.org/en/dimipedia/chatgpt-image-sep-8-2026-10_34_59-pm/</link>
 		<pubDate>Tue, 08 Sep 2026 20:35:12 +0000</pubDate>
@@ -3467,6 +3348,39 @@ Poznata po | Unendlich]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
+		<title><![CDATA[404-page-image]]></title>
+		<link>https://dimitrium.org/404-page-image/</link>
+		<pubDate>Fri, 11 Sep 2026 05:41:29 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/wp-content/uploads/2026/09/404-page-image.png</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>625</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-11 05:41:29]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-11 05:41:29]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-11 05:41:29]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-11 05:41:29]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[open]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[404-page-image]]></wp:post_name>
+		<wp:status><![CDATA[inherit]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[attachment]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+						<wp:attachment_url><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/404-page-image.png]]></wp:attachment_url>
+											<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attached_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026/09/404-page-image.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_attachment_metadata]]></wp:meta_key>
+		<wp:meta_value><![CDATA[a:6:{s:5:"width";i:1448;s:6:"height";i:1086;s:4:"file";s:26:"2026/09/404-page-image.png";s:8:"filesize";i:2028820;s:5:"sizes";a:4:{s:6:"medium";a:5:{s:4:"file";s:26:"404-page-image-300x225.png";s:5:"width";i:300;s:6:"height";i:225;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:99378;}s:5:"large";a:5:{s:4:"file";s:27:"404-page-image-1024x768.png";s:5:"width";i:1024;s:6:"height";i:768;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:914693;}s:9:"thumbnail";a:5:{s:4:"file";s:26:"404-page-image-150x150.png";s:5:"width";i:150;s:6:"height";i:150;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:34181;}s:12:"medium_large";a:5:{s:4:"file";s:26:"404-page-image-768x576.png";s:5:"width";i:768;s:6:"height";i:576;s:9:"mime-type";s:9:"image/png";s:8:"filesize";i:542828;}}s:10:"image_meta";a:13:{s:8:"aperture";s:1:"0";s:6:"credit";s:0:"";s:6:"camera";s:0:"";s:7:"caption";s:0:"";s:17:"created_timestamp";s:1:"0";s:9:"copyright";s:0:"";s:12:"focal_length";s:1:"0";s:3:"iso";s:1:"0";s:13:"shutter_speed";s:1:"0";s:5:"title";s:0:"";s:11:"orientation";s:1:"0";s:8:"keywords";a:0:{}s:3:"alt";s:0:"";}}]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Unendlich is taking shape]]></title>
 		<link>https://dimitrium.org/en/news/unendlich-is-taking-shape/</link>
 		<pubDate>Sun, 06 Sep 2026 19:08:45 +0000</pubDate>
@@ -3813,37 +3727,122 @@ Poznata po | Unendlich]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
-		<title><![CDATA[Dimitrium Records signs underdog Alex Dietrich.]]></title>
-		<link>https://dimitrium.org/en/news/dimitrium-records-signs-underdog-alex-dietrich/</link>
-		<pubDate>Mon, 07 Sep 2026 08:35:11 +0000</pubDate>
+		<title><![CDATA[Mačka Nala]]></title>
+		<link>https://dimitrium.org/sr/dimipedia/macka-nala/</link>
+		<pubDate>Tue, 08 Sep 2026 12:56:41 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimitrium_news&#038;p=407</guid>
+		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimipedia_entry&#038;p=496</guid>
 		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
+		<content:encoded><![CDATA[<p><strong>Mačka Nala</strong>, najčešće poznata kao <strong>Nala</strong>, domaća je mačka i saputnica <a href="https://dimitrium.org/sr/dimipedia/aleksa-dimitrijevic/">Alekse Dimitrijevića</a>. Navedena je kao koproducentkinja na albumu <em>Unendlich</em> (2026), debitantskom albumu <strong><a href="https://dimitrium.org/sr/dimipedia/alex-dietrich/">Alex Dietricha</a></strong>, i jedna je od prvih izvođačica koje su potpisale za <strong><a href="https://dimitrium.org/sr/dimipedia/dimitrium-records/">Dimitrium Records</a></strong>.</p>
+
+<p>Nala je poznata po mirnom prisustvu tokom rada na muzici i softveru. Često spava na visokim mestima, a zabeleženo je i da sedi sa Dimitrijevićem dok programira, producira muziku ili radi za računarom.</p>
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Život i narav</h2>
+<!-- /wp:heading -->
+
+<p>Za Nalu je 2026. navedeno da ima približno pet godina, iako njen tačan datum rođenja nije dokumentovan. Opisana je kao umiljata i nežna, a naročito je povezana sa spavanjem na visokim mestima, uključujući vrh ormara.</p>
+
+<p>Njen omiljeni raspored tokom rada podrazumeva sedenje u krilu dok je posao u toku. To od osobe ispod nje zahteva da bude gotovo potpuno mirna kako ne bi poremetila njen san.</p>
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Muzička karijera</h2>
+<!-- /wp:heading -->
+
+<p>Nala je navedena kao koproducentkinja na <em>Unendlich</em>, debitantskom albumu <strong><a href="https://dimitrium.org/sr/dimipedia/alex-dietrich/">Alex Dietricha</a></strong> iz 2026. godine. Njen precizan muzički doprinos nije formalno dokumentovan; savremeni zapisi pre svega beleže njeno prisustvo pored računara, produkcijske opreme i Dietricha tokom nastanka albuma.</p>
+
+<p>Njena jedina poznata javna izjava o albumu glasi „Mjau”, a kasnije je iskorišćena kao svedočanstvo za izdanje. Pojavljuje se i na vizuelima povezanim sa projektom, uključujući materijal potpisan imenom Alex Dietrich &amp; Mačka Nala.</p>
+
+<!-- wp:heading {"style":{"typography":{"fontSize":"2rem","fontStyle":"italic","fontWeight":"900","lineHeight":"1.5"},"border":{"bottom":{"width":"2px"}},"spacing":{"padding":{"bottom":"8px"},"margin":{"top":"40px"}}},"fontFamily":"monospace"} -->
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:2rem;font-style:italic;font-weight:900;line-height:1.5">Dimitrium Records</h2>
+<!-- /wp:heading -->
+
+<p>Kada je <strong><a href="https://dimitrium.org/sr/dimipedia/alex-dietrich/">Alex Dietrich</a></strong> 2026. potpisao za <strong><a href="https://dimitrium.org/sr/dimipedia/dimitrium-records/">Dimitrium Records</a></strong>, insistirao je da i Nala potpiše zajedno sa njim. Izdavačka kuća je prihvatila zahtev, čime je Nala postala jedna od prvih potpisanih izvođačica, uprkos odsustvu dokumentovanog iskustva u snimanju, produkciji ili pregovorima o ugovorima.</p>
+
+<p>Tom odlukom je Nalina povezanost sa Dietrichovim radom i izdavačkom kućom formalizovana. Njena slika se zasebno distribuira pod licencom Nala Open Image Repository (NOIR).</p>
+
+<h2 class="wp-block-heading has-monospace-font-family" style="border-bottom-width:2px;margin-top:40px;padding-bottom:8px;font-size:clamp(1.25rem, 1.25rem + ((1vw - 0.2rem) * 1.705), 2rem);font-style:italic;font-weight:900;line-height:1.5">Stvari koje Mačka Nala ne može da bude ili radi</h2>
+<p>I pored svih devet života, Nala i dalje ima nekoliko zaista srceparajućih ograničenja. To nisu mane karaktera; to su jednostavno surove granice mačjeg postojanja.</p>
+<ul>
+<li>Ne može da producira pesmu umesto <a href="https://dimitrium.org/sr/dimipedia/alex-dietrich/">Alex Dietricha</a>. Može da sedne na tastaturu tokom sesije, ali to još nijednom nije dovelo do gotovog aranžmana.</li>
+<li>Ne može da objasni Pitagorinu teoremu, čak ni kada joj se pokaže veoma ubedljiv trougao od poslastica.</li>
+<li>Ne može da bude pas. Nijedna ogrlica, herojska poza ni posebno energično pomeranje dela tela blizu repa to ne mogu promeniti.</li>
+<li>Ne može da pošalje profesionalan mejl <a href="https://dimitrium.org/sr/dimipedia/dimitrium-records/">Dimitrium Records-u</a>; njen najpouzdaniji pisani doprinos i dalje je niz slučajno unetih slova.</li>
+<li>Ne može da uradi restore servera, pročita monitoring upozorenje niti da razlikuje SSH ključ od najtoplijeg mesta na laptopu.</li>
+<li>Ne može da razume zašto zatvorena vrata postoje kada bi ona više volela da budu otvorena.</li>
+<li>Ne može da obeća da neće ostaviti dlake baš na mestu gde će se najviše primetiti.</li>
+</ul>
+<p>Ova ograničenja nisu sprečila Nalu da postane važna pojava u domu, mitologiji izdavačke kuće i dugotrajnoj borbi između radnog prostora i mačjih dremki.</p>]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>407</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-07 08:35:11]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-07 08:35:11]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-07 08:35:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-07 08:35:11]]></wp:post_modified_gmt>
+		<wp:post_id>496</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-08 12:56:41]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-08 12:56:41]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-08 21:21:42]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-08 21:21:42]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[dimitrium-records-signs-underdog-alex-dietrich]]></wp:post_name>
+		<wp:post_name><![CDATA[macka-nala]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
 		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[dimitrium_news]]></wp:post_type>
+		<wp:post_type><![CDATA[dimipedia_entry]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="language" nicename="en"><![CDATA[EN]]></category>
-		<category domain="post_translations" nicename="pll_6a9e7796601e2"><![CDATA[pll_6a9e7796601e2]]></category>
+										<category domain="dimipedia_category" nicename="nala-sr"><![CDATA[Nala]]></category>
+		<category domain="post_translations" nicename="pll_6aa0060a06a61"><![CDATA[pll_6aa0060a06a61]]></category>
+		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
 						<wp:postmeta>
+		<wp:meta_key><![CDATA[_thumbnail_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[494]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
 		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_also_known_as]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Nala]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_occupation]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Koproducentkinja]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_organization]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Dimitrium Records]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_years_active]]></wp:meta_key>
+		<wp:meta_value><![CDATA[2026–danas]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_additional_facts]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Vrsta | Domaća mačka
+Poznata po | Unendlich]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_title]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Mačka Nala | Dimitrium]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
 		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
-		<wp:meta_value><![CDATA[Dimitrium Records announces Alex Dietrich as its artist. Follow his original music and the Unendlich album on Dimitrium.]]></wp:meta_value>
+		<wp:meta_value><![CDATA[Mačka Nala je mačka Alekse Dimitrijevića i potpisana koproducentkinja na albumu Unendlich Alex Dietricha iz 2026.]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_image]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://dimitrium.org/wp-content/uploads/2026/09/ChatGPT-Image-Sep-8-2026-02_54_33-PM-e1788872132642.png]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_image_caption]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Nala u svom domu]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_schema_type]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Thing]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimipedia_schema_id]]></wp:meta_key>
+		<wp:meta_value><![CDATA[https://dimitrium.org/#nala]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -5568,6 +5567,40 @@ Održava | <a href="https://dimitrium.org/sr/dimipedia/aleksa-dimitrijevic/">Ale
 							</item>
 
 					<item>
+		<title><![CDATA[Dimitrium Records signs underdog Alex Dietrich.]]></title>
+		<link>https://dimitrium.org/en/news/dimitrium-records-signs-underdog-alex-dietrich/</link>
+		<pubDate>Mon, 07 Sep 2026 08:35:11 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/?post_type=dimitrium_news&#038;p=407</guid>
+		<description></description>
+		<content:encoded><![CDATA[]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>407</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-07 08:35:11]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-07 08:35:11]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-07 08:35:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-07 08:35:11]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[dimitrium-records-signs-underdog-alex-dietrich]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>0</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[dimitrium_news]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+										<category domain="language" nicename="en"><![CDATA[EN]]></category>
+		<category domain="post_translations" nicename="pll_6a9e7796601e2"><![CDATA[pll_6a9e7796601e2]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_dimitrium_seo_description]]></wp:meta_key>
+		<wp:meta_value><![CDATA[Dimitrium Records announces Alex Dietrich as its artist. Follow his original music and the Unendlich album on Dimitrium.]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[Dimipedia i Dimimedia bi uskoro mogli da počnu sa razvojem.]]></title>
 		<link>https://dimitrium.org/sr/news/dimipedia-i-dimimedia-bi-uskoro-mogli-da-pocnu-sa-razvojem/</link>
 		<pubDate>Mon, 07 Sep 2026 08:35:59 +0000</pubDate>
@@ -6089,40 +6122,6 @@ Održava | <a href="https://dimitrium.org/sr/dimipedia/aleksa-dimitrijevic/">Ale
 							<wp:postmeta>
 		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
 		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
-		</wp:postmeta>
-							</item>
-					<item>
-		<title><![CDATA[Softver]]></title>
-		<link>https://dimitrium.org/sr/softver/</link>
-		<pubDate>Thu, 10 Sep 2026 00:05:10 +0000</pubDate>
-		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/?page_id=574</guid>
-		<description></description>
-		<content:encoded><![CDATA[]]></content:encoded>
-		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>574</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-10 00:05:10]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-10 00:05:10]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-10 00:05:11]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-10 00:05:11]]></wp:post_modified_gmt>
-		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
-		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[softver]]></wp:post_name>
-		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>0</wp:post_parent>
-		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[page]]></wp:post_type>
-		<wp:post_password><![CDATA[]]></wp:post_password>
-		<wp:is_sticky>0</wp:is_sticky>
-										<category domain="post_translations" nicename="pll_6aa1f4372ad6f"><![CDATA[pll_6aa1f4372ad6f]]></category>
-		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
-						<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
-		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
-		</wp:postmeta>
-							<wp:postmeta>
-		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
-		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
 					<item>
@@ -6734,36 +6733,42 @@ Commenter avatars come from <a href="https://gravatar.com/">Gravatar</a>.]]></wp
 		<wp:meta_value><![CDATA[monospace-HeavyItalic.ttf]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
+
+
 					<item>
-		<title><![CDATA[monospace;italic;400;100%;U+0-10FFFF]]></title>
-		<link>https://dimitrium.org/monospaceitalic400100u0-10ffff/</link>
-		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
+		<title><![CDATA[Softver]]></title>
+		<link>https://dimitrium.org/sr/softver/</link>
+		<pubDate>Thu, 10 Sep 2026 00:05:10 +0000</pubDate>
 		<dc:creator><![CDATA[tradicije]]></dc:creator>
-		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic400100u0-10ffff/</guid>
+		<guid isPermaLink="false">https://dimitrium.org/?page_id=574</guid>
 		<description></description>
-		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"400","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-Italic.ttf"}]]></content:encoded>
+		<content:encoded><![CDATA[]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
-		<wp:post_id>34</wp:post_id>
-		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
-		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
+		<wp:post_id>574</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-10 00:05:10]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-10 00:05:10]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-10 00:05:11]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-10 00:05:11]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
-		<wp:post_name><![CDATA[monospaceitalic400100u0-10ffff]]></wp:post_name>
+		<wp:post_name><![CDATA[softver]]></wp:post_name>
 		<wp:status><![CDATA[publish]]></wp:status>
-		<wp:post_parent>27</wp:post_parent>
+		<wp:post_parent>0</wp:post_parent>
 		<wp:menu_order>0</wp:menu_order>
-		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_type><![CDATA[page]]></wp:post_type>
 		<wp:post_password><![CDATA[]]></wp:post_password>
 		<wp:is_sticky>0</wp:is_sticky>
-														<wp:postmeta>
-		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
-		<wp:meta_value><![CDATA[monospace-Italic.ttf]]></wp:meta_value>
+										<category domain="post_translations" nicename="pll_6aa1f4372ad6f"><![CDATA[pll_6aa1f4372ad6f]]></category>
+		<category domain="language" nicename="sr"><![CDATA[SR]]></category>
+						<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_page_template]]></wp:meta_key>
+		<wp:meta_value><![CDATA[home-template]]></wp:meta_value>
+		</wp:postmeta>
+							<wp:postmeta>
+		<wp:meta_key><![CDATA[_edit_last]]></wp:meta_key>
+		<wp:meta_value><![CDATA[1]]></wp:meta_value>
 		</wp:postmeta>
 							</item>
-
-
 					<item>
 		<title><![CDATA[Philosophy]]></title>
 		<link>https://dimitrium.org/en/philosophy/</link>
@@ -7763,6 +7768,34 @@ document.addEventListener("DOMContentLoaded", function () {
 		<wp:is_sticky>0</wp:is_sticky>
 														</item>
 					<item>
+		<title><![CDATA[monospace;italic;400;100%;U+0-10FFFF]]></title>
+		<link>https://dimitrium.org/monospaceitalic400100u0-10ffff/</link>
+		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
+		<dc:creator><![CDATA[tradicije]]></dc:creator>
+		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/monospaceitalic400100u0-10ffff/</guid>
+		<description></description>
+		<content:encoded><![CDATA[{"fontFamily":"monospace","fontStyle":"italic","fontWeight":"400","src":"https:\/\/dimitrium.org\/wp-content\/uploads\/fonts\/monospace-Italic.ttf"}]]></content:encoded>
+		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
+		<wp:post_id>34</wp:post_id>
+		<wp:post_date><![CDATA[2026-09-04 02:14:30]]></wp:post_date>
+		<wp:post_date_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_date_gmt>
+		<wp:post_modified><![CDATA[2026-09-04 02:14:30]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-04 02:14:30]]></wp:post_modified_gmt>
+		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
+		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
+		<wp:post_name><![CDATA[monospaceitalic400100u0-10ffff]]></wp:post_name>
+		<wp:status><![CDATA[publish]]></wp:status>
+		<wp:post_parent>27</wp:post_parent>
+		<wp:menu_order>0</wp:menu_order>
+		<wp:post_type><![CDATA[wp_font_face]]></wp:post_type>
+		<wp:post_password><![CDATA[]]></wp:post_password>
+		<wp:is_sticky>0</wp:is_sticky>
+														<wp:postmeta>
+		<wp:meta_key><![CDATA[_wp_font_face_file]]></wp:meta_key>
+		<wp:meta_value><![CDATA[monospace-Italic.ttf]]></wp:meta_value>
+		</wp:postmeta>
+							</item>
+					<item>
 		<title><![CDATA[monospace;normal;300;100%;U+0-10FFFF]]></title>
 		<link>https://dimitrium.org/monospacenormal300100u0-10ffff/</link>
 		<pubDate>Fri, 04 Sep 2026 02:14:30 +0000</pubDate>
@@ -7983,36 +8016,20 @@ document.addEventListener("DOMContentLoaded", function () {
 		<guid isPermaLink="false">https://dimitrium.org/2026/09/04/footer/</guid>
 		<description></description>
 		<content:encoded><![CDATA[<!-- wp:group {"className":"main-hero","style":{"spacing":{"padding":{"top":"16px","bottom":"16px"},"blockGap":"8px"},"border":{"top":{"color":"#f7f8f826","width":"1px"},"right":[],"bottom":[],"left":[]}},"backgroundColor":"theme-3","layout":{"type":"constrained"}} -->
-<div class="wp-block-group main-hero has-theme-3-background-color has-background" style="border-top-color:#f7f8f826;border-top-width:1px;padding-top:16px;padding-bottom:16px"><!-- wp:paragraph {"className":"footer-copy-en","style":{"typography":{"textAlign":"center","fontSize":"0.9rem"},"elements":{"link":{"color":{"text":"var:preset|color|theme-2"}}}},"textColor":"theme-2"} -->
-<p class="has-text-align-center footer-copy-en has-theme-2-color has-text-color has-link-color" style="font-size:0.9rem">No, I did not bother to place the copyright text here, and yes, this is the only footer you get for now.</p>
-<!-- /wp:paragraph -->
+<div class="wp-block-group main-hero has-theme-3-background-color has-background" style="border-top-color:#f7f8f826;border-top-width:1px;padding-top:16px;padding-bottom:16px">
+<!-- wp:shortcode -->
+[dimitrium_footer_legal]
+<!-- /wp:shortcode -->
 
-<!-- wp:paragraph {"className":"footer-tagline-en","style":{"typography":{"textAlign":"center","fontSize":"2rem","fontStyle":"italic","fontWeight":"900"},"elements":{"link":{"color":{"text":"var:preset|color|theme-2"}}}},"textColor":"theme-2","fontFamily":"monospace"} -->
-<p class="has-text-align-center footer-tagline-en has-theme-2-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900">Stay frosty!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"footer-copy-sr","style":{"typography":{"textAlign":"center","fontSize":"0.9rem"},"elements":{"link":{"color":{"text":"var:preset|color|theme-2"}}}},"textColor":"theme-2"} -->
-<p class="has-text-align-center footer-copy-sr has-theme-2-color has-text-color has-link-color" style="font-size:0.9rem">Ne, nisam se potrudio da ovde stavim tekst o autorskim pravima i da, ovo je jedini footer koji za sada dobijaš.</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"footer-tagline-sr","style":{"typography":{"textAlign":"center","fontSize":"2rem","fontStyle":"italic","fontWeight":"900"},"elements":{"link":{"color":{"text":"var:preset|color|theme-2"}}}},"textColor":"theme-2","fontFamily":"monospace"} -->
-<p class="has-text-align-center footer-tagline-sr has-theme-2-color has-text-color has-link-color has-monospace-font-family" style="font-size:2rem;font-style:italic;font-weight:900">Stay frosty!</p>
-<!-- /wp:paragraph -->
-
-<!-- wp:paragraph {"className":"dimitrium-source-link","style":{"typography":{"textAlign":"center","fontSize":"0.8rem"},"elements":{"link":{"color":{"text":"var:preset|color|theme-2"}}}},"textColor":"theme-2"} -->
-<p class="has-text-align-center dimitrium-source-link has-theme-2-color has-text-color has-link-color" style="font-size:0.8rem">Source code / Izvorni kod: <a href="https://github.com/tradicije/dimitrium-site">GitHub</a> · AGPLv3</p>
-<!-- /wp:paragraph -->
-<!-- wp:paragraph {"className":"dimitrium-image-license","style":{"typography":{"textAlign":"center","fontSize":"0.8rem"},"elements":{"link":{"color":{"text":"var:preset|color|theme-2"}}}},"textColor":"theme-2"} -->
-<p class="has-text-align-center dimitrium-image-license has-theme-2-color has-text-color has-link-color" style="font-size:0.8rem">Images and music / Slike i muzika, except Nala photography / osim fotografija Nale: <a href="https://artlibre.org/licence/lal/en/">Free Art License 1.3</a> · Nala photography / fotografije Nale: <a href="https://dimitrium.org/en/noir-license/">NoIR License</a></p>
-<!-- /wp:paragraph -->
-<!-- wp:polylang/language-switcher {"show_names":true,"show_flags":false,"hide_current":false,"hide_if_no_translation":false,"className":"dimitrium-language-switcher"} /--></div>
+<!-- wp:polylang/language-switcher {"show_names":true,"show_flags":false,"hide_current":false,"hide_if_no_translation":false,"className":"dimitrium-language-switcher"} /-->
+</div>
 <!-- /wp:group -->]]></content:encoded>
 		<excerpt:encoded><![CDATA[]]></excerpt:encoded>
 		<wp:post_id>87</wp:post_id>
 		<wp:post_date><![CDATA[2026-09-04 03:08:33]]></wp:post_date>
 		<wp:post_date_gmt><![CDATA[2026-09-04 03:08:33]]></wp:post_date_gmt>
-		<wp:post_modified><![CDATA[2026-09-11 01:45:05]]></wp:post_modified>
-		<wp:post_modified_gmt><![CDATA[2026-09-11 01:45:05]]></wp:post_modified_gmt>
+		<wp:post_modified><![CDATA[2026-09-11 05:49:31]]></wp:post_modified>
+		<wp:post_modified_gmt><![CDATA[2026-09-11 05:49:31]]></wp:post_modified_gmt>
 		<wp:comment_status><![CDATA[closed]]></wp:comment_status>
 		<wp:ping_status><![CDATA[closed]]></wp:ping_status>
 		<wp:post_name><![CDATA[footer]]></wp:post_name>
